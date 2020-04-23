@@ -1,6 +1,3 @@
-CREATE DATABASE <Tviper>;
-CREATE USER 'tony'@'localhost' IDENTIFIED BY 'tony';
-GRANT ALL PRIVILEGES ON * . * TO 'database_name'@'localhost'
 #EXTM3U
 #EXTINF:-1,*NBC SPORTS
 http://ok2.se:8000/75a5F1U23pu7shuGi/60f5F1UizgDiQIuiu/170
