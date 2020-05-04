@@ -1,21 +1,3 @@
-#EXTINF:194,RESERVED
-https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
-
-#EXTINF:195,RESERVED
-https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
-
-#EXTINF:196,RESERVED
-https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
-
-#EXTINF:197,RESERVED
-https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
-
-#EXTINF:198,RESERVED
-https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
-
-
-#EXTINF:22,Disney Channel
-http://ott.artmott.com/DisneyChannel/tracks-v1a1/mono.m3u8
 
 News
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="CA" tvg-url="" group-title="News",CBC News Network
