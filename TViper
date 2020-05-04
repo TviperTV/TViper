@@ -1,44 +1,22 @@
+News
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="CA" tvg-url="" group-title="News",CBC News Network
 https://cbcnewshd-f.akamaihd.net/i/cbcnews_30@304030/index_2500_av-p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/ppMNSKT.png" tvg-country="CA" tvg-url="" group-title="",Global Calgary
 https://dfmjr9irb1dl5.cloudfront.net/out/v1/454010ff309e4963a087f5802856e346/index_1.m3u8
-#EXTINF:-1 tvg-id="Knowledge Kids-CA" tvg-name="Knowledge Kids-CA" tvg-language="English" tvg-logo="https://i.imgur.com/kdgMVOI.png" tvg-country="CA" tvg-url="http://epg.streamstv.me/epg/guide-canada.xml.gz" group-title="Kids",Knowledge Kids
-http://knstream1.azureedge.net/knlive/knlive_high.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NTV-CA_400x400.png" tvg-country="CA" tvg-url="" group-title="",NTV Newfoundland
-https://2-fss-2.streamhoster.com/pl_138/201748-1282640-1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/TeleV_1200x1200.png" tvg-country="CA" tvg-url="" group-title="",Tele-V
-https://bcsecurelivehls-i.akamaihd.net/hls/live/551061/618566855001/master.m3u8
-#EXTINF:-1 tvg-id="Shopping Channel-CA" tvg-name="Shopping Channel-CA" tvg-language="English" tvg-logo="https://i.imgur.com/FlJVD8a.png" tvg-country="CA" tvg-url="http://epg.streamstv.me/epg/guide-canada.xml.gz" group-title="Shop",The Shopping Channel
-http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/PkWndsv.png" tvg-country="CA" tvg-url="" group-title="",Toronto 360 TV
 http://toronto3.live247stream.com/toronto360/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/brxkNbw.png" tvg-country="CA" tvg-url="" group-title="",TV 16 Toronto
 http://capcobroadcaststream.in:1935/capco/tv29/playlist.m3u8
 
 
-News
-#EXTINF:-1,CA:ABC
-http://universe-ip.com:8000/2/2/4812
-#EXTINF:-1,CA:CBC
-http://universe-ip.com:8000/2/2/4020
-#EXTINF:-1,CA:CBC_NEWS
-http://universe-ip.com:8000/2/2/4809
-#EXTINF:-1,CA:CTV_News
-http://universe-ip.com:8000/2/2/3683
-#EXTINF:-1,CA:WEATHER_NETWORK_HD
-http://universe-ip.com:8000/2/2/21505
-#EXTINF:-1,UK: BBC One
-http://skyhd-iptv.com:2095/live/albertnika/SeUfzURdsV/913.m3u8
-#EXTINF:-1,UK: BBC Two
-http://skyhd-iptv.com:2095/live/albertnika/SeUfzURdsV/912.m3u8
-#EXTINF:-1,UK: CNN
-http://skyhd-iptv.com:2095/live/albertnika/SeUfzURdsV/906.m3u8
-#EXTINF:-1,UK: BBC News HD
-http://skyhd-iptv.com:2095/live/albertnika/SeUfzURdsV/914.m3u8
-#EXTINF:-1,UK: Sky News
+
 
 
 ENT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NTV-CA_400x400.png" tvg-country="CA" tvg-url="" group-title="",NTV Newfoundland
+https://2-fss-2.streamhoster.com/pl_138/201748-1282640-1/playlist.m3u8
+#EXTINF:-1 tvg-id="Knowledge Kids-CA" tvg-name="Knowledge Kids-CA" tvg-language="English" tvg-logo="https://i.imgur.com/kdgMVOI.png" tvg-country="CA" tvg-url="http://epg.streamstv.me/epg/guide-canada.xml.gz" group-title="Kids",Knowledge Kids
+http://knstream1.azureedge.net/knlive/knlive_high.m3u8
 #EXTINF:-1,CA:ABC
 http://universe-ip.com:8000/2/2/4812
 #EXTINF:-1,CA:ABC_Spark
@@ -61,7 +39,7 @@ http://universe-ip.com:8000/2/2/4815
 http://universe-ip.com:8000/2/2/4806
 #EXTINF:-1,CA:DIY_NETWORK
 http://universe-ip.com:8000/2/2/4814
-#EXTINF:-1,CA:E
+  #EXTINF:-1,CA:E
 http://universe-ip.com:8000/2/2/31943
 #EXTINF:-1,CA:Food_Network
 http://universe-ip.com:8000/2/2/4810
