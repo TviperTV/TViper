@@ -8,6 +8,7 @@ http://vvn.neoredi.com/iptv/ch3523?code=170140343781561&key=54617
 http://vvn.neoredi.com/iptv/ch3524?code=170140343781561&key=24582
 #EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3526.png",TSN 5 HD
 http://vvn.neoredi.com/iptv/ch3526?code=170140343781561&key=38701
+
 News
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="CA" tvg-url="" group-title="News",CBC News Network
 https://cbcnewshd-f.akamaihd.net/i/cbcnews_30@304030/index_2500_av-p.m3u8
