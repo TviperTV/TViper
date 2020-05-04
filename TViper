@@ -1,3 +1,4 @@
+#EXTINF:199,Live Event - Coronavirus Coverage
 
 News
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="CA" tvg-url="" group-title="News",CBC News Network
@@ -10,6 +11,10 @@ https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 http://210.210.155.35/session/1f4b9814-7ed5-11e8-aa50-c81f66f89318/uq2663/h/h03/index1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zGUrIlJ.png" group-title="USA",NBC (WTVJ) (Opt-1)
 http://161.0.157.51/PLTV/88888888/224/3221227040/index.m3u8?fluxustv.m3u8
+#EXTINF:36,BBC World News
+http://220.158.149.14:9999/live/TV00000000000000000112@HHZT;LIVE
+#EXTINF:37,Sky News
+http://skydvn-sn-mobile-prod.skydvn.com/skynews/1404/03.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/16/Newsy_2015_Logo.png" group-title="USA",Newsy 
 https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8?ad=newsyweb
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/86/WBRZ_Logo_2013.png" group-title="USA LOCAL",Baton Rouge: WBRZ 2 Plus
@@ -40,9 +45,24 @@ http://svc-lvanvato-cxtv-kiro.cmgvideo.com/kiro/1864k/index.m3u8?fluxustv.m3u8
 http://api.new.livestream.com/accounts/9486768/events/3245401/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qIeREW7.png" group-title="USA LOCAL",Toledo: WTOL 11 News
 http://api.new.livestream.com/accounts/12003465/events/3786544/live.m3u8
-
+#EXTINF:79,Fox Sports News
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master640x360.m3u8
 
 ENT
+#EXTINF:97,Fashion Television
+http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
+#EXTINF:115,Life TV
+http://59c3ec70cfde0.streamlock.net/channel_6/channel6/chunklist.m3u8
+#EXTINF:126,People TV
+https://a.jsrdn.com/broadcast/b5d2k0x/playlist360p.m3u8
+#EXTINF:127,ET Live
+https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest_81.m3u8
+#EXTINF:181,OAN Encore
+https://oneamericanews-roku-us.amagi.tv/hls/amagi_hls_data_oneameric-oneamericanews/CDN/512x288_875600/index.m3u8
+#EXTINF:128,TMZ
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1234A-tmz/CDN/640x360_440000/index.m3u8
+#EXTINF:113,INC TV
+http://churchrus2-lh.akamaihd.net/i/coctesting_1@57550/index_564_av-b.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NTV-CA_400x400.png" tvg-country="CA" tvg-url="" group-title="",NTV Newfoundland
 https://2-fss-2.streamhoster.com/pl_138/201748-1282640-1/playlist.m3u8
 #EXTINF:-1 tvg-id="Knowledge Kids-CA" tvg-name="Knowledge Kids-CA" tvg-language="English" tvg-logo="https://i.imgur.com/kdgMVOI.png" tvg-country="CA" tvg-url="http://epg.streamstv.me/epg/guide-canada.xml.gz" group-title="Kids",Knowledge Kids
@@ -89,6 +109,11 @@ http://ott.artmott.com/ID/tracks-v1a1/mono.m3u8
 https://streamidvo.multitvsolution.in/live/TLC_HD-a/p3.m3u8
 #EXTINF:22,Disney Channel
 http://ott.artmott.com/DisneyChannel/tracks-v1a1/mono.m3u8
+#EXTINF:71,E!
+http://ott.artmott.com/E!/tracks-v1a1/mono.m3u8
+#EXTINF:72,Dove Channel
+https://a.jsrdn.com/broadcast/76yg4erz/c.m3u8
+
 
 EDU
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="USA",TVS Hollywood History
@@ -136,6 +161,10 @@ https://trinity-lh.akamaihd.net/i/ttmain_d@82127/index_3128_av-p.m3u8?fluxustv.m
 
 
 Movies
+#EXTINF:69,Star Movies
+http://livecdnh1.tvanywhere.ae/hls/star_movies/04.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YgRz2Cc.png" group-title="USA",Movie Kingdom
 https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvRObyp.png" group-title="USA",The Works
