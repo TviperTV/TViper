@@ -1,9 +1,7 @@
-#EXTINF:-1,US_FXM HD
-http://41.226.0.142:8000/ajude3046/p5h4yy/12482
-
-#EXTINF:-1,CNN
-http://iptv.satplex.co.uk:8080/ola3/xS7DXUc9kh/74
 News
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GRLOlNT.png" group-title="USA",Kids Central
+http://nrpus.bozztv.com/36bay2/gusa-kidcentral/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="CA" tvg-url="" group-title="News",CBC News Network
 https://cbcnewshd-f.akamaihd.net/i/cbcnews_30@304030/index_2500_av-p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/ppMNSKT.png" tvg-country="CA" tvg-url="" group-title="",Global Calgary
