@@ -4,9 +4,6 @@ https://cbcnewshd-f.akamaihd.net/i/cbcnews_30@304030/index_2500_av-p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/ppMNSKT.png" tvg-country="CA" tvg-url="" group-title="",Global Calgary
 https://dfmjr9irb1dl5.cloudfront.net/out/v1/454010ff309e4963a087f5802856e346/index_1.m3u8
 #EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:12
-#EXT-X-MEDIA-SEQUENCE:105814
 #EXTINF:9.409400,
 #EXT-X-PROGRAM-DATE-TIME:2020-05-04T06:55:48.985-0700
 knlive_high_105814_1588600551.ts
