@@ -15,3 +15,194 @@ http://toronto3.live247stream.com/toronto360/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/brxkNbw.png" tvg-country="CA" tvg-url="" group-title="",TV 16 Toronto
 http://capcobroadcaststream.in:1935/capco/tv29/playlist.m3u8
 
+
+News
+#EXTINF:-1,CA:ABC
+http://universe-ip.com:8000/2/2/4812
+#EXTINF:-1,CA:CBC
+http://universe-ip.com:8000/2/2/4020
+#EXTINF:-1,CA:CBC_NEWS
+http://universe-ip.com:8000/2/2/4809
+#EXTINF:-1,CA:CTV_News
+http://universe-ip.com:8000/2/2/3683
+#EXTINF:-1,CA:WEATHER_NETWORK_HD
+http://universe-ip.com:8000/2/2/21505
+#EXTINF:-1,UK: BBC One
+http://skyhd-iptv.com:2095/live/albertnika/SeUfzURdsV/913.m3u8
+#EXTINF:-1,UK: BBC Two
+http://skyhd-iptv.com:2095/live/albertnika/SeUfzURdsV/912.m3u8
+#EXTINF:-1,UK: CNN
+http://skyhd-iptv.com:2095/live/albertnika/SeUfzURdsV/906.m3u8
+#EXTINF:-1,UK: BBC News HD
+http://skyhd-iptv.com:2095/live/albertnika/SeUfzURdsV/914.m3u8
+#EXTINF:-1,UK: Sky News
+
+
+ENT
+#EXTINF:-1,CA:ABC
+http://universe-ip.com:8000/2/2/4812
+#EXTINF:-1,CA:ABC_Spark
+http://universe-ip.com:8000/2/2/3686
+#EXTINF:-1,CA:CBS
+http://universe-ip.com:8000/2/2/4018
+#EXTINF:-1,CA:CHCH
+http://universe-ip.com:8000/2/2/4785
+#EXTINF:-1,CA:Cinemax_MoreMax
+http://universe-ip.com:8000/2/2/4808
+#EXTINF:-1,CA:CityTV_Vancouver
+http://universe-ip.com:8000/2/2/3684
+#EXTINF:-1,CA:CARTOON_NETWORK
+http://universe-ip.com:8000/2/2/31951
+#EXTINF:-1,CA:Disney_HD
+http://universe-ip.com:8000/2/2/4026
+#EXTINF:-1,CA:DISNEY_JR
+http://universe-ip.com:8000/2/2/4815
+#EXTINF:-1,CA:DISNEY_XD
+http://universe-ip.com:8000/2/2/4806
+#EXTINF:-1,CA:DIY_NETWORK
+http://universe-ip.com:8000/2/2/4814
+#EXTINF:-1,CA:E
+http://universe-ip.com:8000/2/2/31943
+#EXTINF:-1,CA:Food_Network
+http://universe-ip.com:8000/2/2/4810
+#EXTINF:-1,CA:Fox
+http://universe-ip.com:8000/2/2/4011
+#EXTINF:-1,CA:FX
+http://universe-ip.com:8000/2/2/4811
+#EXTINF:-1,CA:FXX
+http://universe-ip.com:8000/2/2/4818
+#EXTINF:-1,CA:Global
+http://universe-ip.com:8000/2/2/4023
+#EXTINF:-1,CA:Global_HD
+http://universe-ip.com:8000/2/2/3681
+#EXTINF:-1,CA:Golf
+http://universe-ip.com:8000/2/2/4012
+#EXTINF:-1,CA:HBO_1
+http://universe-ip.com:8000/2/2/4010
+#EXTINF:-1,CA:HBO_2
+http://universe-ip.com:8000/2/2/4009
+#EXTINF:-1,CA:INVESTIGATION_DISCOVERY
+http://universe-ip.com:8000/2/2/4025
+#EXTINF:-1,CA:Lifetime_HD
+http://universe-ip.com:8000/2/2/21520
+#EXTINF:-1,CA:MTV
+http://universe-ip.com:8000/2/2/4006
+#EXTINF:-1,CA:OMNI_1
+http://universe-ip.com:8000/2/2/31950
+#EXTINF:-1,CA:OMNI_2
+http://universe-ip.com:8000/2/2/31949
+#EXTINF:-1,CA:OMNI_BC
+http://universe-ip.com:8000/2/2/31948
+#EXTINF:-1,CA:THE_FAMILY_CHANNEL
+http://universe-ip.com:8000/2/2/21534
+#EXTINF:-1,CA:TLC
+http://universe-ip.com:8000/2/2/4823
+#EXTINF:-1,CA:TREEHOUSE_HD
+http://universe-ip.com:8000/2/2/21532
+#EXTINF:-1,CA:Tru_TV_HD
+http://universe-ip.com:8000/2/2/3679
+#EXTINF:-1,CA:YTV
+http://universe-ip.com:8000/2/2/21533
+#EXTINF:-1,UK: iTV HD
+http://skyhd-iptv.com:2095/live/albertnika/SeUfzURdsV/900.m3u8
+#EXTINF:-1,UK: iTV2 HD
+http://skyhd-iptv.com:2095/live/albertnika/SeUfzURdsV/899.m3u8
+#EXTINF:-1,UK: iTV3 HD
+http://skyhd-iptv.com:2095/live/albertnika/SeUfzURdsV/898.m3u8
+#EXTINF:-1,UK: iTV4 HD
+http://skyhd-iptv.com:2095/live/albertnika/SeUfzURdsV/897.m3u8
+#EXTINF:-1,UK: CHANNEL 4 HD
+http://skyhd-iptv.com:2095/live/albertnika/SeUfzURdsV/908.m3u8
+#EXTINF:-1,UK: CHANNEL 5 HD
+http://skyhd-iptv.com:2095/live/albertnika/SeUfzURdsV/907.m3u8
+
+
+
+
+EDU
+#EXTINF:-1,CA:ANIMAL_PLANET_HD
+http://universe-ip.com:8000/2/2/21525
+#EXTINF:-1,CA:HISTORY
+http://universe-ip.com:8000/2/2/4816
+#EXTINF:-1,CA:NAT_GEO
+http://universe-ip.com:8000/2/2/4821
+#EXTINF:-1,CA:NAT_GEO_WILD
+http://universe-ip.com:8000/2/2/4822
+
+
+
+SPORTS
+#EXTINF:-1,CA:NBA_TV
+http://universe-ip.com:8000/2/2/4005
+#EXTINF:-1,CA:SportsNet_360
+http://universe-ip.com:8000/2/2/4798
+#EXTINF:-1,CA:SportsNet_East
+http://universe-ip.com:8000/2/2/4797
+#EXTINF:-1,CA:SportsNet_One
+http://universe-ip.com:8000/2/2/4800
+#EXTINF:-1,CA:SportsNet_Ontario
+http://universe-ip.com:8000/2/2/4799
+#EXTINF:-1,CA:SportsNet_Pacific
+http://universe-ip.com:8000/2/2/4805
+#EXTINF:-1,CA:SportsNet_West
+http://universe-ip.com:8000/2/2/4801
+#EXTINF:-1,CA:SportsNet_World
+http://universe-ip.com:8000/2/2/4802
+#EXTINF:-1,CA:TSN_1
+http://universe-ip.com:8000/2/2/4791
+#EXTINF:-1,CA:TSN_2
+http://universe-ip.com:8000/2/2/4792
+#EXTINF:-1,CA:TSN_3
+http://universe-ip.com:8000/2/2/4793
+#EXTINF:-1,CA:TSN_4
+http://universe-ip.com:8000/2/2/4794
+#EXTINF:-1,CA:TSN_5
+http://universe-ip.com:8000/2/2/4795
+
+
+
+
+
+PODCAST
+
+
+
+
+
+
+
+
+Movies
+#EXTINF:-1,UK: ===Sky UK Movies===
+http://skyhd-iptv.com:2095/live/albertnika/SeUfzURdsV/915.m3u8
+#EXTINF:-1,UK: Sky Movies Family
+http://skyhd-iptv.com:2095/live/albertnika/SeUfzURdsV/881.m3u8
+#EXTINF:-1,UK: Sky Cinema Select
+http://skyhd-iptv.com:2095/live/albertnika/SeUfzURdsV/882.m3u8
+#EXTINF:-1,UK: Sky Cinema Sci Fi & Horror
+http://skyhd-iptv.com:2095/live/albertnika/SeUfzURdsV/883.m3u8
+#EXTINF:-1,UK: Sky Cinema Premiere
+http://skyhd-iptv.com:2095/live/albertnika/SeUfzURdsV/884.m3u8
+#EXTINF:-1,UK: Sky Cinema Hits
+http://skyhd-iptv.com:2095/live/albertnika/SeUfzURdsV/885.m3u8
+#EXTINF:-1,UK: Sky Cinema Greats
+http://skyhd-iptv.com:2095/live/albertnika/SeUfzURdsV/886.m3u8
+#EXTINF:-1,UK: Sky Cinema Drama & Romance
+http://skyhd-iptv.com:2095/live/albertnika/SeUfzURdsV/887.m3u8
+#EXTINF:-1,UK: Sky Cinema Disney
+http://skyhd-iptv.com:2095/live/albertnika/SeUfzURdsV/888.m3u8
+#EXTINF:-1,UK: Sky Cinema Crime & Thriller
+http://skyhd-iptv.com:2095/live/albertnika/SeUfzURdsV/889.m3u8
+#EXTINF:-1,UK: Sky Cinema Action & Adventure
+http://skyhd-iptv.com:2095/live/albertnika/SeUfzURdsV/891.m3u8
+
+
+
+
+
+
+TV SHOWS
+
+
+
+
