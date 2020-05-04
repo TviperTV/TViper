@@ -11,80 +11,26 @@ https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 http://210.210.155.35/session/1f4b9814-7ed5-11e8-aa50-c81f66f89318/uq2663/h/h03/index1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zGUrIlJ.png" group-title="USA",NBC (WTVJ) (Opt-1)
 http://161.0.157.51/PLTV/88888888/224/3221227040/index.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Newsmax_TV_Logo.png" group-title="USA",Newsmax TV
-http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/16/Newsy_2015_Logo.png" group-title="USA",Newsy 
 https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8?ad=newsyweb
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/86/WBRZ_Logo_2013.png" group-title="USA LOCAL",Baton Rouge: WBRZ 2 Plus
 http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5MfhbGP.png" group-title="USA LOCAL",Boston: 7News (Opt-1)
-https://bcsecurelivehls-i.akamaihd.net/hls/live/598046/4744899807001_1/livestream/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5MfhbGP.png" group-title="USA LOCAL",Boston: 7News (Opt-2)
-https://bcsecurelivehls-i.akamaihd.net/hls/live/598046/4744899807001_1/livestream/master_540-57.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VyddAhr.png" group-title="USA LOCAL",Boston: Fox News 25 (Opt-1)
-http://svc-lvanvato-cxtv-wfxt.cmgvideo.com/wfxt/2564k/index.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VyddAhr.png" group-title="USA LOCAL",Boston: Fox News 25 (Opt-2)
 http://api.new.livestream.com/accounts/22998687/events/6864865/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YO7qaMo.png" group-title="USA LOCAL",The Bronx: News 12
-http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12BX
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AoCX1T1.png" group-title="USA LOCAL",Charlotte: WCNC Breaking News
-http://wcnc-lh.akamaihd.net/i/WCNC_Breaking_1@195112/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/g29f00A.png" group-title="USA LOCAL",Charlotte: WCCB News
 http://api.new.livestream.com/accounts/8522553/events/live/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GSdRkIw.png" group-title="USA LOCAL",Chattanooga: ABC 9 News
-http://wxintribune-lh.akamaihd.net/i/WXINTribune_1@120151/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JmlSD7q.png" group-title="USA LOCAL",Chicago: WGN 9 News
 http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AqYJ4Dg.png" group-title="USA LOCAL",Cincinnati: Fox 19 News
 http://api.new.livestream.com/accounts/12136532/events/live/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YO7qaMo.png" group-title="USA LOCAL",Connecticut: News 12
-http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12CT_WEST
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8zebw66.png" group-title="USA LOCAL",Des Moines: WHO 13 Weather
-http://whotribune-lh.akamaihd.net/i/WHOTribune_1@198423/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8sQ5mfL.png" group-title="USA LOCAL",Detroit: ABC 7 News
-https://content-auso2.uplynk.com/channel/9c9e4e410b5a471391c116166d8c010e.m3u8?ad=live
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8wSctnw.png" group-title="USA LOCAL",Georgia: WALB 10 News
-https://player-api.new.livestream.com/accounts/11279058/events/3645614/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lyak6sr.png" group-title="USA LOCAL",Gulfport: WXXV 25 News
-http://api.new.livestream.com/accounts/22998687/events/6864865/live.m3u8
- #EXTINF:-1 tvg-logo="https://i.imgur.com/3czIO1P.png" group-title="USA LOCAL",Hartford: WVIT 30 News
-http://wvitlive-f.akamaihd.net/i/wvitb2_1@71164/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YO7qaMo.png" group-title="USA LOCAL",Hudson Valley: News 12
-http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12HV
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lAtiWkI.png" group-title="USA LOCAL",Indianapolis: CBS 4 News
 http://wttv-lh.akamaihd.net:80/i/WTTVBreaking_1@333494/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LW3Dfbt.png" group-title="USA LOCAL",Jacksonville: WJAX Action News (Opt-1)
 http://svc-lvanvato-cxtv-wjax.cmgvideo.com/wjax/2564k/index.m3u8?fluxustv.m3u8
- #EXTINF:-1 tvg-logo="https://i.imgur.com/LW3Dfbt.png" group-title="USA LOCAL",Jacksonville: WJAX Action News (Opt-2)
-https://svc-lvanvato-cxtv-wjax.cmgvideo.com/wjax/564k/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QbkW7zY.png" group-title="USA LOCAL",Las Vegas: 13 Action News
-https://content.uplynk.com/channel/39919d3f7a074eefa8bf579214e952f9.m3u8?ad=live
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YO7qaMo.png" group-title="USA LOCAL",Long Island: News 12 (Traffic)
-http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12TW_LI
- #EXTINF:-1 tvg-logo="https://i.imgur.com/YO7qaMo.png" group-title="USA LOCAL",Long Island: News 12
-http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12LI_WEST
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qev72Gl.png" group-title="USA LOCAL",Los Angeles: CBS News
-https://dai.google.com/linear/hls/event/TxSbNMu4R5anKrjV02VOBg/master.m3u8?iu=/4128/CBS.LA.OTT
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qOO32m6.png" group-title="USA LOCAL",Madison: NBC 15 News
-http://ad-playlistserver.aws.syncbak.com/playlist/899088/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsImtpZCI6IkdyYXkyMDE2MDgyOSIsInN1YiI6IioiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3OTAzNjkxMDUsImlzcyI6IldMUyIsIm1kNSI6ImJhZTU4Y2ZlZWM2NmU1MjZkNmVjZmE1YmUzNTQxMzQ4IiwibWlkIjoiODk5MDg4In0.vBWkHmqS3z3dpq8UWfbk4wFd-vQlj6B0up-rpt7X_7Q
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5Pwso5N.png" group-title="USA LOCAL",Minnesota: CBS News
-http://cbsn-min-cedexis.cbsnstream.cbsnews.com/out/v1/76518f06941246ba810c8d175600bf74/master_6.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Fx4yQRv.png" group-title="USA LOCAL",Monroe: KNOE 8 News
-https://dai2-playlistserver.aws.syncbak.com/playlist/893553/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsImtpZCI6IkdyYXkyMDE2MDgyOSIsInN1YiI6IioiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3OTAzNjcyMzUsImlzcyI6IldMUyIsIm1kNSI6IjM5YWE1ZjczMTgyYTg0NThiY2QzOTcxMjQzYzVhZDc1IiwibWlkIjoiODkzNTUzIn0.v4oZTq8PnYSg_UAfc_nt9tO2ThQy44A-F8-colQ2Ijg
-#EXTINF:-1 tvg-logo="https://i.imgur.com/62ltnfY.png" group-title="USA LOCAL",New Orleans: Fox 8 News
-http://api.new.livestream.com/accounts/10891792/events/3578864/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9xsosXt.png" group-title="USA LOCAL",New York: CBS News
-https://www.cbsnews.com/common/video/cbsn-ny-prod.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TTrg1Rf.png" group-title="USA LOCAL",Omaha: 3News Now
 http://content.uplynk.com/channel/328d1434fb51476cb6567c74d5b2cc70.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/05FdDhc.png" group-title="USA LOCAL",Palm Springs: News Channel 3
 http://api.new.livestream.com/accounts/20847880/events/6053226/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/guCZLoL.png" group-title="USA LOCAL",Philadelphia: CBS News
-http://cbsn-phi-cedexis.cbsnstream.cbsnews.com/out/v1/5c9ad3e215984b0e9ad845b335216b72/master_6.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xTeyO06.png" group-title="USA LOCAL",Philadelphia: NBC 10 News
-http://wcaulive-f.akamaihd.net/i/wcaua1_1@13991/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/izKPQZo.png" group-title="USA LOCAL",Phoenix: Fox 10 News
-http://api.new.livestream.com/accounts/1859803/events/1648429/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NLPTfgk.png" group-title="USA LOCAL",Sacramento: Fox 40 News
 http://api.new.livestream.com/accounts/9486720/events/3245377/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ddhH0VN.png" group-title="USA LOCAL",San Diego: Fox 5 News
@@ -95,10 +41,7 @@ http://svc-lvanvato-cxtv-kiro.cmgvideo.com/kiro/1864k/index.m3u8?fluxustv.m3u8
 http://api.new.livestream.com/accounts/9486768/events/3245401/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qIeREW7.png" group-title="USA LOCAL",Toledo: WTOL 11 News
 http://api.new.livestream.com/accounts/12003465/events/3786544/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/t7HFTyE.png" group-title="USA LOCAL",Washington DC: CBS 9 News
-https://wusa-lh.akamaihd.net/i/WUSA_Breaking_1@98930/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qEx2bMU.png" group-title="USA LOCAL",Washington DC: NBC 4 News
-https://wrclive-f.akamaihd.net/i/wrcb1_1@46880/master.m3u8
+
 
 ENT
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NTV-CA_400x400.png" tvg-country="CA" tvg-url="" group-title="",NTV Newfoundland
