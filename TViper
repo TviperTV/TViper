@@ -1,5 +1,4 @@
-#EXTINF:0 tvg-name="A&E" tvg-language="English" tvg-country="US" tvg-id="A&E" tvg-logo="http://canigetawordin.com/wp-content/uploads/2013/12/photo_320x240_ae.jpg" group-title="Top10",A&E (Top10) (US) (English)
-http://167.114.102.27/live/fe9X_ilamz8_tLKRQ38sLw/1455736112/bb38d9048b7b91706264169a031f32a4
+#EXTINF:-1,MTV 24 NL http://cdng.pubcdn.tn/iptv/ch3573?code=1701341723961808 #EXTINF:-1,MTV Brand New NL http://cdng.pubcdn.tn/iptv/ch3587?code=1701341723961808
 News
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="CA" tvg-url="" group-title="News",CBC News Network
 https://cbcnewshd-f.akamaihd.net/i/cbcnews_30@304030/index_2500_av-p.m3u8
