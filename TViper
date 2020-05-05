@@ -1,25 +1,5 @@
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/3230fdb1-1bdd-4155-a842-d9461066c4a4_m.jpg" group-title="Filmes/Series", HBO
-http://proxyts.canais.ink:8080/a/hls1/hbo.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_hbo-2_m.png" group-title="Filmes/Series", HBO 2
-http://proxyts.canais.ink:8080/a/hls1/hbo2.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.tvplus.com.br/images/logos/MXE.png" group-title="Filmes/Series", HBO Mundi
-http://proxyts.canais.ink:8080/a/hls1/max.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.tvplus.com.br/images/logos/MAX.png" group-title="Filmes/Series", HBO Pop
-http://proxyts.canais.ink:8080/a/hls1/maxup.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.tvplus.com.br/images/logos/MAP.png" group-title="Filmes/Series", HBO Xtreme
-http://proxyts.canais.ink:8080/a/hls1/maxprime.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_hbo-signature-1_m.png" group-title="Filmes/Series", HBO Signature
-http://proxyts.canais.ink:8080/a/hls1/hbosignature.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/hn_hbo-plus-mexico_m.png" group-title="Filmes/Series", HBO Plus
-http://proxyts.canais.ink:8080/a/hls1/hboplus.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_hbo-family-hd_m.png" group-title="Filmes/Series", HBO Family
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_a-e_m.png" group-title="Filmes/Series", AeE
+http://proxyts.canais.ink:8080/a/hls1/aie.m3u8
 
 
 
