@@ -1,26 +1,4 @@
-#EXTINF:-1,A&E HD
-http://maxptv.ddns.net:25461/live/MA020/0706/231.ts
-
-#EXTINF:-1,PPV 1 EN
-http://server.iptvportugal.tv:8010/Patrick/123456/14119
-#EXTINF:-1,PPV 2 EN
-http://server.iptvportugal.tv:8010/Patrick/123456/14121
-#EXTINF:-1,PPV 5 EN
-http://server.iptvportugal.tv:8010/Patrick/123456/14127
-#EXTINF:-1,US: A&E FHD
-http://mahs.work:80/0rk7azufRR/kva8UgbJiy/41030
-
-
-
-
-
-#EXTINF:-1,TSN 1
-rtmp://$OPT:rtmp-raw=rtmp://31.220.0.104:1935/live playpath=tsn1x live=1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z timeout=15
-#EXTINF:-1,TSN 2
-rtmp://$OPT:rtmp-raw=rtmp://95.168.199.245:1935/live playpath=tsn2x live=1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z timeout=15
-
-
-
+http://123tvnow.com/watch/ae/
 #EXTINF:199,Live Event - Coronavirus Coverage
 https://live.foxnews.com/4cd873537d834444ac8f882831463889/us-east-1/694940094001/playlist.m3u8
 News
