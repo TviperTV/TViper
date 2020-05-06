@@ -1,5 +1,10 @@
-#EXTINF:-1 tvg-id="A&E HD***" tvg-name="A&E HD***" tvg-logo="https://imgur.com/ygCAVPo.png" group-title="CANAIS FILMES/SERIES - BR",A&E HD***
-http://data.m2pj.ml:80/Barreto/123456/29823
+#EXTINF:0,CineStar TV 1
+http://mobiletv2serbia.orion.rs:1935/cinestartv/tracks-v1a1/mono.m3u8?md5=F9zt94pBvac9jY1Y1nXjGA&expires=1588789156
+#EXTINF:0,CineStar TV Action
+http://mobiletv2serbia.orion.rs:1935/cinestarat/tracks-v1a1/mono.m3u8?md5=B2yIdpeCFiCJxP3NXKEKvg&expires=1588789156
+#EXTINF:0,Disney Junior
+http://mobiletv2serbia.orion.rs:1935/disneyjunior/tracks-v1a1/mono.m3u8?md5=CChDU3T9IZ2MGgiBbFteyw&expires=1588789156
+
 #EXTINF:199,Live Event - Coronavirus Coverage
 https://live.foxnews.com/4cd873537d834444ac8f882831463889/us-east-1/694940094001/playlist.m3u8
 News
