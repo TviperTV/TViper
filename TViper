@@ -61,7 +61,7 @@ ENT
 http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
 #EXTINF:126,People TV
 https://a.jsrdn.com/broadcast/b5d2k0x/playlist360p.m3u8
-#EXTINF:127,ET Live
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo=127,ET Live
 https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest_81.m3u8
 #EXTINF:181,OAN Encore
 https://oneamericanews-roku-us.amagi.tv/hls/amagi_hls_data_oneameric-oneamericanews/CDN/512x288_875600/index.m3u8
