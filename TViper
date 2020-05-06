@@ -1,4 +1,5 @@
-http://123tvnow.com/watch/ae/
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="CA" tvg-url="" group-title="ENT",A&E
+http://123tvnow.com/watch/ae/.m3u8
 #EXTINF:199,Live Event - Coronavirus Coverage
 https://live.foxnews.com/4cd873537d834444ac8f882831463889/us-east-1/694940094001/playlist.m3u8
 News
