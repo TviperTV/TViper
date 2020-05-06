@@ -136,7 +136,6 @@ http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
 http://livecdnh3.tvanywhere.ae/hls/docubox/03.m3u8
 #EXTINF:53,Animal Planet
 http://ott.artmott.com/AnimalPlanet/tracks-v1a1/mono.m3u8
-
 SPORTS
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9lYz3No.png" group-title="Sports",MMA Junkie
 http://a.jsrdn.com/broadcast/80f6ba72c8/+0000/high/c.m3u8
