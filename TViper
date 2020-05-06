@@ -1,25 +1,3 @@
-#EXTINF:-1 tvg-logo="" group-title="SPORTS",Egg Network
-https://vcdnjt.useetv.com/joss/14/egg/.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS",Bein Sport 1
-https://vcdnjt.useetv.com/joss/15/bein1/.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS",Bein Sport 2
-https://vcdnjt.useetv.com/joss/15/bein2/.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS",Fox Sport 1
-https://vcdnjt.useetv.com/joss/15/foxsport1/.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS",Fox Sport 2
-https://vcdnjt.useetv.com/joss/15/foxsport2/.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS",Fox Sport 3
-https://vcdnjt.useetv.com/joss/15/foxsport3/.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS",Useesport
-https://vcdnjt.useetv.com/joss/15/useesport/.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS",Useesport 2
-https://vcdnjt.useetv.com/joss/15/useesports2/.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS",Champions 1
-https://vcdnjt.useetv.com/joss/15/champion1/.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS",Champions 2
-https://vcdnjt.useetv.com/joss/15/champion2/.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS",Champions 3
-https://vod.awanputih.info/baru/djastv/champion3.m3u8
 
 #EXTINF:199,Live Event - Coronavirus Coverage
 https://live.foxnews.com/4cd873537d834444ac8f882831463889/us-east-1/694940094001/playlist.m3u8
