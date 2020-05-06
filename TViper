@@ -1,5 +1,9 @@
+
+#EXTINF:-1,HBO 
 http://190.2.142.13:25461/live/primera_android/1122334455/285.ts #EXTINF:-1,HBO 
+#EXTINF:-1,HBO 2 
 http://190.2.142.13:25461/live/primera_android/1122334455/366.ts #EXTINF:-1,HBO 2 
+#EXTINF:-1,HBO 3
 http://190.2.142.13:25461/live/primera_android/1122334455/365.ts #EXTINF:-1,HBO 3
 
 #EXTINF:-1,CA: A&E
