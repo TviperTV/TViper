@@ -1,10 +1,193 @@
 
-#EXTINF:-1,HBO 
-http://190.2.142.13:25461/live/primera_android/1122334455/285.ts #EXTINF:-1,HBO 
-#EXTINF:-1,HBO 2 
-http://190.2.142.13:25461/live/primera_android/1122334455/366.ts #EXTINF:-1,HBO 2 
-#EXTINF:-1,HBO 3
-http://190.2.142.13:25461/live/primera_android/1122334455/365.ts #EXTINF:-1,HBO 3
+#EXTINF:0,BEIN SPORT HD1
+http://bit.ly/1DIYT9z
+#EXTINF:0,BEIN SPORT HD2
+http://bit.ly/1gg44Je
+#EXTINF:0,BEIN SPORT HD3
+http://bit.ly/1LNxVpk
+#EXTINF:0,BEIN SPORT HD4
+http://bit.ly/1InbBvD
+#EXTINF:0,BEIN SPORT HD5
+http://bit.ly/1MsnRBp
+#EXTINF:0,BEIN SPORT HD6
+http://bit.ly/1MsnV3Y
+#EXTINF:0,BEIN SPORT HD7
+http://bit.ly/1KtviFX
+#EXTINF:0,BEIN SPORT HD9
+http://bit.ly/1InbJeP
+#EXTINF:0,BEIN SPORT HD10
+http://bit.ly/1OKLQL9
+#EXTINF:0,BEIN SPORT HD11
+http://bit.ly/1ettAc1
+#EXTINF:0,BEIN SPORT HD12
+http://bit.ly/1gg4Iqj
+#EXTINF:0,BEIN SPORT HD12
+http://bit.ly/1eU81le
+#EXTINF:0,BEIN SPORT HD14
+http://bit.ly/1D1Y80K
+#EXTINF:0,BEIN SPORT HD15
+http://bit.ly/1ettMbf
+#EXTINF:0,SKY SPORT HD2
+http://bit.ly/1gb6VTe
+#EXTINF:0,SKY SPORT HD3
+http://bit.ly/1KRMcyu
+#EXTINF:0,SKY SPORT HD4
+http://bit.ly/1SQyenw
+#EXTINF:0,SKY SPORT HD5
+http://bit.ly/1MNKpO0
+#EXTINF:0,BT SPORT HD1
+http://bit.ly/1MNKqRW
+#EXTINF:0,BT SPORT HD2
+http://bit.ly/1MNKrFF
+#EXTINF:0,PREMIER CALCIO
+http://bit.ly/1MRGZGN
+#EXTINF:0,SKY SPORT 24
+http://bit.ly/1JKAClv
+#EXTINF:0,FOX SPORT HD
+http://bit.ly/1IBtNYY
+#EXTINF:0,SKY SPORT HD
+http://bit.ly/1KtLbz8
+#EXTINF:0,BT SPORT HD1
+http://bit.ly/1MvMI8m
+#EXTINF:0,SETANTA SPORT HD
+http://bit.ly/1U28xNX
+#EXTINF:0,MOTORS TV
+http://bit.ly/1I4Fbaa
+#EXTINF:0,EUROSPORT
+http://bit.ly/1S7pMQj
+#EXTINF:0,TELL SPORT
+http://bit.ly/1Ktw7yO
+#EXTINF:0,EUROSPORT HD1
+http://bit.ly/1IpzkQu
+#EXTINF:0,SPORT TV PORTUGAL1
+http://bit.ly/1U28Fgu
+#EXTINF:0,SPORT TV PORTUGAL2
+http://bit.ly/1MRHjW6
+#EXTINF:0,SPORT TV PORTUGAL3
+http://bit.ly/1JpyrIj
+#EXTINF:0,SPORT TV PORTUGAL 4
+http://bit.ly/1etuyVV
+#EXTINF:0,SPORT TV PORTUGAL5
+http://bit.ly/1HUM5kg
+#EXTINF:0,EUROSPORT HD2
+http://bit.ly/1D1YXX8
+#EXTINF:0,CANAL+GOLF
+http://bit.ly/1I4Fxh4
+#EXTINF:0,CANAL+FOTBALL
+http://bit.ly/1MRHy3s
+#EXTINF:0,BEIN SPORT 1FR
+http://bit.ly/1D1Z6tS
+#EXTINF:0,BEIN SPORT 2FR
+http://bit.ly/1VIVMcV
+#EXTINF:0,ARENA SPORT 3
+http://bit.ly/1JpyMLg
+#EXTINF:0,ARENA SPORT 4
+http://bit.ly/1D5EKPX
+#EXTINF:0,ARENA SPORT 1
+http://bit.ly/1Msoj2h
+#EXTINF:0,ARENA SPORT 2
+http://bit.ly/1gg6d7R
+#EXTINF:0,MOVISTAR
+http://bit.ly/1InczrL
+#EXTINF:0,EUROSPORT BRITISH
+http://bit.ly/1I4FQsc
+#EXTINF:0,SKY SPORT CALCIO HD1
+http://bit.ly/1etvdqm
+#EXTINF:0,SPORTING TV
+http://bit.ly/1LNC3pn
+#EXTINF:0,SPORT VEOTBAL
+http://bit.ly/1D5EZKP
+#EXTINF:0,SUPER SPORT HD1
+http://bit.ly/1h7ph8k
+#EXTINF:0,SUPER SPORT HD2
+http://bit.ly/1OQlpUp
+#EXTINF:0,SUPER SPORT HD3
+http://bit.ly/1I3WTgh
+#EXTINF:0,SUPER SPORT HD4
+http://bit.ly/1LSLeDl
+#EXTINF:0,FOX SPORT USA
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/66.m3u8
+#EXTINF:0,SPORT USA1
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/68.m3u8
+#EXTINF:0,NBC GOLF USA
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/67.m3u8
+#EXTINF:0,SPORT USA2 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/69.m3u8
+#EXTINF:0,NBA USA
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/70.m3u8
+#EXTINF:0,NBC SPORT
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/73.m3u8
+#EXTINF: -1, ESPN LatinoamÈrica
+http://iptvmx.ddns.net/tutvguia/tutvguiaiptv/342.ch
+#EXTINF: -1, ESPN2Latinoamerica
+http://iptvmx.ddns.net/tutvguia/tutvguiaiptv/343.ch
+#EXTINF: -1, ESPN3 Latinoamerica
+http://iptvmx.ddns.net/tutvguia/tutvguiaiptv/344.ch
+#EXTINF: -1, Fox Sports Latinoamerica
+http://iptvmx.ddns.net/tutvguia/tutvguiaiptv/345.ch
+#EXTINF: -1, Fox sports2 Latinoamerica
+http://iptvmx.ddns.net/tutvguia/tutvguiaiptv/346.ch
+#EXTINF: -1, Fox sports3 Latinoamerica
+http://iptvmx.ddns.net/tutvguia/tutvguiaiptv/347.ch
+#EXTINF:0,Sky Sport F1 HD
+http://proffiptv.mine.nu:15003/live/CAIAZZA_2/ALESSANDRO/36.ts
+#EXTINF:0,Sky Sport MotoGP HD
+http://proffiptv.mine.nu:15003/live/CAIAZZA_2/ALESSANDRO/37.ts
+#EXTINF:0,EuroSport HD
+http://proffiptv.mine.nu:15003/live/CAIAZZA_2/ALESSANDRO/38.ts
+#EXTINF:0,EuroSport 2 HD
+http://proffiptv.mine.nu:15003/live/CAIAZZA_2/ALESSANDRO/39.ts
+#EXTINF:0,Bike Channel
+http://proffiptv.mine.nu:15003/live/CAIAZZA_2/ALESSANDRO/326.ts
+#EXTINF:0,Rai Sport 1
+http://proffiptv.mine.nu:15003/live/CAIAZZA_2/ALESSANDRO/243.ts
+#EXTINF:0,Rai Sport 2
+http://proffiptv.mine.nu:15003/live/CAIAZZA_2/ALESSANDRO/244.ts
+#EXTINF:0,Milan Channel
+http://proffiptv.mine.nu:15003/live/CAIAZZA_2/ALESSANDRO/41.ts
+#EXTINF:0,JUVENTUS TV
+http://proffiptv.mine.nu:15003/live/CAIAZZA_2/ALESSANDRO/42.ts
+#EXTINF:0,Inter Channel
+http://proffiptv.mine.nu:15003/live/CAIAZZA_2/ALESSANDRO/43.ts
+#EXTINF:0,Lazio Style Channel
+http://proffiptv.mine.nu:15003/live/CAIAZZA_2/ALESSANDRO/44.ts
+#EXTINF:0,ROMA TV
+http://proffiptv.mine.nu:15003/live/CAIAZZA_2/ALESSANDRO/45.ts
+#EXTINF:0,GAZZETTA TV
+http://proffiptv.mine.nu:15003/live/CAIAZZA_2/ALESSANDRO/506.ts
+#EXTINF:0,Europort1
+http://212.51.156.151:3010
+#EXTINF:0,Europort2
+http://212.51.156.151:3000
+#EXTINF:0,SKY Sport24
+http://212.51.156.151:3013
+#EXTINF:0,SkyCalcio1
+http://212.51.146.19:4000
+#EXTINF:0,Sky Sport Plus
+http://212.51.146.19:4007
+#EXTINF:0,SKY Sport1
+http://212.51.156.151:3011
+#EXTINF:0,SKY Sport2
+http://109.202.195.76:5003
+#EXTINF:0,SKY Sport3
+http://109.202.195.76:5001
+#EXTINF:0,sky-sport-f1
+http://212.51.146.19:4004
+#EXTINF:0,Fox Sports
+http://109.202.195.76:5010
+#EXTINF:0,Sky Sport 1 HD
+http://62.210.248.96:11000/fagaj@sky.com_it/fagaj@sky.com_it/260.ch
+#EXTINF:0,Sky Sport 2 HD
+http://62.210.248.96:11000/fagaj@sky.com_it/fagaj@sky.com_it/261.ch
+#EXTINF:0,Sky Sport 24 HD
+http://62.210.248.96:11000/fagaj@sky.com_it/fagaj@sky.com_it/262.ch
+#EXTINF:0,Sky Sport 3 HD
+http://62.210.248.96:11000/fagaj@sky.com_it/fagaj@sky.com_it/263.ch
+#EXTINF:0,Sky SPort HD HD
+http://62.210.248.96:11000/fagaj@sky.com_it/fagaj@sky.com_it/278.ch
+#EXTINF:0,Sky Sport TG24 HD
+http://62.210.248.96:11000/fagaj@sky.com_it/fagaj@sky.com_it/279.ch
+#EXTINF:0,Sky Supercalcio HD
+http://62.210.248.96:11000/fagaj@sky.com_it/fagaj@sky.com_it/264.ch
 
 #EXTINF:-1,CA: A&E
 http://mitvpro.net:25461/02448480293210/4LJQQhGgvW/58174
