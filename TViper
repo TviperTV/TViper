@@ -1,103 +1,15 @@
-#EXTM3U
-#EXTINF:-1,C More Tennis
-acestream://859800ec0b9ef3d0ab2e5fe66cb5f4682f6dca21
-#EXTINF:-1,Canal+ Sport HD France
-acestream://e9250ab476b90dc0621d549691b5bc35c5b972e3
-#EXTINF:-1,Digi Sport 1
-acestream://587b978995d900afc17d4a5c3ef13797d2b3a0ec
-#EXTINF:-1,Digi Sport 2
-acestream://3b0796661f783236f24756821f5efb1d15d59d7f
-#EXTINF:-1,Eurosport 1
-acestream://fdad5bce59003d66568736bf104040a1ce5abf37
-#EXTINF:-1,Eurosport 1 HD
-acestream://a5bc86e7c6417052e23ec960eea073c34564912c
-#EXTINF:-1,Eurospоrt 2
-acestream://1ad70104e12a115cac202f8b2d9204c461bb068c
-#EXTINF:-1,Extreme Sports
-acestream://23a8375600995ebc3ad0d6a3266af71dbf9ec423
-#EXTINF:-1,Fast and FunBox HD
-acestream://461fc95efeb8688a2d8b5c7614906be4ba572e49
-#EXTINF:-1,FightBox HD
-acestream://4d851afc7c2f9e966ee3dc02bb7bf8c4b6f13e93
-#EXTINF:-1,Idman TV
-acestream://fd429716b6f71bbb148d670682fe28a551a33d60
-#EXTINF:-1,Motorsport
-acestream://c8b03380b2ac11239254a7c94c3cbd2ca04cce16
-#EXTINF:-1,Nova Sport
-acestream://6ad08ea0a5c025f00be8ba1ad106821f27d17296
-#EXTINF:-1,Premier Sports
-acestream://5a40fd1ac2a839b8387006dedf0b22301e6b9d01
-#EXTINF:-1,Real Madrid TV
-acestream://e1b3b363b9394241d1418d6f1fddb720d594809c
-#EXTINF:-1,Setanta Sports + HD
-acestream://a3d6475c17fc2c7789cc45f802a9018764f0352c
-#EXTINF:-1,Setanta Sports Eurasia HD
-acestream://fda7b070947a5177fce8141757551d194d6e7d1c
-#EXTINF:-1,Sky Sports 1 HD
-acestream://ab226ed6eaaf04d5a564753246495d12bef7e495
-#EXTINF:-1,Sky Sports 2
-acestream://734e63339b48627d5065055180ab2423f2d682c4
-#EXTINF:-1,Sky Sports 2 HD
-acestream://aadff76cf805f2b3f0a8ed5c9fca4502c462c017
-#EXTINF:-1,Sky Sports 3
-acestream://cba9cb04b2887632543be1cf87a7397a0e8229d1
-#EXTINF:-1,Sky Sports 4
-acestream://f5e70c603ec71f4378845d7153cf2186382cca1c
-#EXTINF:-1,Sky Sports F1
-acestream://2288397a21c4933d2359f19f54daa4101e297a48
-#EXTINF:-1,Sport 1 Cz
-acestream://224647f6b35f20a68f72633d588a8f208a896bcc
-#EXTINF:-1,Sport 2 Cz
-acestream://2cf97774d9d6fdfcc4584569b7dd48c041484eba
-#EXTINF:-1,Sports TV
-acestream://748ddc8b140f8059ece20af7c35085a7c0482a88
-#EXTINF:-1,Super Tennis HD
-acestream://111d650225e7b7fb8f0f1e968c6aa7f8b86684bd
-#EXTINF:-1,TSN 1
-acestream://13139e30694a4902cc4bc8e0859d64c9851c80cb
-#EXTINF:-1,Viasat Fotboll
-acestream://f2acb395f50276c23709e0ac87718b1bacd399fc
-#EXTINF:-1,Viasat Fotboll HD
-acestream://9bd11f8ee0fc3ff43d95336951e114f75a9c1906
-#EXTINF:-1,Viasat Hockey
-acestream://c3dbf1fc829e76e5f18e37354f454c2546558673
-#EXTINF:-1,Viasat Hockey HD
-acestream://652e4173f0817440422f6cd78ed266c8119fba67
-#EXTINF:-1,Viasat Motor
-acestream://44682f2cef0d96026851082b69bed5bf6dedcbf7
-#EXTINF:-1,Viasat Sport
-acestream://c44d21a9afaff5f7b48db7dff0de5343646bd63a
-#EXTINF:-1,Viasat Sport Baltic
-acestream://378b42194446852422ab536f4d3a6045c2f2e11c
-#EXTINF:-1,Viasat Sport HD
-acestream://023dd87caa59489140c8192184db4930a3365189
-#EXTINF:-1,Viasat Sport Sverige
-acestream://d2a87cccb12043603fa3c05ea0cfc1e560bbd266
-#EXTINF:-1,Sport 1 Lithuania
-acestream://d08009bf9bccbbad39acd5a3bfceb6f40a8bbf62
-#EXTINF:-1,КХЛ HD
-acestream://cba95f4cb36f9d1ccf38de62d065d0c515996e6e
-#EXTINF:-1,КХЛ ТВ
-acestream://c89ed356abee95ffcf8bea821ee827b4fcad0794
-#EXTINF:-1,Матч ТВ HD
-acestream://77409bf354cdc002830d582a02962dc3a97a1cc1
-#EXTINF:-1,Матч! Арена HD
-acestream://c8778c4db1b71e3acac31b643f4b5598e1cd5562
-#EXTINF:-1,Матч! Боец
-acestream://db63b9fc2b4343a3f9d74351526d37d2cd198462
-#EXTINF:-1,Матч! Игра HD
-acestream://9bde16709b2aa92247b77768081612496c583d4b
-#EXTINF:-1,Матч! Футбол 1 HD
-acestream://d8fb97e06675b60dd81c6cefb1b882ff34c92e33
-#EXTINF:-1,Матч! Футбол 2 HD
-acestream://d9d683e90718027ad5e9653b3fec540d26147893
-#EXTINF:-1,Матч! Футбол 3 HD
-acestream://7ef5841d5f52f5aace5dfa276cf0df8125537fc9
-#EXTINF:-1,Футбол 1 HD
-acestream://f624639f338abd3c0c48a1ab1f213902feaa2566
-#EXTINF:-1,Футбол 2 HD
-acestream://4e326dbb2145c9c0a4c90b67aaf6e143d59bf38f
-
+http://xxultraxx.com:8000/live/Roger123/Roger123/7622.ts
+http://xxultraxx.com:8000/live/Roger123/Roger123/7621.ts
+http://xxultraxx.com:8000/live/Roger123/Roger123/5000.ts
+http://xxultraxx.com:8000/live/Roger123/Roger123/4100.ts
+http://xxultraxx.com:8000/live/Roger123/Roger123/0100.ts
+http://xxultraxx.com:8000/live/Roger123/Roger123/0001.ts
+http://xxultraxx.com:8000/live/Roger123/Roger123/1234.ts
+http://xxultraxx.com:8000/live/Roger123/Roger123/8435.ts
+http://xxultraxx.com:8000/live/Roger123/Roger123/9999.ts
+http://xxultraxx.com:8000/live/Roger123/Roger123/10849.ts
+http://xxultraxx.com:8000/live/Roger123/Roger123/0008.ts
+http://xxultraxx.com:8000/live/Roger123/Roger123/3872.ts
 
 
 
