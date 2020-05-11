@@ -1,58 +1,3 @@
-#EXTINF:-1,CA: COTTAGE LIFE TV
-http://xilo.vip:80/skippy/skippy/339418
-
-
-#EXTINF:-1,CANADA: COTTAGE LIFE
-http://live.firetv.me:83/dircharlie/90393092/332491
-#EXTINF:-1,CANADA: CTV SCI-FI
-http://live.firetv.me:83/dircharlie/90393092/310774
-#EXTINF:-1,CANADA: DAYSTAR TV
-http://live.firetv.me:83/dircharlie/90393092/306206
-#EXTINF:-1,CANADA: DEJA VIEW
-http://live.firetv.me:83/dircharlie/90393092/332734
-#EXTINF:-1,CANADA: DISNEY JR
-http://live.firetv.me:83/dircharlie/90393092/306200
-#EXTINF:-1,CANADA: FTV CANADA
-http://live.firetv.me:83/dircharlie/90393092/352189
-#EXTINF:-1,CANADA: FYI
-http://live.firetv.me:83/dircharlie/90393092/306182
-#EXTINF:-1,CANADA: HBO 1
-http://live.firetv.me:83/dircharlie/90393092/306171
-#EXTINF:-1,CANADA: HBO 2
-http://live.firetv.me:83/dircharlie/90393092/306170
-#EXTINF:-1,CANADA: HGTV
-http://live.firetv.me:83/dircharlie/90393092/306169
-#EXTINF:-1,CANADA: HLN
-http://live.firetv.me:83/dircharlie/90393092/306166
-#EXTINF:-1,CANADA: LIFETIME
-http://live.firetv.me:83/dircharlie/90393092/306154
-#EXTINF:-1,CANADA: NICK
-http://live.firetv.me:83/dircharlie/90393092/306138
-#EXTINF:-1,CANADA: NICKTOON
-http://live.firetv.me:83/dircharlie/90393092/306137
-#EXTINF:-1,CANADA: OLN
-http://live.firetv.me:83/dircharlie/90393092/306135
-#EXTINF:-1,CANADA: OMNI 1
-http://live.firetv.me:83/dircharlie/90393092/352178
-#EXTINF:-1,CANADA: OMNI 2
-http://live.firetv.me:83/dircharlie/90393092/306133
-#EXTINF:-1,CANADA: ONE
-http://live.firetv.me:83/dircharlie/90393092/352180
-#EXTINF:-1,CANADA: SHOWCASE HD
-http://live.firetv.me:83/dircharlie/90393092/306117
-#EXTINF:-1,CANADA: SPIKE TV / PARAMOUNT CANADA
-http://live.firetv.me:83/dircharlie/90393092/306112
-#EXTINF:-1,CANADA: SILVER SCREEN CLASSICS
-http://live.firetv.me:83/dircharlie/90393092/306116
-#EXTINF:-1,CANADA: SLICE
-http://live.firetv.me:83/dircharlie/90393092/310776
-#EXTINF:-1,CANADA: TLC CANADA
-http://live.firetv.me:83/dircharlie/90393092/306090
-#EXTINF:-1,CANADA: YTV West
-http://live.firetv.me:83/dircharlie/90393092/306058
-
-
-
 #EXTINF:199,Live Event - Coronavirus Coverage
 https://live.foxnews.com/4cd873537d834444ac8f882831463889/us-east-1/694940094001/playlist.m3u8
 News
@@ -191,6 +136,9 @@ http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
 http://livecdnh3.tvanywhere.ae/hls/docubox/03.m3u8
 #EXTINF:53,Animal Planet
 http://ott.artmott.com/AnimalPlanet/tracks-v1a1/mono.m3u8
+
+
+
 SPORTS
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9lYz3No.png" group-title="Sports",MMA Junkie
 http://a.jsrdn.com/broadcast/80f6ba72c8/+0000/high/c.m3u8
@@ -214,21 +162,7 @@ https://bk7l2w4nlx53-hls-live.5centscdn.com/WWE/961ac1c875f5884f31bdd177365ef1e3
 http://cdnak21.cast4u.info/channels/4/10804.m3u8
 #EXTINF:79,Fox Sports News
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master640x360.m3u8
-#EXTINF:-1,SKY SPORTS ARENA
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://8d4a1a46-stream.nmbs.top/c/8/613.m3u8
-#EXTINF:-1,SKY SPORTS FOOTBALL
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://8d4a1a46-stream.nmbs.top/c/8/618.m3u8
-#EXTINF:-1,SKY SPORTS F1
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://8d4a1a46-stream.nmbs.top/c/8/621.m3u8
-#EXTINF:-1,SKY SPORTS MIX
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://8d4a1a46-stream.nmbs.top/c/8/625.m3u8
-#EXTINF:-1,BT SPORTS 1
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://8d4a1a46-stream.nmbs.top/c/8/630.m3u8
+
 
 
 PODCAST
@@ -238,909 +172,61 @@ https://30a-tv.com/loomer.m3u8?fluxustv.m3u8
 https://trinity-lh.akamaihd.net/i/ttmain_d@82127/index_3128_av-p.m3u8?fluxustv.m3u8
 
 
-#EXTINF:-1,Get Out (2017)
-http://195.181.161.119:80/movie/iuX9D2tVLv/OpmcKdoKhc/8909.mp4
 
-#EXTINF:-1,Extraction (2020)
-http://195.181.161.119:80/movie/iuX9D2tVLv/OpmcKdoKhc/8902.mp4
 
 Movies
+
+
+
+
+
+
 #EXTINF:0 tvg-logo="https://marruda3.files.wordpress.com/2017/08/annabelle_creation_poster.jpg" group-title="MOVIES",Annabelle: Creation (2017)
 http://cdnvod.setv.ca/hls/Annabelle.2.Creation.2017.720p.BluRay.H264.AAC-RARBG.mp4/master.m3u8
-
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/67/Wish_upon_ver2.jpg/220px-Wish_upon_ver2.jpg" group-title="MOVIES",Wish Upon (2017)
 http://cdnvod.setv.ca/hls/Wish.Upon.2017.UNRATED.BDRip.x264-DRONES.mp4/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ed/Wonder_Woman_%282017_film%29.jpg" group-title="MOVIES",Wonder Woman (2017)
-http://deadlyblogger.com/NewRelease/wonderwoman.mp4
-
 #EXTINF:-1 tvg-logo="https://i2.wp.com/teaser-trailer.com/wp-content/uploads/Colossal-new-poster-1.jpg" group-title="MOVIES",Colossal (2016)
 https://ia601501.us.archive.org/22/items/LaMaravillasDeLaVida201702/LaMaravillasDeLaVida2017_02.mp4
-
 #EXTINF:-1 tvg-logo="http://i.imgur.com/i5fGuKL.jpg" group-title="MOVIES",Jimmy Carr - Funny Business (2016)
 https://archive.org/download/JimmyCarrFunnyBusiness2016WEBDL720pMP4TDR/Jimmy%20Carr%20Funny%20Business%202016%20WEB-DL%20720p%20MP4%20-TDR-.mp4
-
-#EXTINF:-1 tvg-logo="https://www.alveo-slovakia.com/photo/4437484/rogue-one-a-star-wars-story-2016-directed-by-gareth-edwards-rogue-one-a-star-wars-story.jpg" group-title="MOVIES",Rogue One: A Star Wars Story (2016)
-http://deadlyblogger.com/NewRelease/rogue1.mp4
-
 #EXTINF:-1 tvg-logo="http://s1.evcdn.com/images/movieposter249by373/movies/162960/162960_aa.jpg" group-title="MOVIES",Rules Don't Apply (2016)
 https://archive.org/download/RulesDontApply20161080pRemux/Rules%20Dont%20Apply%20(2016)%201080p%20Remux.mp4
-
-#EXTINF:-1 tvg-logo="https://d2a0bnlkc0czvp.cloudfront.net/posters/original/p12669880_p_v8_aa.jpg" group-title="MOVIES",The Founder (2016)
-https://bobmovies.net/hl/The_Founder_2016_360p.m3u8
-
-#EXTINF:-1 tvg-logo="https://unobtainium13.files.wordpress.com/2016/05/x-men_-_apocalypse.jpg" group-title="MOVIES",X-Men: Apocalypse (2016)
-http://deadlyblogger.com/NewRelease/xmen2016.mp4
-
 #EXTINF:-1 tvg-logo="https://i.jeded.com/i/home-2015.35899.jpg" group-title="MOVIES",Home (2015)
 https://archive.org/download/Home.2015.720p.YIFYTopArchive.IR/Home.2015.720p.YIFY_TopArchive.IR.mp4
-
-#EXTINF:-1 tvg-logo="http://static.rogerebert.com/uploads/movie/movie_poster/the-hateful-eight-2015/large_large_fqe8JxDNO8B8QfOGTdjh6sPCdSC.jpg" group-title="MOVIES",The Hateful Eight (2015)
-http://deadlyblogger.com/NewRelease/hateful2015.mp4
-
-#EXTINF:-1 tvg-logo="http://static.rogerebert.com/uploads/movie/movie_poster/the-hateful-eight-2015/large_large_fqe8JxDNO8B8QfOGTdjh6sPCdSC.jpg" group-title="MOVIES",The Hateful Eight (2015)*
-https://archive.org/download/TheHatefulEight20151080pX26510bitJoy/The%20Hateful%20Eight%202015%20(1080p%20x265%2010bit%20Joy).mp4
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/91/300_Rise_of_an_Empire.jpg" group-title="MOVIES",300 - Rise of an Empire (2014)*
-https://archive.org/download/300.Rise.Of.An.Empire_201706/300.Rise.of.an.Empire.2014.1080p.BluRay.x264.YIFY.mp4
-
-#EXTINF:-1 tvg-logo="https://www.dvdsreleasedates.com/posters/800/A/A-Haunted-House-2-2014-movie-poster.jpg" group-title="MOVIES",A Haunted House 2 (2014)
-http://www.deadlyblogger.com/NewRelease/haunted2.mp4
-
-#EXTINF:-1 tvg-logo="http://www.dawtrina.com/personal/film/bloguploads/2010s/2013buckwild2.jpg" group-title="MOVIES",Buck Wild (2014)
-https://archive.org/download/BuckWild2013720p/Buck.Wild.2013.720p.BluRay.x264.YIFY.mp4
-
 #EXTINF:-1 tvg-logo="http://i.imgur.com/mXKkuCn.jpg" group-title="MOVIES",Free Fall (2014)
 https://archive.org/download/FreeFall2014720p/Free%20Fall%20(2014)%20720p.mp4
-
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81Bll7eZdOL._SY445_.jpg" group-title="MOVIES",Get on Up (2014)
-http://deadlyblogger.com/NewRelease/getonup.mp4
-
-#EXTINF:-1 tvg-logo="http://pmcdeadline2.files.wordpress.com/2014/05/guardians-of-the-galaxy-poster__140517031325.jpg" group-title="MOVIES",Guardians of the Galaxy (2014)
-http://deadlyblogger.com/NewRelease/guardians2014.mp4
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/55/ab/10/55ab107453cf4a78b24c184d29abf25b.jpg" group-title="MOVIES",John Wick (2014)
-http://deadlyblogger.com/NewRelease/johnwick.mp4
-
-#EXTINF:-1 tvg-logo="http://img.movieboom.biz/movie/36786.jpg" group-title="MOVIES",Madea's Neighbors from Hell (2014)
-http://www.deadlyblogger.com/NewRelease/fromhell2014.mp4
-
-#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/disney/images/a/a4/Maleficent-%282014%29-149.jpg" group-title="MOVIES",Maleficent (2014)
-http://www.deadlyblogger.com/NewRelease/maleficent.mp4
-
-#EXTINF:-1 tvg-logo="https://www.scifinow.co.uk/wp-content/uploads/2013/12/mr_peabody_and_sherman_ver11_xlg.jpg" group-title="MOVIES",Mr. Peabody & Sherman (2014)
-http://www.deadlyblogger.com/NewRelease/sherman2014.mp4
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/Need_For_Speed_poster.jpg/220px-Need_For_Speed_poster.jpg" group-title="MOVIES",Need for Speed (2014)
-http://www.deadlyblogger.com/NewRelease/needforspeed.mp4
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/87/Non-Stop2014Poster.jpg" group-title="MOVIES",Non-Stop (2014)
-http://www.deadlyblogger.com/NewRelease/nonstop2014.mp4
-
-#EXTINF:-1 tvg-logo="http://www.theglobaldispatch.com/wp-content/uploads/2014/01/Ride-Along-movie-poster-Kevin-Hart-Ice-Cube.jpg" group-title="MOVIES",Ride Along (2014)
-http://www.deadlyblogger.com/NewRelease/ridealong2014.mp4
-
-#EXTINF:-1 tvg-logo="https://static.rogerebert.com/uploads/movie/movie_poster/rio-2-2014/large_bwQZz9n9Xak8yjXLtOJwRqLVNNl.jpg" group-title="MOVIES",Rio 2 (2014)
-http://www.deadlyblogger.com/NewRelease/rio2.mp4
-
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/pY7p638Tg0c/movieposter.jpg" group-title="MOVIES",School Dance (2014)
-http://www.deadlyblogger.com/NewRelease/schooldance.mp4
-
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91igg0QG7nL._RI_SX200_.jpg" group-title="MOVIES",Taken 3 (2014)
-http://deadlyblogger.com/NewRelease/taken3.mp4
-
-#EXTINF:-1 tvg-logo="https://s1.thcdn.com/productimg/0/960/960/15/10915615-1401810867-463502.jpg" group-title="MOVIES",The Lego Movie (2014)
-http://www.deadlyblogger.com/NewRelease/legomovie2014.mp4
-
-#EXTINF:-1 tvg-logo="https://www.filmlinks4u.is/wp-content/uploads/2016/01/The-Pirate-Fairy-2014-Hollywood-Movie-Watch-Online.jpg" group-title="MOVIES",The Pirate Fairy (2014)
-http://www.deadlyblogger.com/NewRelease/tinker2014.mp4
-
-#EXTINF:-1 tvg-logo="http://www.blackfilm.com/read/wp-content/uploads/2014/02/The-Single-Moms-Club-poster-2a.jpg" group-title="MOVIES",The Single Moms Club (2014)
-http://www.deadlyblogger.com/NewRelease/singlemom.mp4
-
-#EXTINF:-1 tvg-logo="http://www.stevealdous.co.uk/wp-content/uploads/2015/01/545454.Veronica-Mars-Movie-Poster.jpg" group-title="MOVIES",Veronica Mars (2014)
-http://www.deadlyblogger.com/NewRelease/veronicamars.mp4
-
-#EXTINF:-1 tvg-logo="https://dg7kra6zb39sn.cloudfront.net/media/spotlight/page/poster-50932b1e-abf0-4f17-8e1a-357fb191953f.jpg" group-title="MOVIES",12 Years a Slave (2013)
-http://www.deadlyblogger.com/NewRelease/12slave.mp4
-
-#EXTINF:-1 tvg-logo="https://horrorpediadotcom.files.wordpress.com/2014/03/afflicted-poster-690x1024.jpg" group-title="MOVIES",Afflicted (2013)
-http://www.deadlyblogger.com/NewRelease/afflicted2013.mp4
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5b/After_Earth_Poster.jpg" group-title="MOVIES",After Earth (2013)
-http://www.deadlyblogger.com/NewRelease/after.mp4
-
-#EXTINF:-1 tvg-logo="http://i2.cdnds.net/13/44/618x914/american-hustle-poster-2.jpg" group-title="MOVIES",American Hustle (2013)
-http://www.deadlyblogger.com/NewRelease/hustle2013.mp4
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/83/Jackass_Presents_Bad_Grandpa.jpg" group-title="MOVIES",Bad Grandpa (2013)
-http://www.deadlyblogger.com/NewRelease/badgrandpa2013.mp4
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/06/Carrie_Domestic_One-sheet.jpg" group-title="MOVIES",Carrie (2013)*
 https://archive.org/download/Kickay.blogspot.com_Carrie.2013.HD.1080p_201401/%5Bkickay.blogspot.com%5D%20Carrie%202013%20HD%201080p.mp4
-
-#EXTINF:-1 tvg-logo="http://christianentertainmentreviews.com/wp-content/uploads/2013/06/Delivery-Man-2013.jpg" group-title="MOVIES",Delivery Man (2013)
-http://www.deadlyblogger.com/NewRelease/deliveryman.mp4
-
-#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Empire_State-759728399-large.jpg" group-title="MOVIES",Empire State (2013)
-http://www.deadlyblogger.com/NewRelease/empirestate.mp4
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/be/Epic_%282013_film%29_poster.jpg" group-title="MOVIES",Epic (2013)
-http://www.deadlyblogger.com/NewRelease/epic1.mp4
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5d/Escapeplanfilmposter.jpg/220px-Escapeplanfilmposter.jpg" group-title="MOVIES",Escape Plan (2013)
-http://www.deadlyblogger.com/NewRelease/escapeplan2013.mp4
-
-#EXTINF:-1 tvg-logo="http://hq.am/wp-content/uploads/2013/07/movies-fast-and-furious-6-poster.jpg" group-title="MOVIES",Furious 6 (2013)
-http://www.deadlyblogger.com/NewRelease/fast6.mp4
-
-#EXTINF:-1 tvg-logo="http://p4.isanook.com/mv/0/ud/7/35100/movies-grown-ups-2-poster.jpg" group-title="MOVIES",Grown Ups 2 (2013)
-http://www.deadlyblogger.com/NewRelease/grown2.mp4
-
-#EXTINF:-1 tvg-logo="https://static.rogerebert.com/uploads/movie/movie_poster/grudge-match-2013/large_m7tCLFtU5TlbWbjsrAS34yODw2M.jpg" group-title="MOVIES",Grudge Match (2013)
-http://www.deadlyblogger.com/NewRelease/grudgematch.mp4
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Identity_Thief_Poster.jpg/220px-Identity_Thief_Poster.jpg" group-title="MOVIES",Identity Thief (2013)
-http://www.deadlyblogger.com/NewRelease/identitythief.mp4
-
-#EXTINF:-1 tvg-logo="https://thecinemaid.files.wordpress.com/2014/02/insidious-chapter-2-2013-03.jpg" group-title="MOVIES",Insidious - Chapter 2 (2013)
-http://www.deadlyblogger.com/NewRelease/insidious2.mp4
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Iron_Man_3_theatrical_poster.jpg" group-title="MOVIES",Iron Man 3 (2013)
-http://www.deadlyblogger.com/NewRelease/ironman3.mp4
-
-
-#EXTINF:-1 tvg-logo="http://cdn.movieweb.com/img.teasers.posters/FIz0UOPXaUXEEz_370_a/Kick-Ass-2.jpg" group-title="MOVIES",Kick-Ass 2 (2013)
-http://www.deadlyblogger.com/NewRelease/kickass2.mp4
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/BMUtIJxCUAE_Vsv.jpg" group-title="MOVIES",Killing Season (2013)
-http://www.deadlyblogger.com/NewRelease/killings.mp4
-
-#EXTINF:-1 tvg-logo="http://www.wearemoviegeeks.com/wp-content/uploads/248158id1f_lastvegas_1sht.jpg" group-title="MOVIES",Last Vegas (2013)
-http://www.deadlyblogger.com/NewRelease/lastvegas2013.mp4
-
-#EXTINF:-1 tvg-logo="https://a.ltrbxd.com/resized/film-poster/3/1/4/3/2/9/314329-lego-star-wars-the-yoda-chronicles-episode-iii-attack-of--0-230-0-345-crop.jpg" group-title="MOVIES",Lego Star Wars: The Yoda Chronicles (2013)
-http://www.deadlyblogger.com/NewRelease/legoyoda1.mp4
-
-#EXTINF:-1 tvg-logo="https://film.geourdu.com/wp-content/uploads/2015/02/Man-of-Steel-2013.jpg" group-title="MOVIES",Man of Steel (2013)*
-http://www.deadlyblogger.com/NewRelease/steel.mp4
-
-#EXTINF:-1 tvg-logo="https://www.dvdsreleasedates.com/posters/800/M/Monsters-University-2013-movie-poster.jpg" group-title="MOVIES",Monsters University (2013)
-http://www.deadlyblogger.com/NewRelease/monsters2.mp4
-
-#EXTINF:-1 tvg-logo="https://www.movietard.com/wp-content/uploads/2015/03/Watch-Now-You-See-Me-2013-online.jpg" group-title="MOVIES",Now You See Me (2013)
-http://www.deadlyblogger.com/NewRelease/nowyouseeme.mp4
-
-#EXTINF:-1 tvg-logo="http://movienews.ro/reviews/wp-content/uploads/2013/03/olympus_has_fallen_ver10.jpg" group-title="MOVIES",Olympus Has Fallen (2013)
-http://www.deadlyblogger.com/NewRelease/fallen1.mp4
-
-#EXTINF:-1 tvg-logo="https://static1.squarespace.com/static/5483f2a1e4b069cf1af24d9f/5493625fe4b07d6cfb04e8c2/549788b1e4b0385fffd71f44/1419919242596/prisoners_ver9_xxlg.jpg" group-title="MOVIES",Prisoners (2013)
-http://www.deadlyblogger.com/NewRelease/prisoners.mp4
-
 #EXTINF:-1 tvg-logo="http://i.imgur.com/jVQzuIJ.jpg" group-title="MOVIES",Pup (2013)
 https://archive.org/download/TorrentPopular.comPup20131080p1080p/Pup.2013.1080p.BluRay.x264.YIFY.mp4
-
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/BvsB0V9K7GQ/movieposter.jpg" group-title="MOVIES",Repentance (2013)
-http://www.deadlyblogger.com/NewRelease/repentance.mp4
-
-#EXTINF:-1 tvg-logo="https://vignette1.wikia.nocookie.net/filmguide/images/1/16/Movies_saving-mr-banks-poster.jpg" group-title="MOVIES",Saving Mr. Banks (2013)
-http://www.deadlyblogger.com/NewRelease/savingbanks.mp4
-
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81BgkjfBpWL._RI_SX200_.jpg" group-title="MOVIES",Star Trek: Into Darkness (2013)
-http://deadlyblogger.com/NewRelease/darkness.mp4
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fb/The_Bling_Ring_poster.jpg" group-title="MOVIES",The Bling Ring (2013)
-http://www.deadlyblogger.com/NewRelease/blingring.mp4
-
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Bx5D7v-px_s/movieposter.jpg" group-title="MOVIES",The Call (2013)
-http://www.deadlyblogger.com/NewRelease/thecall.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/xYGkdhOEVoFrLNUotuTXemtQAWd.jpg" group-title="MOVIES",The Conjuring (2013)
-http://www.deadlyblogger.com/NewRelease/conjuring.mp4
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/75/The_Family_2013%2C_Poster.jpg" group-title="MOVIES",The Family (2013)
-http://www.deadlyblogger.com/NewRelease/thefamily2013.mp4
-
-#EXTINF:-1 tvg-logo="http://www.yifysubtitles.com/images/movies/movie-76.jpg" group-title="MOVIES",The Hangover Part III (2013)
-http://www.deadlyblogger.com/NewRelease/hangover3.mp4
-
-#EXTINF:-1 tvg-logo="http://thecodeofzaw.com/wp-content/uploads/2015/02/The-Heat-Posterhd.jpg" group-title="MOVIES",The Heat (2013)
-http://www.deadlyblogger.com/NewRelease/theheat.mp4
-
-#EXTINF:-1 tvg-logo="https://www.yifysubtitles.com/images/movies/movie-2585.jpg" group-title="MOVIES",The Hobbit: The Desolation of Smaug (2013)
-http://www.deadlyblogger.com/NewRelease/smaug2013.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/xxOKDTQbQo7h1h7TyrQIW7u8KcJ.jpg" group-title="MOVIES",The Internship (2013)
-http://www.deadlyblogger.com/NewRelease/internship2013.mp4
-
-#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-FsMTpwO0L0A/UlbYmvl-k6I/AAAAAAAADbI/ri_FHHkR45s/s1600/The+Jungle+Book+Return+2+the+Jungle+2013+hnmovies.jpg" group-title="MOVIES",The Jungle Book: Return 2 the Jungle (2013)
-http://www.deadlyblogger.com/NewRelease/junglebook2013.mp4
-
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51qmsRxACxL.jpg" group-title="MOVIES",The Starving Games (2013)
-http://www.deadlyblogger.com/NewRelease/starving2013.mp4
-
-#EXTINF:-1 tvg-logo="http://www.moustachemagazine.com/wp-content/uploads/2014/01/THE-WOLF-OF-WALL-STREET.jpg" group-title="MOVIES",The Wolf of Wall Street (2013)
-http://www.deadlyblogger.com/NewRelease/thewolf2013.mp4
-
-#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/cc/9b/e0/cc9be0345a767807c8f259d4cc29ccf9.jpg" group-title="MOVIES",The Wolverine (2013)*
-http://www.deadlyblogger.com/NewRelease/thewolverine.mp4
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/36/This-is-the-End-Film-Poster.jpg" group-title="MOVIES",This Is the End (2013)
-http://www.deadlyblogger.com/NewRelease/theend.mp4
-
-#EXTINF:-1 tvg-logo="https://i.jeded.com/i/toy-story-of-terror.28932.jpg" group-title="MOVIES",Toy Story of Terror (2013)
-http://www.deadlyblogger.com/NewRelease/storyterror.mp4
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/5uzppQk.jpg" group-title="MOVIES",Turbo (2013)
-http://www.deadlyblogger.com/NewRelease/turbo.mp4
-
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91ykiz8%2BVsL._SY445_.jpg" group-title="MOVIES",World War Z (2013)
-http://www.deadlyblogger.com/NewRelease/world.mp4
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/c7/72/b8/c772b89352307075ca52a1c2336a06e2.jpg" group-title="MOVIES",Flight (2012)
-http://www.deadlyblogger.com/NewRelease/flight1.mp4
-
-#EXTINF:-1 tvg-logo="https://s3.thcdn.com/productimg/0/300/300/72/10625672-1349283280-857679.png" group-title="MOVIES",Men in Black 3 (2012)
-http://www.deadlyblogger.com/NewRelease/mnb3.mp4
-
-#EXTINF:-1 tvg-logo="http://www.dvdplanetstore.pk/wp-content/uploads/2014/03/pitch-perfect.jpg" group-title="MOVIES",Pitch Perfect (2012)
-http://www.deadlyblogger.com/NewRelease/pitchperfect.mp4
-
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/A139A0eH2wL._RI_SX200_.jpg" group-title="MOVIES",Project X (2012)
-http://www.deadlyblogger.com/NewRelease/projectx.mp4
-
-#EXTINF:-1 tvg-logo="https://a.ltrbxd.com/resized/sm/upload/39/zq/9r/ye/qsYQflQhOuhDpQ0W2aOcwqgDAeI-0-230-0-345-crop.jpg" group-title="MOVIES",Prometheus (2012)
-http://www.deadlyblogger.com/NewRelease/prometheus.mp4
-
-#EXTINF:-1 tvg-logo="https://stateofmind13.files.wordpress.com/2012/03/safe-house-movie-poster.jpg" group-title="MOVIES",Safe House (2012)
-http://www.deadlyblogger.com/NewRelease/safehouse.mp4
-
-#EXTINF:-1 tvg-logo="https://profratigan.files.wordpress.com/2013/04/spring-breakers.jpg" group-title="MOVIES",Spring Breakers (2012)
-http://www.deadlyblogger.com/NewRelease/springbreakers.mp4
-
-#EXTINF:-1 tvg-logo="https://pre00.deviantart.net/3999/th/pre/i/2012/021/4/7/the_bourne_legacy_by_aaronrandall-d4n5tdb.jpg" group-title="MOVIES",The Bourne Legacy (2012)
-http://www.deadlyblogger.com/NewRelease/bourne4.mp4
-
-#EXTINF:-1 tvg-logo="http://www-images.theonering.org/torwp/wp-content/uploads/2012/11/Hobbit-Movie-Poster-Bilbo.jpg" group-title="MOVIES",The Hobbit: An Unexpected Journey (2012)
-http://www.deadlyblogger.com/NewRelease/hobbit1.mp4
-
-#EXTINF:-1 tvg-logo="http://dee.sekai.cz/wp-content/uploads/2012/09/Hunger-Games.jpg" group-title="MOVIES",The Hunger Games (2012)
-http://www.deadlyblogger.com/NewRelease/hungergame1.mp4
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/eb/This_is_40.jpg" group-title="MOVIES",This Is 40 (2012)
-http://www.deadlyblogger.com/NewRelease/thisis40.mp4
-
-#EXTINF:-1 tvg-logo="http://hdpopcorns.com/wp-content/uploads/2016/03/Cover_image-Think-Like-a-Man-2012.jpg" group-title="MOVIES",Think Like a Man (2012)
-http://www.deadlyblogger.com/NewRelease/thinklike1.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/olnVrUyoL2ntBBuipvXBecCbTBX.jpg" group-title="MOVIES",Wrong Turn 5: Bloodlines (2012)
-http://www.deadlyblogger.com/NewRelease/wrongturn5.mp4
-
-#EXTINF:-1 tvg-logo="https://d32qys9a6wm9no.cloudfront.net/images/movies/poster/b2/b299ad862b6f12cb57679f0538eca514_500x735.jpg" group-title="MOVIES",Fast Five (2011)*
-http://www.deadlyblogger.com/NewRelease/fast5.mp4
-
-#EXTINF:-1 tvg-logo="https://ringostrack.com/bundles/soundtrackindex/img/cover/27907_king-of-paper-chasin.jpg" group-title="MOVIES",King of Paper Chasin' (2011)
-http://www.deadlyblogger.com/NewRelease/kingpaper.mp4
-
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/AOc6qYxlavc/movieposter.jpg" group-title="MOVIES",Rise of the Planet of the Apes (2011)
-http://www.deadlyblogger.com/NewRelease/apes7.mp4
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/80/The_Girl_with_the_Dragon_Tattoo_Poster.jpg" group-title="MOVIES",The Girl with the Dragon Tattoo (2011)
-http://www.deadlyblogger.com/NewRelease/dragontattoo.mp4
-
-#EXTINF:-1 tvg-logo="http://img.moviepostershop.com/the-grey-movie-poster-2011-1020734822.jpg" group-title="MOVIES",The Grey (2011)
-http://www.deadlyblogger.com/NewRelease/grey.mp4
-
-#EXTINF:-1 tvg-logo="https://i1.wp.com/image.tmdb.org/t/p/w300//yoiJyVknXfU4jcJvPYeMOCgyLky.jpg" group-title="MOVIES",The Hangover Part II (2011)
-http://www.deadlyblogger.com/NewRelease/hangover2.mp4
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/The_Hit_List.jpg" group-title="MOVIES",The Hit List (2011)
-http://www.deadlyblogger.com/NewRelease/hitlist.mp4
-
-#EXTINF:-1 tvg-logo="http://www.horrorphilia.com/wp-content/uploads/2011/10/wrongturn4big.jpg" group-title="MOVIES",Wrong Turn 4 - Bloody Beginnings (2011)
-http://www.deadlyblogger.com/NewRelease/wrongturn4.mp4
-
-#EXTINF:-1 tvg-logo="http://www.thesqueee.co.uk/wp-content/uploads/2011/06/xmenfirstclass.jpg" group-title="MOVIES",X: First Class (2011)
-http://www.deadlyblogger.com/NewRelease/xmen4.mp4
-
-#EXTINF:-1 tvg-logo="https://yts.ag/assets/images/movies/Everything_Must_Go_2010/medium-cover.jpg" group-title="MOVIES",Everything Must Go (2010)
-http://www.deadlyblogger.com/NewRelease/mustgo.mp4
-
-#EXTINF:-1 tvg-logo="https://static.rogerebert.com/uploads/movie/movie_poster/hot-tub-time-machine-2010/large_7Ol1VgQl19XAIIB38nZLNA58ZsX.jpg" group-title="MOVIES",Hot Tub Time Machine (2010)
-http://www.deadlyblogger.com/NewRelease/hottub2010.mp4
-
-#EXTINF:-1 tvg-logo="https://zuts.files.wordpress.com/2013/11/insidious-movie-poster.jpg" group-title="MOVIES",Insidious (2010)
-http://www.deadlyblogger.com/NewRelease/insidious1.mp4
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ed/Iron_Man_2_poster.jpg" group-title="MOVIES",Iron Man 2 (2010)
-http://www.deadlyblogger.com/NewRelease/ironman2.mp4
-
-#EXTINF:-1 tvg-logo="http://cdn.collider.com/wp-content/uploads/jackass_3d_poster_04.jpg" group-title="MOVIES",Jackass 3D (2010)
-http://www.deadlyblogger.com/NewRelease/jackass3d.mp4
-
-#EXTINF:-1 tvg-logo="https://vignette2.wikia.nocookie.net/headhuntershorrorhouse/images/2/26/Saw_3D_-_The_Final_Chapter.jpg" group-title="MOVIES",Saw 3D - The Final Chapter (2010)
-http://www.deadlyblogger.com/NewRelease/saw7.mp4
-
-#EXTINF:-1 tvg-logo="https://unshavedmouse.files.wordpress.com/2014/08/tangled_poster.jpg" group-title="MOVIES",Tangled (2010)
-http://www.deadlyblogger.com/NewRelease/tangled2010.mp4
-
-#EXTINF:-1 tvg-logo="http://cdn.movieweb.com/img.teasers.posters/FItrjvwwCwodwz_361_a.jpg" group-title="MOVIES",The Other Guys (2010)
-http://www.deadlyblogger.com/NewRelease/otherguys.mp4
-
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-mt9g-qXYEMo/UTjpXwiJ8PI/AAAAAAAABj0/nIggP1gzysc/s1600/unstoppable+poster.jpg" group-title="MOVIES",Unstoppable (2010)
-http://www.deadlyblogger.com/NewRelease/unstoppable.mp4
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8d/ChistmasCarol2009-Poster.jpg" group-title="MOVIES",A Christmas Carol (2009)
-http://www.deadlyblogger.com/NewRelease/acc2009.mp4
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/f6/7a/89/f67a89314819ba3f28e197cb5900c5d2.jpg" group-title="MOVIES",Fast & Furious (2009)*
-http://www.deadlyblogger.com/NewRelease/fast4.mp4
-
-#EXTINF:-1 tvg-logo="https://static.rogerebert.com/uploads/movie/movie_poster/land-of-the-lost-2009/large_avlfNn8w9F3Z6iKrGe8FnJpQr7j.jpg" group-title="MOVIES",Land of the Lost (2009)
-http://www.deadlyblogger.com/NewRelease/landlost.mp4
-
-#EXTINF:-1 tvg-logo="https://s.movie.as/images/p/600/10852_m1250316477.jpg" group-title="MOVIES",Law Abiding Citizen (2009)
-http://www.deadlyblogger.com/NewRelease/lawcitizen.mp4
-
-#EXTINF:-1 tvg-logo="http://cdn.movieweb.com/img.teasers.posters/FIoM6trw35oyrp_359_a/Tyler-Perrys-Madea-Goes-To-Jail.jpg" group-title="MOVIES",Madea Goes to Jail (2009)
-http://www.deadlyblogger.com/NewRelease/madea1.mp4
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/47/Orphanposter.jpg" group-title="MOVIES",Orphan (2009)
-http://www.deadlyblogger.com/NewRelease/orphan2009.mp4
-
-#EXTINF:-1 tvg-logo="http://cdn.movieweb.com/img.teasers.posters/FIg69glkDJ3Rjh_362_a/Saw-VI.jpg" group-title="MOVIES",Saw VI (2009)
-http://www.deadlyblogger.com/NewRelease/saw6.mp4
-
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/419JFmvA%2BjL._SY445_.jpg" group-title="MOVIES",The Chinese Room (2009)
 https://archive.org/download/TheChineseRoom/thechineseroom.mp4
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/0d/ca/e9/0dcae9d14ff8c1a92174fd1f1890a2b3--nfl-memes-sports-memes.jpg" group-title="MOVIES",The Hangover (2009)
-http://www.deadlyblogger.com/NewRelease/hangover1.mp4
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/Us9lfYL.jpg" group-title="MOVIES",The Taking of Pelham 123 (2009)
-http://www.deadlyblogger.com/NewRelease/pelham123.mp4
-
-#EXTINF:-1 tvg-logo="https://i.jeded.com/i/transformers-revenge-of-the-fallen.25586.jpg" group-title="MOVIES",Transformers: Revenge of the Fallen (2009)
-http://www.deadlyblogger.com/NewRelease/transformers2.mp4
-
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/lBoQEANiCwM/maxresdefault.jpg" group-title="MOVIES",Wrong Turn 3 - Left for Dead (2009)
-http://www.deadlyblogger.com/NewRelease/wrongturn3.mp4
-
-#EXTINF:-1 tvg-logo="https://s.movie.as/images/p/600/10052_m1238718497.jpg" group-title="MOVIES",X-Men Origins: Wolverine (2009)
-http://www.deadlyblogger.com/NewRelease/origin.mp4
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Big_buck_bunny_poster_big.jpg/1200px-Big_buck_bunny_poster_big.jpg" group-title="MOVIES",Big Buck Bunny (2008)
 https://archive.org/download/BigBuckBunny_328/BigBuckBunny_512kb.mp4
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/70/Ironmanposter.JPG" group-title="MOVIES",Iron Man (2008)
-http://www.deadlyblogger.com/NewRelease/ironman1.mp4
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/09/08/be/0908be2335fa1fd1a7213518bf7359ca.jpg" group-title="MOVIES",Meet the Browns (2008)
-http://www.deadlyblogger.com/NewRelease/browns1.mp4
-
-#EXTINF:-1 tvg-logo="http://cdn.movieweb.com/img.teasers.posters/FIJ5QJKPF4SJNQ_358_a/Saw-V.jpg" group-title="MOVIES",Saw V (2008)
-http://www.deadlyblogger.com/NewRelease/saw5.mp4
-
-#EXTINF:-1 tvg-logo="http://www.imagesyoulike.com/images/j/32x24/j5591.jpg" group-title="MOVIES",Semi-Pro (2008)
-http://www.deadlyblogger.com/NewRelease/semipro.mp4
-
-#EXTINF:-1 tvg-logo="http://static.vivacinema.it/vivacinema/fotogallery/625X0/5746/seven-pounds-locandina.jpg" group-title="MOVIES",Seven Pounds (2008)
-http://www.deadlyblogger.com/NewRelease/sevenp.mp4
-
 #EXTINF:-1 tvg-logo="http://i.imgur.com/aATVnFO.jpg" group-title="MOVIES",Sobaka (2008)
 https://archive.org/download/Sobaka/sobaka.mp4
-
-#EXTINF:-1 tvg-logo="https://www.dvdsreleasedates.com/posters/800/S/Step-Brothers-movie-poster.jpg" group-title="MOVIES",Step Brothers (2008)
-http://www.deadlyblogger.com/NewRelease/stepbro.mp4
-
-#EXTINF:-1 tvg-logo="https://klling.files.wordpress.com/2013/05/the-house-bunny-poster.jpg" group-title="MOVIES",The House Bunny (2008)
-http://www.deadlyblogger.com/NewRelease/housebunny2014.mp4
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/16/88_Minutes_Poster.jpg" group-title="MOVIES",88 Minutes (2007)
-https://archive.org/download/88Minutes_201706/88%20Minutes.mp4
-
-#EXTINF:-1 tvg-logo="https://i.jeded.com/i/american-gangster.15147.jpg" group-title="MOVIES",American Gangster (2007)
-http://www.deadlyblogger.com/NewRelease/agangster.mp4
-
-#EXTINF:-1 tvg-logo="http://is4.mzstatic.com/image/thumb/Video4/v4/72/40/f8/7240f835-1c44-2902-4662-a8bfccadbb72/source/1200x630bb.jpg" group-title="MOVIES",Blades of Glory (2007)
-http://www.deadlyblogger.com/NewRelease/glory.mp4
-
-#EXTINF:-1 tvg-logo="http://ccmoviereviews.com/wp-content/uploads/2015/05/Hot-Fuzz.jpg" group-title="MOVIES",Hot Fuzz (2007)
-http://www.deadlyblogger.com/NewRelease/hotfuzz.mp4
-
-#EXTINF:-1 tvg-logo="http://www.yifysubtitles.com/images/movies/movie-151.jpg" group-title="MOVIES",I Am Legend (2007)
-http://www.deadlyblogger.com/NewRelease/iaml.mp4
-
-#EXTINF:-1 tvg-logo="https://i.jeded.com/i/ratatouille.10390.jpg" group-title="MOVIES",Ratatouille (2007)
-http://www.deadlyblogger.com/NewRelease/ratatouille.mp4
-
-#EXTINF:-1 tvg-logo="https://moviesfilmsandflix.files.wordpress.com/2017/09/saw-4-poster.jpg" group-title="MOVIES",Saw IV (2007)
-http://www.deadlyblogger.com/NewRelease/saw4.mp4
-
 #EXTINF:-1 tvg-logo="https://a.ltrbxd.com/resized/film-poster/4/2/4/5/3/42453-steal-this-film-ii-0-230-0-345-crop.jpg" group-title="MOVIES",Steal This Film 2 (2007)
 https://archive.org/download/StealThisFilmII/Steal_This_Film_II.720p_512kb.mp4
-
-#EXTINF:-1 tvg-logo="https://static.rogerebert.com/uploads/movie/movie_poster/the-bourne-ultimatum-2007/large_fHho6JYYY0nRcETWSoeI19iZsNF.jpg" group-title="MOVIES",The Bourne Ultimatum (2007)
-http://www.deadlyblogger.com/NewRelease/bourne3.mp4
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/66/Transformers07.jpg" group-title="MOVIES",Transformers (2007)
-http://www.deadlyblogger.com/NewRelease/transformers1.mp4
-
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51AUqQt%2BEbL.jpg" group-title="MOVIES",Wrong Turn 2: Dead End (2007)
-http://www.deadlyblogger.com/NewRelease/wrongturn2.mp4
-
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/looneytunes/images/1/12/Bah_Humduck_DVD.jpg" group-title="MOVIES",Bah Humduck! - A Looney Tunes Christmas (2006)
 https://archive.org/download/Bugs_Bunny_Collection/Bah%2C%20Humduck%21%20-%20A%20Looney%20Tunes%20Christmas%20(2006)%20-%20[arsenaloyal].mp4
-
-#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/die-hard-scenario/images/7/70/DHS-_Deja_Vu_%282006%29_alternate_poster.jpg" group-title="MOVIES",Deja Vu (2006)
-http://www.deadlyblogger.com/NewRelease/dejavu.mp4
-
 #EXTINF:-1 tvg-logo="https://cloud.blender.org/api/storage/file/eb/ebe66c8c24ea4f693c44f93076757e67-l.jpg" group-title="MOVIES",Elephants Dream (2006)
 https://archive.org/download/ElephantsDream/ed_hd_512kb.mp4
-
-#EXTINF:-1 tvg-logo="https://static.rogerebert.com/uploads/movie/movie_poster/inside-man-2006/large_z6wYRuvk1lf60R4SmWETfdUvGsm.jpg" group-title="MOVIES",Inside Man (2006)
-http://www.deadlyblogger.com/NewRelease/insideman.mp4
-
-#EXTINF:-1 tvg-logo="http://www.hebrew-hustle.com/wp-content/uploads/2013/04/075596860529.jpg" group-title="MOVIES",Killa Season (2006)
-http://www.deadlyblogger.com/NewRelease/killa1.mp4
-
-#EXTINF:-1 tvg-logo="https://www.movieposter.com/posters/archive/main/34/MPW-17048" group-title="MOVIES",Madea's Family Reunion (2006)
-http://www.deadlyblogger.com/NewRelease/madea2.mp4
-
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51s4xFFWtWL._SY445_.jpg" group-title="MOVIES",Mickey Saves Santa (2006)
-http://www.deadlyblogger.com/NewRelease/msavessanta.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/N09KN0W.jpg" group-title="MOVIES",Saw III (2006)
-http://www.deadlyblogger.com/NewRelease/saw3.mp4
-
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/8cWRHcl5GFI/movieposter.jpg" group-title="MOVIES",Talladega Nights: The Ballad of Ricky Bobby (2006)
-http://www.deadlyblogger.com/NewRelease/talla.mp4
-
-#EXTINF:-1 tvg-logo="https://allihavetosayaboutthat.files.wordpress.com/2015/05/fast_and_the_furious_tokyo_drift_the_2006_1517_poster.jpg" group-title="MOVIES",The Fast and the Furious - Tokyo Drift (2006)
-http://www.deadlyblogger.com/NewRelease/fast3.mp4
-
-#EXTINF:-1 tvg-logo="https://static.rogerebert.com/uploads/movie/movie_poster/bewitched-2005/large_An2hoxmtqAuIiqmZbGf82As7izK.jpg" group-title="MOVIES",Bewitched (2005)
-http://www.deadlyblogger.com/NewRelease/bewitched.mp4
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/Dirty_%28film%29.jpg" group-title="MOVIES",Dirty (2005)
-http://www.deadlyblogger.com/NewRelease/dirty1.mp4
-
-#EXTINF:-1 tvg-logo="http://media.sinematurk.com/film/8/13/43b065fbd9b4/15705_1.jpg" group-title="MOVIES",Four Brothers (2005)
-http://www.deadlyblogger.com/NewRelease/fourb.mp4
-
-#EXTINF:-1 tvg-logo="https://i.jeded.com/i/saw-ii-2.16005.jpg" group-title="MOVIES",Saw II (2005)
-http://www.deadlyblogger.com/NewRelease/saw2.mp4
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/64/Movie_poster_Anchorman_The_Legend_of_Ron_Burgundy.jpg" group-title="MOVIES",Anchorman: The Legend of Ron Burgundy (2004)
-http://www.deadlyblogger.com/NewRelease/anchorman.mp4
-
-#EXTINF:-1 tvg-logo="https://www.movieposter.com/posters/archive/main/40/MPW-20378" group-title="MOVIES",Blade: Trinity (2004)
-http://www.deadlyblogger.com/NewRelease/blade3.mp4
-
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51TJQA9KQ1L.jpg" group-title="MOVIES",Dirty Dancing - Havana Nights (2004)
-http://www.deadlyblogger.com/NewRelease/dirtydancing2004.mp4
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3b/Movie_poster_i_robot.jpg" group-title="MOVIES",I Robot (2004)
-http://www.deadlyblogger.com/NewRelease/irobot.mp4
-
-#EXTINF:-1 tvg-logo="https://static.rogerebert.com/uploads/movie/movie_poster/kicking-and-screaming-2005/large_3QHPcpznlNoREFpsVACC5c0thRg.jpg" group-title="MOVIES",Kicking & Screaming (2005)
-http://www.deadlyblogger.com/NewRelease/kicking.mp4
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/46/Kill_bill_vol_two_ver.jpg" group-title="MOVIES",Kill Bill - Vol. 2 (2004)
-https://archive.org/download/KillBill2_201706/Kill%20Bill%202.mp4
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/98/Mickey%27s_Twice_upon_a_Christmas.jpg" group-title="MOVIES",Mickey's Twice Upon a Christmas (2004)
-http://www.deadlyblogger.com/NewRelease/mickeytwice.mp4
-
-#EXTINF:-1 tvg-logo="https://www.movieposter.com/posters/archive/main/97/MPW-48546" group-title="MOVIES",Napoleon Dynamite (2004)
-http://www.deadlyblogger.com/NewRelease/napolean.mp4
-
-#EXTINF:-1 tvg-logo="http://nerdsontherocks.com/wp-content/uploads/2015/10/Saw_1.jpg" group-title="MOVIES",Saw (2004)
-http://www.deadlyblogger.com/NewRelease/saw1.mp4
-
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/the_bourne_supremacy-906985510-large.jpg" group-title="MOVIES",The Bourne Supremacy (2004)
-http://www.deadlyblogger.com/NewRelease/bourne2.mp4
-
-#EXTINF:-1 tvg-logo="https://static.rogerebert.com/uploads/movie/movie_poster/the-day-after-tomorrow-2004/large_wOwT5GpuMEzCIBY8b5hd9PRX0fu.jpg" group-title="MOVIES",The Day After Tomorrow (2004)
-http://www.deadlyblogger.com/NewRelease/theday2004.mp4
-
-#EXTINF:-1 tvg-logo="https://static.rogerebert.com/uploads/movie/movie_poster/the-polar-express-2004/large_wOrvRSt0pOlQWLBQDAoRryfUrSm.jpg" group-title="MOVIES",The Polar Express (2004)
-http://www.deadlyblogger.com/NewRelease/polarexpress2004.mp4
-
-#EXTINF:-1 tvg-logo="https://d32qys9a6wm9no.cloudfront.net/images/movies/poster/eb/eb21cc0143d96dbc8e3a58f1a81e4dd2_500x735.jpg" group-title="MOVIES",2 Fast 2 Furious (2003)
-http://www.deadlyblogger.com/NewRelease/fast2.mp4
-
-#EXTINF:-1 tvg-logo="http://static.rogerebert.com/uploads/movie/movie_poster/bad-boys-ii-2003/large_11jdudaJnp4rizjYnwLEb0dNKbd.jpg" group-title="MOVIES",Bad Boys II (2003)*
-https://archive.org/download/Bad.Boys.II.2003.720p.BluRay.X264.YIFY/Bad.Boys.II.2003.720p.BluRay.X264.YIFY.mp4
-
-#EXTINF:-1 tvg-logo="https://www.dvdsreleasedates.com/posters/300/E/Elf.jpg" group-title="MOVIES",Elf (2003)
-http://www.deadlyblogger.com/NewRelease/elf1.mp4
-
-#EXTINF:-1 tvg-logo="https://static.rogerebert.com/uploads/movie/movie_poster/finding-nemo-2003/large_zjqInUwldOBa0q07fOyohYCWxWX.jpg" group-title="MOVIES",Finding Nemo (2003)
-http://www.deadlyblogger.com/NewRelease/nemo2003.mp4
-
-#EXTINF:-1 tvg-logo="https://art-s.nflximg.net/ee8e8/10636cfd9e1aaeb351790dc35ab53ca8df6ee8e8.jpg" group-title="MOVIES",Malibu's Most Wanted (2003)
-http://www.deadlyblogger.com/NewRelease/malibu1.mp4
-
-#EXTINF:-1 tvg-logo="https://static.rogerebert.com/uploads/movie/movie_poster/old-school-2003/large_lvcyZumUoA6OBeqcJknfZVTmKKF.jpg" group-title="MOVIES",Old School (2003)
-http://www.deadlyblogger.com/NewRelease/oldschool1.mp4
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9d/Lord_of_the_Rings_-_The_Return_of_the_King.jpg" group-title="MOVIES",The Lord of the Rings: The Return of the King (2003)
-http://www.deadlyblogger.com/NewRelease/returnking1.mp4
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/ba/Poster_-_The_Matrix_Reloaded.jpg" group-title="MOVIES",The Matrix Reloaded (2003)
-http://www.deadlyblogger.com/NewRelease/matrix2.mp4
-
-#EXTINF:-1 tvg-logo="https://www.cinematerial.com/media/posters/md/1c/1c2zmzcw.jpg" group-title="MOVIES",Wrong Turn (2003)
-http://www.deadlyblogger.com/NewRelease/wrongturn1.mp4
-
-#EXTINF:-1 tvg-logo="https://ca.movieposter.com/posters/archive/main/96/MPW-48454" group-title="MOVIES",X2 (2003)
-http://www.deadlyblogger.com/NewRelease/xmen2.mp4
-
-#EXTINF:-1 tvg-logo="https://weallscreen.files.wordpress.com/2012/08/28-days-later.jpg" group-title="MOVIES",28 Days Later (2002)
-http://www.deadlyblogger.com/NewRelease/28days.mp4
-
-#EXTINF:-1 tvg-logo="https://badmoviemarathon.files.wordpress.com/2014/12/blade-ii.jpg" group-title="MOVIES",Blade II (2002)
-http://www.deadlyblogger.com/NewRelease/blade2.mp4
-
-#EXTINF:-1 tvg-logo="https://static.rogerebert.com/uploads/movie/movie_poster/friday-after-next-2002/large_ijDBXWelVp6fGFbmiVhazT5uxP0.jpg" group-title="MOVIES",Friday After Next (2002)
-http://www.deadlyblogger.com/NewRelease/friday3.mp4
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ad/Home_alone_4_tv_print_ad.jpg" group-title="MOVIES",Home Alone 4 (2002)
-http://www.deadlyblogger.com/NewRelease/homealone4.mp4
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3d/Men_in_Black_II_Poster.jpg" group-title="MOVIES",Men in Black II (2002)
-http://www.deadlyblogger.com/NewRelease/mnb2.mp4
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/72/Paidinfullposter.jpg/220px-Paidinfullposter.jpg" group-title="MOVIES",Paid in Full (2002)
-http://www.deadlyblogger.com/NewRelease/paidin.mp4
-
-#EXTINF:-1 tvg-logo="http://images4.static-bluray.com/products/20/28232_1_large.jpg" group-title="MOVIES",Tarzan & Jane (2002)
-http://www.deadlyblogger.com/NewRelease/tarzanjane.mp4
-
-#EXTINF:-1 tvg-logo="https://www.movieposter.com/posters/archive/main/106/MPW-53157" group-title="MOVIES",The Bourne Identity (2002)
-http://www.deadlyblogger.com/NewRelease/bourne1.mp4
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ad/Lord_of_the_Rings_-_The_Two_Towers.jpg" group-title="MOVIES",The Lord of the Rings: The Two Towers (2002)
-http://www.deadlyblogger.com/NewRelease/twotowers.mp4
-
-#EXTINF:-1 tvg-logo="https://static.rogerebert.com/uploads/movie/movie_poster/ali-2001/large_gCGoMZXGdU7DY8xgKYle6dJGksT.jpg" group-title="MOVIES",Ali (2001)
-http://www.deadlyblogger.com/NewRelease/ali1.mp4
-
-#EXTINF:-1 tvg-logo="http://movieboozer.com/wp-content/uploads/2011/12/jayandsilentbobposter.jpg" group-title="MOVIES",Jay and Silent Bob Strike Back (2001)
-http://www.deadlyblogger.com/NewRelease/strikeback.mp4
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a0/Mickey%27s_Magical_Christmas.jpg" group-title="MOVIES",Mickey's Magical Christmas: Snowed in at the House of Mouse (2001)
-http://www.deadlyblogger.com/NewRelease/mmagicalchristmas.mp4
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7d/Planet_of_the_Apes_%282001%29_poster.jpg/220px-Planet_of_the_Apes_%282001%29_poster.jpg" group-title="MOVIES",Planet of the Apes (2001)
-http://www.deadlyblogger.com/NewRelease/apes6.mp4
-
-#EXTINF:-1 tvg-logo="http://i1.sell.com/u/7B/4T/11925511-l.jpg" group-title="MOVIES",Pootie Tang (2001)
-http://www.deadlyblogger.com/NewRelease/pootie.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/krYBVdp.jpg" group-title="MOVIES",The Animal (2001)
-http://www.deadlyblogger.com/NewRelease/animal.mp4
-
-#EXTINF:-1 tvg-logo="https://juicyreviewz.files.wordpress.com/2014/06/the-fast-and-the-furious-2001-film-poster-hd-vin-diesel-paul-walker-michelle-rodriguez.jpg" group-title="MOVIES",The Fast and the Furious (2001)*
-http://www.deadlyblogger.com/NewRelease/fast1.mp4
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9d/The_Lord_of_the_Rings_The_Fellowship_of_the_Ring_%282001%29_theatrical_poster.jpg" group-title="MOVIES",The Lord of the Rings: The Fellowship of the Ring (2001)
-http://www.deadlyblogger.com/NewRelease/fellowship1.mp4
-
-#EXTINF:-1 tvg-logo="http://media.sinematurk.com/film/b/66/6bbe09e0b0bf/16542_1.jpg" group-title="MOVIES",Training Day (2001)
-http://www.deadlyblogger.com/NewRelease/training.mp4
-
-#EXTINF:-1 tvg-logo="https://assets.cdn.moviepilot.de/files/2305cff73ee7ae67cca8992fc000f1f3bab9a915b3c9eff9f49de8ffd6a9/Cabin_by_the_Lake.jpg" group-title="MOVIES",Cabin by the Lake (2000)
-http://www.deadlyblogger.com/NewRelease/cabin1.mp4
-
-#EXTINF:-1 tvg-logo="http://barkerhost.com/wp-content/uploads/sites/4/2016/11/fBWxtaerz5e6o9mTftRT3YxIYvp-4.jpg" group-title="MOVIES",How the Grinch Stole Christmas (2000)
-http://www.deadlyblogger.com/NewRelease/grinch2000.mp4
-
 #EXTINF:-1 tvg-logo="http://www.dvdsreleasedates.com/posters/800/M/Men-of-Honor-movie-poster.jpg" group-title="MOVIES",Men of Honor (2000)
 https://archive.org/download/MenOfHonor20001080pX264ItaEnSciencefunMux/Men%20of%20Honor%20%282000%29%201080p%20x264%20ita%20en%20%5bSciencefun%20Mux%5d.mp4
-
-#EXTINF:-1 tvg-logo="http://www.dvdplanetstore.pk/wp-content/uploads/2014/02/Next-Friday-2000-DVD.jpg" group-title="MOVIES",Next Friday (2000)
-http://www.deadlyblogger.com/NewRelease/friday2.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MvKpXQm.jpg" group-title="MOVIES",X-Men (2000)
-http://www.deadlyblogger.com/NewRelease/xmen1.mp4
-
-#EXTINF:-1 tvg-logo="https://i.jeded.com/i/austin-powers-the-spy-who-shagged-me.13904.jpg" group-title="MOVIES",Austin Powers: The Spy Who Shagged Me (1999)
-http://www.deadlyblogger.com/NewRelease/austin2.mp4
-
-#EXTINF:-1 tvg-logo="https://lazaruslair.files.wordpress.com/2014/06/childrenofthecorn666.jpg" group-title="MOVIES",Children of the Corn 666: Isaac's Return (1999)
-http://www.deadlyblogger.com/NewRelease/corn6.mp4
-
-#EXTINF:-1 tvg-logo="http://68.media.tumblr.com/494dcc6f1c79dee0f789f5edfe780c26/tumblr_o1tscbmplM1ueb6l2o1_1280.jpg" group-title="MOVIES",Dogma (1999)
-http://www.deadlyblogger.com/NewRelease/dogma1999.mp4
-
-#EXTINF:-1 tvg-logo="https://www.movieposter.com/posters/archive/main/148/MPW-74241" group-title="MOVIES",Jawbreaker (1999)
-http://www.deadlyblogger.com/NewRelease/jawbreaker.mp4
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Bone_collector_poster.jpg" group-title="MOVIES",The Bone Collector (1999)
-http://www.deadlyblogger.com/NewRelease/thebone1.mp4
-
-#EXTINF:-1 tvg-logo="http://www.filmovizija.ws/static/movies-img/5ce9262fd/5ce9262fd.jpg" group-title="MOVIES",The Boondock Saints (1999)
-http://www.deadlyblogger.com/NewRelease/saints1999.mp4
-
-#EXTINF:-1 tvg-logo="http://horrornews.net/wp-content/uploads/2013/01/Matrix-poster-2-365x500.jpg" group-title="MOVIES",The Matrix (1999)
-http://www.deadlyblogger.com/NewRelease/matrix1.mp4
-
-#EXTINF:-1 tvg-logo="https://static.rogerebert.com/uploads/movie/movie_poster/wild-wild-west-1999/large_yT2y0SCQNj2pnRmvfxVbI9yrC4a.jpg" group-title="MOVIES",Wild Wild West (1999)
-http://www.deadlyblogger.com/NewRelease/wildwest.mp4
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/19/3_ninjas_high_noon_at_mega_mountain_poster.jpg" group-title="MOVIES",3 Ninjas: High Noon at Mega Mountain (1998)
-http://www.deadlyblogger.com/NewRelease/3ninja4.mp4
-
-#EXTINF:-1 tvg-logo="https://static.rogerebert.com/uploads/movie/movie_poster/a-night-at-the-roxbury-1998/large_s6DRSRb18d18ApQV4rVeUVltYiO.jpg" group-title="MOVIES",A Night at the Roxbury (1998)
-http://www.deadlyblogger.com/NewRelease/roxbury.mp4
-
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/1m_m5AKYT-s/movieposter.jpg" group-title="MOVIES",Belly (1998)
-http://www.deadlyblogger.com/NewRelease/belly1998.mp4
-
-#EXTINF:-1 tvg-logo="http://images2.fanpop.com/image/photos/10400000/BLADE-half-vampire-half-humans-10478050-334-500.jpg" group-title="MOVIES",Blade (1998)
-http://www.deadlyblogger.com/NewRelease/blade1.mp4
-
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/p17ktcI9Xso/movieposter.jpg" group-title="MOVIES",Children of the Corn V: Fields of Terror (1998)
-http://www.deadlyblogger.com/NewRelease/corn5.mp4
-
-EXTINF:-1 tvg-logo="https://www.cinemaclock.com/html/images/posters/1000x1500/7/cousin-bette-1998-i-movie-poster.jpg" group-title="MOVIES",Cousin Bette (1998)
-https://archive.org/download/CousinBette1998DVDRipiwanttobelieveinaj/Cousin%20Bette%20%281998%29%20DVDRip%20%5Biwanttobelieveinaj%5D.mp4
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e8/Fallen_film_poster.jpg" group-title="MOVIES",Fallen (1998)
-http://www.deadlyblogger.com/NewRelease/fallen2.mp4
-
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/the_siege-594733198-large.jpg" group-title="MOVIES",The Siege (1998)
-http://www.deadlyblogger.com/NewRelease/siege1.mp4
-
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71gLzDN85%2BL._SY445_.jpg" group-title="MOVIES",The Wedding Singer (1998)
-http://www.deadlyblogger.com/NewRelease/wedding1998.mp4
-
-#EXTINF:-1 tvg-logo="https://i.jeded.com/i/austin-powers-international-man-of-mystery.13891.jpg" group-title="MOVIES",Austin Powers: International Man of Mystery (1997)
-http://www.deadlyblogger.com/NewRelease/austin1.mp4
-
-#EXTINF:-1 tvg-logo="https://lumiere-a.akamaihd.net/v1/images/open-uri20150422-12561-1v9oc4l_61540bb2.jpeg" group-title="MOVIES",Flubber (1997)
-http://www.deadlyblogger.com/NewRelease/flubber.mp4
-
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/rasaVJgqbPA/movieposter.jpg" group-title="MOVIES",Home Alone 3 (1997)
-http://www.deadlyblogger.com/NewRelease/homealone3.mp4
-
-#EXTINF:-1 tvg-logo="http://fr.web.img5.acsta.net/pictures/14/05/26/16/57/120603.jpg" group-title="MOVIES",Men in Black (1997)
-http://www.deadlyblogger.com/NewRelease/mnb1.mp4
-
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Q8gRMg1y_p0/movieposter.jpg" group-title="MOVIES",Children of the Corn: The Gathering (1996)
-http://www.deadlyblogger.com/NewRelease/corn4.mp4
-
-#EXTINF:-1 tvg-logo="https://i.jeded.com/i/dont-be-a-menace-to-south-central-while-drinking-your-juice-in-the-hood.23281.jpg" group-title="MOVIES",Don't Be a Menace to South Central While Drinking Your Juice in the Hood (1996)
-http://www.deadlyblogger.com/NewRelease/menace.mp4
-
-#EXTINF:-1 tvg-logo="https://static.rogerebert.com/uploads/movie/movie_poster/d3-the-mighty-ducks-1996/large_s6E8Q1l5GpOpP3Md7cdB5BqaLTC.jpg" group-title="MOVIES",D3: The Mighty Ducks (1996)
-http://www.deadlyblogger.com/NewRelease/mighty3.mp4
-
-#EXTINF:-1 tvg-logo="https://static.rogerebert.com/uploads/movie/movie_poster/independence-day-1996/large_nkj3HRG3g2zjlKRWmjJHvElhX4y.jpg" group-title="MOVIES",Independence Day (1996)
-http://www.deadlyblogger.com/NewRelease/indep.mp4
-
-#EXTINF:-1 tvg-logo="https://www.movieposter.com/posters/archive/main/43/MPW-21617" group-title="MOVIES",Jack (1996)
-http://www.deadlyblogger.com/NewRelease/jack1996.mp4
-
-#EXTINF:-1 tvg-logo="https://static.rogerebert.com/uploads/movie/movie_poster/jingle-all-the-way-1996/large_aaVkNhUONnkSv5ijPjq7pEmmWyE.jpg" group-title="MOVIES",Jingle All the Way (1996)
-http://www.deadlyblogger.com/NewRelease/jinglealltheway.mp4
-
-#EXTINF:-1 tvg-logo="https://i.jeded.com/i/3-ninjas-knuckle-up.41174.jpg" group-title="MOVIES",3 Ninjas Knuckle Up (1995)
-http://www.deadlyblogger.com/NewRelease/3ninja3.mp4
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a8/Bad_Boys.jpg" group-title="MOVIES",Bad Boys (1995)
-http://www.deadlyblogger.com/NewRelease/badboys1.mp4
-
-#EXTINF:-1 tvg-logo="https://static.rogerebert.com/uploads/movie/movie_poster/congo-1995/large_ozQAil3XgUjvpuPbCh1M9mG6HBf.jpg" group-title="MOVIES",Congo (1995)
-http://www.deadlyblogger.com/NewRelease/congo1995.mp4
-
-#EXTINF:-1 tvg-logo="https://static.rogerebert.com/uploads/movie/movie_poster/crimson-tide-1995/large_36DbhkwRhLCbACzItivEw9qM42U.jpg" group-title="MOVIES",Crimson Tide (1995)
-http://www.deadlyblogger.com/NewRelease/crimson.mp4
-
-#EXTINF:-1 tvg-logo="https://www.movieposter.com/posters/archive/main/80/MPW-40122" group-title="MOVIES",Dangerous Minds (1995)
-http://www.deadlyblogger.com/NewRelease/minds.mp4
-
-#EXTINF:-1 tvg-logo="https://static.rogerebert.com/uploads/movie/movie_poster/dead-presidents-1995/large_l9XNWcqLS2AmUDpFJfMMgzS2pqz.jpg" group-title="MOVIES",Dead Presidents (1995)
-http://www.deadlyblogger.com/NewRelease/deadp.mp4
-
-#EXTINF:-1 tvg-logo="https://alchetron.com/cdn/Friday-1995-film-images-cb7c5851-5b0a-4534-a477-6f9563c3e43.jpg" group-title="MOVIES",Friday (1995)
-http://www.deadlyblogger.com/NewRelease/friday1.mp4
-
-#EXTINF:-1 tvg-logo="http://static.rogerebert.com/uploads/movie/movie_poster/jumanji-1995/large_vzmL6fP7aPKNKPRTFnZmiUfciyV.jpg" group-title="MOVIES",Jumanji (1995)
-http://www.deadlyblogger.com/NewRelease/Jumanji1.mp4
-
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/-ZMN8jKY070/movieposter.jpg" group-title="MOVIES",New Jersey Drive (1995)
-http://www.deadlyblogger.com/NewRelease/jerseydrive95.mp4
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7c/3_Ninjas_Kick_Back.jpg" group-title="MOVIES",3 Ninjas Kick Back (1994)
-http://www.deadlyblogger.com/NewRelease/3ninja2.mp4
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/42/D_two_the_mighty_ducks.jpg" group-title="MOVIES",D2: The Mighty Ducks (1994)
-http://www.deadlyblogger.com/NewRelease/mighty2.mp4
-
-#EXTINF:-1 tvg-logo="https://dvdbash.files.wordpress.com/2015/10/a-nightmare-on-elm-street-freddy-krueger-064-posters-dvdbash.jpg" group-title="MOVIES",New Nightmare (1994)
-http://www.deadlyblogger.com/NewRelease/elm7.mp4
-
-#EXTINF:-1 tvg-logo="https://cps-static.rovicorp.com/2/Open/Disney/The%20Lion%20King/_derived_jpg_q90_410x410_m0/LKING_1sheet.jpg" group-title="MOVIES",The Lion King (1994)
-http://www.deadlyblogger.com/NewRelease/lionking.mp4
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/aa/Bloodinbloodout_poster.jpg" group-title="MOVIES",Blood In Blood Out (1993)
-http://www.deadlyblogger.com/NewRelease/blood.mp4
-
-#EXTINF:-1 tvg-logo="https://static.rogerebert.com/uploads/movie/movie_poster/hocus-pocus-1993/large_okCXNIX9QXNXbWM9NBnKlMpYVBd.jpg" group-title="MOVIES",Hocus Pocus (1993)
-http://www.deadlyblogger.com/NewRelease/hocuspocus.mp4
-
-#EXTINF:-1 tvg-logo="https://cdn1.fishpond.com.au/0001/537/043/3519799/6.jpeg" group-title="MOVIES",Menace II Society (1993)
-http://www.deadlyblogger.com/NewRelease/menace2.mp4
-
-#EXTINF:-1 tvg-logo="https://i.jeded.com/i/mrs-doubtfire.13302.jpg" group-title="MOVIES",Mrs. Doubtfire (1993)
-http://www.deadlyblogger.com/NewRelease/doubtfire.mp4
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/ca/Only_the_Strong.jpg" group-title="MOVIES",Only the Strong (1993)
-http://www.deadlyblogger.com/NewRelease/onlys.mp4
-tps://bobmovies.net/hl/Batman.Returns.1992_720p.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/bax6hItUe0XSeyO25J5V7hhgkkZ.jpg" group-title="MOVIES",Teenage Mutant Ninja Turtles III (1993)
-http://www.deadlyblogger.com/NewRelease/tmnt3.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/kBwmwfQEkObrnsc6whcNE5Kh2Wr.jpg" group-title="MOVIES",The Nightmare Before Christmas (1993)
-http://www.deadlyblogger.com/NewRelease/nightmarebefore.mp4
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/54/Secretgarden1993.jpg/220px-Secretgarden1993.jpg" group-title="MOVIES",The Secret Garden (1993)
-http://www.deadlyblogger.com/NewRelease/garden1993.mp4
-
-#EXTINF:-1 tvg-logo="http://www.dvdplanetstore.pk/wp-content/uploads/2014/01/3-Ninjas.jpg" group-title="MOVIES",3 Ninjas (1992)
-http://www.deadlyblogger.com/NewRelease/3ninja1.mp4
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/45/ClassAct1992MoviePoster.jpg/220px-ClassAct1992MoviePoster.jpg" group-title="MOVIES",Class Act (1992)
-http://www.deadlyblogger.com/NewRelease/classact.mp4
-
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/pTwL1MFHSTI/movieposter.jpg" group-title="MOVIES",Children of the Corn II: The Final Sacrifice (1992)
-http://www.deadlyblogger.com/NewRelease/corn2.mp4
-
 #EXTINF:-1 tvg-logo="http://www.digitalmonsterisland.com/g_and_mothra_universe_front.jpg" group-title="MOVIES",Godzilla and Mothra: The Battle for Earth (1992)
 https://archive.org/download/GodzillaAndMothraTheBattleForEarth/Godzilla%20And%20Mothra%20The%20Battle%20For%20Earth.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ezGcLFTvwR64I3Z7RqHnXRFet4r.jpg" group-title="MOVIES",Home Alone 2: Lost in New York (1992)
-http://www.deadlyblogger.com/NewRelease/homealone2.mp4
-
-#EXTINF:-1 tvg-logo="http://soultrain.com/blog/wp-content/uploads/2011/04/juice.jpg" group-title="MOVIES",Juice (1992)
-http://www.deadlyblogger.com/NewRelease/juice.mp4
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Pet_sematary_ii_ver2.jpg" group-title="MOVIES",Pet Sematary II (1992)
-http://www.deadlyblogger.com/NewRelease/sematary2.mp4
-
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51P4AB4HkgL._SY445_.jpg" group-title="MOVIES",Romper Stomper (1992)
-http://www.deadlyblogger.com/NewRelease/romper.mp4
-
-#EXTINF:-1 tvg-logo="https://www.movieposter.com/posters/archive/main/106/MPW-53149" group-title="MOVIES",South Central (1992)
-http://www.deadlyblogger.com/NewRelease/southcentral.mp4
-
-#EXTINF:-1 tvg-logo="https://lumiere-a.akamaihd.net/v1/images/open-uri20150422-12561-gozy9j_1c8a9e5f.jpeg" group-title="MOVIES",The Mighty Ducks (1992)
-http://www.deadlyblogger.com/NewRelease/mighty1.mp4
-
-#EXTINF:-1 tvg-logo="https://static.rogerebert.com/uploads/movie/movie_poster/the-muppet-christmas-carol-1992/large_yUqTe0sf91jgamwzXoCwzg9zuKj.jpg" group-title="MOVIES",The Muppet Christmas Carol (1992)
-http://www.deadlyblogger.com/NewRelease/muppetcarol.mp4
-
-#EXTINF:-1 tvg-logo="https://static.rogerebert.com/uploads/movie/movie_poster/boyz-n-the-hood-1991/large_wg4cZ3KwpS29V5koye6QKkEmF9o.jpg" group-title="MOVIES",Boyz n the Hood (1991)
-http://www.deadlyblogger.com/NewRelease/thehood.mp4
-
-#EXTINF:-1 tvg-logo="https://cdn.flickeringmyth.com/wp-content/uploads/2013/10/childs_play_three_xlg.jpg" group-title="MOVIES",Child's Play 3 (1991)
-http://www.deadlyblogger.com/NewRelease/childsplay3.mp4
-
-#EXTINF:-1 tvg-logo="https://i.jeded.com/i/dont-tell-mom-the-babysitters-dead.40073.jpg" group-title="MOVIES",Don't Tell Mom the Babysitter's Dead (1991)
-http://www.deadlyblogger.com/NewRelease/babysitter1991.mp4
-
-#EXTINF:-1 tvg-logo="http://nightmareonelmstreetfilms.com/image/freddysdeadthefinalnightmarehardcover.jpg" group-title="MOVIES",Freddy's Dead: The Final Nightmare (1991)
-http://www.deadlyblogger.com/NewRelease/elm6.mp4
-
-#EXTINF:-1 tvg-logo="https://static.rogerebert.com/uploads/movie/movie_poster/hook-1991/large_p99L5146H4MBDMWRQfidqlFJR2o.jpg" group-title="MOVIES",Hook (1991)
-http://www.deadlyblogger.com/NewRelease/hook1991.mp4
-
-#EXTINF:-1 tvg-logo="https://www.movieposter.com/posters/archive/main/79/MPW-39937" group-title="MOVIES",New Jack City (1991)
-http://www.deadlyblogger.com/NewRelease/newjack.mp4
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/Teenage_Mutant_Ninja_Turtles_II_%281991_film%29_poster.jpg/220px-Teenage_Mutant_Ninja_Turtles_II_%281991_film%29_poster.jpg" group-title="MOVIES",Teenage Mutant Ninja Turtles II: The Secret of the Ooze (1991)
-http://www.deadlyblogger.com/NewRelease/tmnt2.mp4
-
-#EXTINF:-1 tvg-logo="http://images.fanpop.com/images/image_uploads/Child-s-Play-2-chucky-96624_365_500.jpg" group-title="MOVIES",Child's Play 2 (1990)
-http://www.deadlyblogger.com/NewRelease/childsplay2.mp4
-
-#EXTINF:-1 tvg-logo="https://img.hindilinks4u.to/2015/08/DuckTales-the-Movie-Treasure-of-the-Lost-Lamp-1990-In-Hindi.jpg" group-title="MOVIES",DuckTales the Movie: Treasure of the Lost Lamp (1990)
-http://www.deadlyblogger.com/NewRelease/ducktales1990.mp4
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/95/f5/ab/95f5ab9aaab5b15b61165ec01500a772--home-alone-movie-alone-movies.jpg" group-title="MOVIES",Home Alone (1990)
-http://www.deadlyblogger.com/NewRelease/homealone1.mp4
-
-#EXTINF:-1 tvg-logo="https://i.jeded.com/i/teenage-mutant-ninja-turtles-the-movie-1990.30980.jpg" group-title="MOVIES",Teenage Mutant Ninja Turtles (1990)
-http://www.deadlyblogger.com/NewRelease/tmnt1.mp4
-
-#EXTINF:-1 tvg-logo="https://static.rogerebert.com/uploads/movie/movie_poster/the-godfather-part-iii-1990/large_uzaP0L7BEprcJHCuwbaHiYT0UYX.jpg" group-title="MOVIES",The Godfather: Part III (1990)
-http://www.deadlyblogger.com/NewRelease/godfather3.mp4
-
-#EXTINF:-1 tvg-logo="http://nightmareonelmstreetfilms.com/image/anightmareonelmstreet5thedreamchildmovieposter_promo5.jpg" group-title="MOVIES",A Nightmare on Elm Street 5 - The Dream Child (1989)
-http://www.deadlyblogger.com/NewRelease/elm5.mp4
-
 #EXTINF:-1 tvg-logo="http://www.truechristianity.info/img/films/francesco_1989_cover.jpg" group-title="MOVIES",Francesco (1989)
 https://archive.org/download/Francesco1989_466/Francesco-1989-Clip_512kb.mp4
-
-#EXTINF:-1 tvg-logo="https://vignette3.wikia.nocookie.net/stephenking/images/b/b3/Pet_sematary_poster_01.jpg" group-title="MOVIES",Pet Sematary (1989)
-http://www.deadlyblogger.com/NewRelease/sematary1.mp4
-
-#EXTINF:-1 tvg-logo="https://static.rogerebert.com/uploads/movie/movie_poster/the-little-mermaid-1989/large_ivdzLXCVgPUyjphKbbB40z8FQp8.jpg" group-title="MOVIES",The Little Mermaid (1989)
-http://www.deadlyblogger.com/NewRelease/mermaid1.mp4
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/26/A_Nightmare_on_Elm_Street_4_-_The_Dream_Master_%281988%29_theatrical_poster.jpg" group-title="MOVIES",A Nightmare on Elm Street 4 - The Dream Master (1988)
-http://www.deadlyblogger.com/NewRelease/elm4.mp4
-
-#EXTINF:-1 tvg-logo="https://static.rogerebert.com/uploads/movie/movie_poster/childs-play-1988/large_6r9MOdGpOpSTH4jCQemyhPOHbZn.jpg" group-title="MOVIES",Child's Play (1988)
-http://www.deadlyblogger.com/NewRelease/childsplay1.mp4
-
-#EXTINF:-1 tvg-logo="https://i.jeded.com/i/who-framed-roger-rabbit.28048.jpg" group-title="MOVIES",Who Framed Roger Rabbit (1988)
-http://www.deadlyblogger.com/NewRelease/framed.mp4
-
-#EXTINF:-1 tvg-logo="https://teamhellions.files.wordpress.com/2015/10/dreamwarriors.jpg" group-title="MOVIES",A Nightmare on Elm Street 3 - Dream Warriors (1987)
-http://www.deadlyblogger.com/NewRelease/elm3.mp4
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/21/67/39/21673981bf91d0d673b9db65ca63d9a1.jpg" group-title="MOVIES",Dirty Dancing (1987)
-http://www.deadlyblogger.com/NewRelease/dirtydancing1987.mp4
-
-#EXTINF:-1 tvg-logo="https://i.jeded.com/i/the-great-mouse-detective.17559.jpg" group-title="MOVIES",The Great Mouse Detective (1986)
-http://www.deadlyblogger.com/NewRelease/detective.mp4
-
-#EXTINF:-1 tvg-logo="https://i.jeded.com/i/the-money-pit.42727.jpg" group-title="MOVIES",The Money Pit (1986)
-http://www.deadlyblogger.com/NewRelease/moneypit1986.mp4
-
-#EXTINF:-1 tvg-logo="https://alchetron.com/cdn/Troll-film-images-6cec53ec-3e28-4c85-bd5f-de7b5b591ab.jpg" group-title="MOVIES",Troll (1986)
-http://www.deadlyblogger.com/NewRelease/troll1.mp4
-
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Na_C9_iO664/maxresdefault.jpg" group-title="MOVIES",A Nightmare on Elm Street 2 - Freddy's Revenge (1985)
-http://www.deadlyblogger.com/NewRelease/elm2.mp4
-
-#EXTINF:-1 tvg-logo="https://static.rogerebert.com/uploads/movie/movie_poster/the-goonies-1985/large_bZUbpjwnarSHJK40W9sGpyedWhx.jpg" group-title="MOVIES",The Goonies (1985)
-http://www.deadlyblogger.com/NewRelease/thegoonies.mp4
-
-#EXTINF:-1 tvg-logo="https://static.rogerebert.com/uploads/movie/movie_poster/the-last-dragon-1985/large_RZQF0DGwlC0XTYNKjNSjpkSlQn.jpg" group-title="MOVIES",The Last Dragon (1985)
-http://www.deadlyblogger.com/NewRelease/lastdragon.mp4
-
-#EXTINF:-1 tvg-logo="https://i.ebayimg.com/images/g/szEAAOSwJ4hY8-3I/s-l300.jpg" group-title="MOVIES",Robotix The Movie (1985)
-https://archive.org/download/RobotixTheMovie1985/Robotix%20%20The%20Movie%20(1985).mp4
-
-#EXTINF:-1 tvg-logo="https://eightiesmovies.files.wordpress.com/2010/12/nightmareonelm.jpg" group-title="MOVIES",A Nightmare on Elm Street (1984)
-http://www.deadlyblogger.com/NewRelease/elm1.mp4
-
-#EXTINF:-1 tvg-logo="https://www.movieposter.com/posters/archive/main/136/MPW-68290" group-title="MOVIES",The Muppets Take Manhattan (1984)
-http://www.deadlyblogger.com/NewRelease/muppets1984.mp4
-
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51f-NtZbSCL._SY445_.jpg" group-title="MOVIES",A Disney Christmas Gift (1983)
-http://www.deadlyblogger.com/NewRelease/disneyc1.mp4
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/9f/62/25/9f622520300f572d8a78df9ee85d58b4.jpg" group-title="MOVIES",Cujo (1983)
-http://www.deadlyblogger.com/NewRelease/cujo.mp4
-
-#EXTINF:-1 tvg-logo="https://i.jeded.com/i/mickeys-christmas-carol.20057.jpg" group-title="MOVIES",Mickey's Christmas Carol (1983)
-http://www.deadlyblogger.com/NewRelease/mchristmascarol.mp4
-
 #EXTINF:-1 tvg-logo="http://db.rozamira.net/uploads/attach/6/c/4336.jpg" group-title="MOVIES",Protectors of the Universe (1983)
 https://archive.org/download/protectors_of_the_universe_korean_animation/korean_animation_protectors_of_the_universe_512kb.mp4
-
-#EXTINF:-1 tvg-logo="https://i.jeded.com/i/star-wars-episode-vi--return-of-the-jedi.13947.jpg" group-title="MOVIES",Star Wars: Episode VI - Return of the Jedi (1983)
-http://www.deadlyblogger.com/NewRelease/starwarsvi.mp4
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/FiveMinutesTo_Live.jpg/220px-FiveMinutesTo_Live.jpg" group-title="MOVIES",Five Minutes To Live (1961)
 https://archive.org/download/Five_Minutes_To_Live.avi/Five_Minutes_to_Live_512kb.mp4
-#EXTINF:-1 tvg-logo="http://img.moviepostershop.com/francis-of-assisi-movie-poster-1961-1020254175.jpg" group-title="MOVIES",Francis of Assisi (1961)
-https://archive.org/download/StFrancisOfAssisiFullMovie/St%20Francis%20of%20Assisi%20Full%20Movie.mp4
 #EXTINF:-1 tvg-logo="http://www.benitomovieposter.com/catalog/images/movieposter/3882.jpg" group-title="MOVIES",Hercules and the Captive Women (1961)
 https://archive.org/download/cco__HerculesandtheCaptiveWomen/cco_herculesandthecaptivewomen_512kb.mp4
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b5/170592-Judgment-at-Nuremberg-Posters.jpg/220px-170592-Judgment-at-Nuremberg-Posters.jpg" group-title="MOVIES",Judgment at Nuremberg (1961)
 https://archive.org/download/Judgment.at.Nuremberg.1961.1080p.BluRay.X264YIFY/Judgment.at.Nuremberg.1961.1080p.BluRay.X264-YIFY.mp4
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/75/Mothra.jpg/220px-Mothra.jpg" group-title="MOVIES",Mothra (1961)
 https://archive.org/download/Mothra_201611/Mothra.mp4
-#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/236x/95/0d/f0/950df072baf0eb2ca6889aec4b5b00bc--top-movies-movies-to-watch.jpg" group-title="MOVIES",The Guns of Navarone (1961)
-https://archive.org/download/The.Guns.of.Navarone.1961.720p.BluRay.X264AMIABLE/The.Guns.of.Navarone.1961.720p.BluRay.X264-AMIABLE.mp4
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51Q5KGRH1VL._SY445_.jpg" group-title="MOVIES",The Phantom Planet (1961)
 https://archive.org/download/Phantom_Planet/The_Phantom_Planet_512kb.mp4
 #EXTINF:-1 tvg-logo="http://www.benitomovieposter.com/catalog/images/movieposter/41138.jpg" group-title="MOVIES",The White Warrior (1961)
@@ -1153,60 +239,26 @@ https://archive.org/download/Assignment_Outer_Space/Assignment_Outer_Space_512kb
 https://archive.org/download/BattleOfBloodIslandSmaller/Battle%20of%20Blood%20Island%20smaller.mp4
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51q1ZmiLDmL._SY445_.jpg" group-title="MOVIES",Colossus and the Amazon Queen (1960)
 https://archive.org/download/ColossusTheAmazonQueen/Colossus%20&%20the%20Amazon%20Queen.mp4
-#EXTINF:-1 tvg-logo="http://www.cinemaffiche.com/images/grandes/David%20et%20Goliath.jpg" group-title="MOVIES",David and Goliath (1960)
-https://archive.org/download/DavidandGoliath1960/DavidandGoliath1960_512kb.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Estherandthekingposter.jpg/220px-Estherandthekingposter.jpg" group-title="MOVIES",Esther and the King (1960)
-https://archive.org/download/EstherAndTheKing_201603/Esther%20and%20the%20King.mp4
 #EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/27/60/1f/27601ff02dd0e530c54737d336ff788e.jpg" group-title="MOVIES",First Spaceship on Venus (1960)
 https://archive.org/download/FirstSpaceshipOnVenusMPEG/First_Spaceship_On_Venus_512kb.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/GoliathAndTheDragon-Poster.jpg" group-title="MOVIES",Goliath and the Dragon (1960)
-https://archive.org/download/GoliathAndTheDragonFullMovie/Goliath%20and%20the%20Dragon%20Full%20Movie.mp4
-#EXTINF:-1 tvg-logo="https://secure.netflix.com/us/boxshots/ghd/987462.jpg" group-title="MOVIES",Spartacus (1960)
-https://archive.org/download/Spartacus196050thAnniversaryEditionBDRipX264AC3MiLLENiUM/Spartacus%201960%2050th%20Anniversary%20Edition%20BDRip%20x264%20AC3-MiLLENiUM.mp4
-#EXTINF:-1 tvg-logo="http://horrornews.net/wp-content/uploads/2010/08/Little-Shop-Of-Horrors-poster-2.jpg" group-title="MOVIES",The Little Shop of Horrors (1960)
-https://archive.org/download/Little_ShopOf_Horrors.avi/The_Little_Shop_of_Horrors_512kb.mp4
 #EXTINF:-1 tvg-logo="http://horrornews.net/wp-content/uploads/2010/08/Little-Shop-Of-Horrors-poster-2.jpg" group-title="MOVIES",The Little Shop of Horrors (1960)*
 https://archive.org/download/MVHT24TheLittleShopOfHorrors/MVHT%20%2324%20-%20The%20Little%20Shop%20of%20Horrors.mp4
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51EADRTQ4KL.jpg" group-title="MOVIES",The Magnificent Seven (1960) [AR-Subs]
-https://archive.org/download/The.Magnificent.Seven.1960.DVDRip.AFLMAK/The.Magnificent.Seven.1960.DVDRip.AFLMAK.mp4
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/Attack_From_Space.jpg" group-title="MOVIES",Attack From Space (1959)
 https://archive.org/download/Attack_From_Space/Attack_From_Space_512kb.mp4
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/e2/b8/43/e2b843b39fbf93dbf37a67e937dffc11.jpg" group-title="MOVIES",Battle in Outer Space (1959)
 https://archive.org/download/BattleInOuterSpace/Battle%20In%20Outer%20Space.mp4
-#EXTINF:-1 tvg-logo="http://emanuellevy.com/wp-content/uploads/2015/01/Ben-Hur_poster.jpg" group-title="MOVIES",Ben-Hur (1959)
-https://archive.org/download/ben-hur_201612/ben-hur.mp4
 #EXTINF:-1 tvg-logo="https://theuraniumcafe.files.wordpress.com/2011/07/hecules-unchained2b04.jpg" group-title="MOVIES",Hercules Unchained (1959)
 https://archive.org/download/HerculesUnchained/Hercules_Unchained_512kb.mp4
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-4u77FLy3coU/UIRW6ygxJkI/AAAAAAAAA_c/odAlK5x0DB8/s1600/house-on-haunted-hill-poster-2.jpg" group-title="MOVIES",House on Haunted Hill (1959)
 https://archive.org/download/The_House_On_Haunted_Hill/The_House_On_Haunted_Hill_512kb.mp4
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Plan_9_Alternative_poster.jpg" group-title="MOVIES",Plan 9 from Outer Space (1959)
 https://archive.org/download/Plan_9_from_Outer_Space_1959/Plan_9_from_Outer_Space_1959_512kb.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/43/Sleeping_beauty_disney.jpg" group-title="MOVIES",Sleeping Beauty (1959)
-http://www.deadlyblogger.com/NewRelease/beauty1.mp4
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/45/Thebat_2poster.jpg/220px-Thebat_2poster.jpg" group-title="MOVIES",The Bat (1959)
 https://archive.org/download/The_Bat.mpeg/The_Bat_512kb.mp4
-#EXTINF:-1 tvg-logo="http://www.orphanedentertainment.com/wp-content/uploads/2015/04/the-bloody-brood-movie-poster-1959-1020484983.jpg" group-title="MOVIES",The Bloody Brood (1959)
-https://archive.org/download/TheBloodyBrood1959/The%20Bloody%20Brood%201959.mp4
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-2p5aYw2uLyY/VPSLzHge0wI/AAAAAAAAQHw/aUYARUSpp3w/s1600/La%2Bbattaglia%2Bdi%2BMaratona.JPG" group-title="MOVIES",The Giant of Marathon (1959)
 https://archive.org/download/cco_TheGiantofMarathon/ccoPublicDomainThe_Giant_of_Marathon_512kb.mp4
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/the_scavengers-614594327-large.jpg" group-title="MOVIES",The Scavengers (1959)
-https://archive.org/download/TheScavengers1959/The%20Scavengers%201959.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/Dunkirk_VideoCover.jpeg/220px-Dunkirk_VideoCover.jpeg" group-title="MOVIES",Dunkirk (1958)
-https://archive.org/download/DunkirkWarDrama1958JohnMills/Dunkirk%20%20(War%20Drama%201958)%20%20John%20Mills.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/From-hell-to-texas-movie-poster-1958-1020460828.jpg/220px-From-hell-to-texas-movie-poster-1958-1020460828.jpg" group-title="MOVIES",From Hell to Texas (1958)
-https://archive.org/download/FromHellToTexas1958FullLengthWesternMovie/From%20Hell%20to%20Texas%201958%20Full%20Length%20Western%20Movie.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/02/In_Love_and_War_FilmPoster.jpeg/220px-In_Love_and_War_FilmPoster.jpeg" group-title="MOVIES",In Love and War (1958)
-https://archive.org/download/InLoveAndWar1958RobertWagnerJeffreyHunterFullLengthClassicWarMovieEnglish/In%20Love%20and%20War%201958%20Robert%20Wagner%20,%20Jeffrey%20Hunter%20Full%20Length%20Classic%20War%20Movie%20English.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a6/Seventh_voyage_of_sinbad.jpg" group-title="MOVIES",The 7th Voyage of Sinbad (1958)
-https://archive.org/download/The7thVoyageOfSinbad1958/fmovies.toThe7thVoyageOfSinbad-Hd.mp4
-#EXTINF:-1 tvg-logo="https://secure.netflix.com/us/boxshots/ghd/60011196.jpg" group-title="MOVIES",The Inn of the Sixth Happiness (1958)
-https://archive.org/download/TheInnOfSixthHappiness/The%20Inn%20Of%20Sixth%20Happiness.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Vikings_moviep.jpg" group-title="MOVIES",The Vikings (1958)
-https://archive.org/download/The.Vikings.1958.720p.WEBDL.H264CtrlHDPublicHD/The.Vikings.1958.720p.WEB-DL.H264-CtrlHD%20[PublicHD].mp4
 #EXTINF:-1 tvg-logo="http://www.attackfromplanetb.com/wp-content/uploads/2014/05/wild_women_of_wongo_poster_01.jpg" group-title="MOVIES",The Wild Women of Wongo (1958)
 https://archive.org/download/The_Wild_Women_Of_Wongo/The_Wild_Women_of_Wongo_512kb.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/Vertigomovie_restoration.jpg" group-title="MOVIES",Vertigo (1958)
-https://archive.org/download/Vertigo1958720pHDTVX264X0r/Vertigo%201958%20720p%20HDTV%20x264%20x0r.mp4
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81l79UWSs-L._SY445_.jpg" group-title="MOVIES",The Enemy Below (1957)
 https://archive.org/download/TheEnemyBelow19571080pBluRayX264YIFY/The%20Enemy%20Below%201957%201080p%20BluRay%20x264%20YIFY.mp4
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/The_Monolith_Monsters.jpg/220px-The_Monolith_Monsters.jpg" group-title="MOVIES",The Monolith Monsters (1957)
@@ -1215,316 +267,78 @@ https://archive.org/download/TheMonolithMonsters1957/The%20Monolith%20Monsters%2
 https://archive.org/download/TheMysterians/The%20Mysterians.mp4
 #EXTINF:-1 tvg-logo="http://static.tvtropes.org/pmwiki/pub/images/1958163.jpg" group-title="MOVIES",The Snow Queen (1957)
 https://archive.org/download/the_snow_queen_1959_animation/snow_queen_us_version_512kb.mp4
-#EXTINF:-1 tvg-logo="http://img.soundtrackcollector.com/movie/large/Comanche_(1956).jpg" group-title="MOVIES",Comanche (1956)
-https://archive.org/download/Comanche1956FullLengthWesternMovie/Comanche%201956%20Full%20Length%20Western%20Movie.mp4
-#EXTINF:-1 tvg-logo="https://www.iwannawatch.is/wp-content/uploads/2014/09/Hollywood-or-Bust-1956.jpg" group-title="MOVIES",Hollywood or Bust (1956)
-https://archive.org/download/HollywoodOrBustJerryLewisDeanMartin1956FullMovie/_Hollywood%20or%20Bust_%20Jerry%20Lewis%20Dean%20Martin%201956%20(Full%20Movie).mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Indestructibleman.jpg" group-title="MOVIES",Indestructible Man (1956)
-https://archive.org/download/IndestructibleMan1956/Indestructible%20Man%201956.mp4
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/dc/Mohawk_FilmPoster.jpeg/220px-Mohawk_FilmPoster.jpeg" group-title="MOVIES",Mohawk (1956)
 https://archive.org/download/mohawk/Mohawk_512kb.mp4
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Rodan_poster.jpg/220px-Rodan_poster.jpg" group-title="MOVIES",Rodan (1956)
 https://archive.org/download/Rodan_201611/Rodan.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/17/Original_movie_poster_for_the_film_The_King_and_I.jpg" group-title="MOVIES",The King and I (1956)
-https://archive.org/download/TheKingAndI1956DVDRipDivXEng/The%20King%20and%20I%20%5B%201956%20%5D%20DVDRip%20DivX%20%5BEng%5D.mp4
-#EXTINF:-1 tvg-logo="https://secure.netflix.com/us/boxshots/ghd/70033127.jpg" group-title="MOVIES",The Man Who Never Was (1956)
-https://archive.org/download/The.Man.Who.Never.Was.1956.720p.BDRip.X264.AC3Mkv/The.Man.Who.Never.Was.1956.720p.BDRip.X264.AC3-mkv.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b0/DeMilleTenCommandmentsDVDcover.jpg" group-title="MOVIES",The Ten Commandments (1956) [AR-Subs]
-https://archive.org/download/The.Ten.Commandments.1956.BluRay.1080p.x264/[EgyBest].The.Ten.Commandments.1956.BluRay.1080p.x264.mp4
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51D5F5K65RL.jpg" group-title="MOVIES",The Lone Ranger (1956)
-https://archive.org/download/TheLoneRanger1956_201509/fred%20cdobbs%20-%20The%20Lone%20Ranger%201956.mp4
-#EXTINF:-1 tvg-logo="http://www.graysonkilmer.com/wp-content/uploads/2011/11/comics-sworddragon.jpeg" group-title="MOVIES",The Sword and the Dragon (1956)
-https://archive.org/download/SwordAndTheDragon/Sword%20and%20the%20Dragon_2.mp4
-#EXTINF:-1 tvg-logo="http://www.film1.nl/images/portrait/original/74286.jpg" group-title="MOVIES",Trapeze (1956)
-https://archive.org/download/Trapeze.1956.720p.BRRip.x264PsiX/Trapeze.1956.720p.BRRip.x264-PsiX.mp4
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Uchujin_Tokyo_ni_arawaru_poster.jpg/220px-Uchujin_Tokyo_ni_arawaru_poster.jpg" group-title="MOVIES",Warning from Space (1956)
 https://archive.org/download/WarningFromSpaceImproved1/Warning%20from%20Space%20Improved_1.mp4
-#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/236x/9c/af/90/9caf90cee19d3c321a78cd6bf42e390d.jpg" group-title="MOVIES",World in My Corner (1956)
-https://archive.org/download/WorldInMyCorner1956/World%20In%20My%20Corner%201956.mp4
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/ba/7d/40/ba7d40d3dd0e2153faa01cae08588e60.jpg" group-title="MOVIES",Godzilla Raids Again (1955)
 https://archive.org/download/GigantisTheFireMonster_201611/Gigantis%2C%20The%20Fire%20Monster.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/LadyGodivafilmposter.jpg/220px-LadyGodivafilmposter.jpg" group-title="MOVIES",Lady Godiva of Coventry (1955) [AR-Subs]
-https://archive.org/download/LadyGodivaOfCoventry1955DVDRipX264PsiX/Lady%20Godiva%20of%20Coventry(1955)DVDRip%20x264%20PsiX.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/Poster_of_the_movie_Son_of_Sinbad.jpg" group-title="MOVIES",Son of Sinbad (1955)
-https://archive.org/download/SonOfSinbad1955/SonOfSinbad.mp4
 #EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/cf/42/56/cf4256b4bfa92a26b8653f0958a4d0c1.jpg" group-title="MOVIES",Teaserama (1955)
 https://archive.org/download/Teaserama/Teaserama_512kb.mp4
 #EXTINF:-1 tvg-logo="http://www.movpins.com/big/MV5BNDY4NzQ0MTg1MV5BMl5BanBnXkFtZTgwODQ3MTMyMDE/cornel-wilde-and-jean-wallace-in-h-mndens-skugga-1955-large-picture.jpg" group-title="MOVIES",The Big Combo (1955)
 https://archive.org/download/TheBigComboCornellWilde1955BOO/TheBigComboCornellWilde1955BOO_512kb.mp4
 #EXTINF:-1 tvg-logo="https://filmmakeriq.com/wp-content/uploads/2011/06/the-fast-and-the-furious-movie-poster-1955-1020452824.jpg" group-title="MOVIES",The Fast and The Furious (1955)
 https://archive.org/download/TheFastandtheFuriousJohnIreland1954goofyrip/TheFastandtheFuriousJohnIreland1954goofyrip_512kb.mp4
-#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-JB9Hw07eeNI/Tg3pRfIkrZI/AAAAAAAAM9Y/8kylvJGGlJk/s1600/The%2BIndian%2BFighter%2B%25281955%2529.jpg" group-title="MOVIES",The Indian Fighter (1955)
-https://archive.org/download/TheIndianFighter1955FullWesternMovieKirkDouglasFullMovie/The%20Indian%20Fighter%20(1955)%20Full%20Western%20Movie%20_%20Kirk%20Douglas%20Full%20Movie.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/KVwvQcQ.jpg" group-title="MOVIES",The Man from Laramie (1955)
-https://archive.org/download/TheManFromLaramie1955CompleteFullMovieInEnglish_201603/The%20Man%20from%20Laramie%201955%20complete%20full%20movie%20in%20English.mp4
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/84/Yellowneck.jpg" group-title="MOVIES",Yellowneck (1955)
 https://archive.org/download/Yellowneck1955cosmo/Yellowneck1955cosmo_512kb.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/N1iqpNm.jpg" group-title="MOVIES",You're Never Too Young (1955)
-https://archive.org/download/YoureNeverTooYoung1955JerryLewisDeanMartinFullLengthComedyMovie1/You%27re%20Never%20Too%20Young%201955%20Jerry%20Lewis%20Dean%20Martin%20Full%20Length%20Comedy%20Movie%20(1).mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/20000leaguesposter.jpg/220px-20000leaguesposter.jpg" group-title="MOVIES",20.000 Leagues Under the Sea (1954)
-https://archive.org/download/20000LeaguesUnderTheSea1954/20000%20Leagues%20Under%20The%20Sea%201954.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/23/3ringcircus.jpg" group-title="MOVIES",3 Ring Circus (1954)
-https://archive.org/download/3RingCircus/3%20Ring%20Circus.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/22/Garden_of_evil.jpg" group-title="MOVIES",Garden of Evil (1954)
-https://archive.org/download/GardenOfEvil1954GaryCooperFullLengthWesternMovie/Garden%20of%20Evil%201954%20Gary%20Cooper%20Full%20Length%20Western%20Movie.mp4
 #EXTINF:-1 tvg-logo="http://www.orphanedentertainment.com/wp-content/uploads/2016/08/Suddenly-Poster-793x1024.jpg" group-title="MOVIES",Suddenly! (1954)
 https://archive.org/download/suddenly/suddenly_512kb.mp4
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/The_Last_Time_I_Saw_Paris_poster.jpg" group-title="MOVIES",The Last Time I Saw Paris (1954)
 https://archive.org/download/cco_thelasttimeisawparis/ccoPublicDomainThe_Last_Time_I_Saw_Paris_512kb.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/f5/36/90/f53690ae908f6b11aa960979a525c46f.jpg" group-title="MOVIES",White Christmas (1954)
-https://archive.org/download/White.Christmas.1954/White.Christmas.1954.mp4
-#EXTINF:-1 tvg-logo="https://i.jeded.com/i/peter-pan-1953.30934.jpg" group-title="MOVIES",Peter Pan (1953)
-http://www.deadlyblogger.com/NewRelease/pan1.mp4
 #EXTINF:-1 tvg-logo="https://thetelltalemind.files.wordpress.com/2016/08/phantom-from-space-1.jpg" group-title="MOVIES",Phantom From Space (1953)
 https://archive.org/download/Phantom_From_Space/Phantom_From_Space_512kb.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b7/Roman_holiday.jpg" group-title="MOVIES",Roman Holiday (1953)
-https://archive.org/download/Roman.Holiday.1953.720p.WEBDL.H264HDBPublicHDPublicHD/Roman.Holiday.1953.720p.WEB-DL.H264-HDB%20%5BPublicHD%5D%20%5BPublicHD%5D.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a5/Stalag_17.jpeg" group-title="MOVIES",Stalag 17 (1953)
-https://archive.org/download/Stalag17FULLMOVIE/Stalag%2017%20FULL%20MOVIE.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/The_Robe_%281953_movie_poster%29.jpg" group-title="MOVIES",The Robe (1953)
-https://archive.org/download/TheRobe1953/The%20Robe%201953.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/Film1953-TheWarOfTheWorlds-OriginalPoster.jpg" group-title="MOVIES",The War of the Worlds (1953)
-https://archive.org/download/WarOfTheWorlds2017/WarOfTheWorlds2017.mp4
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/68/Idojpos.jpg/220px-Idojpos.jpg" group-title="MOVIES",I Dream of Jeanie (1952)
 https://archive.org/download/IDreamOfJeannieWithTheLightBrownHair/IDreamOfJeannieWithTheLightBrownHair_1940_512kb.mp4
 #EXTINF:-1 tvg-logo="http://iconshow.me/media/images/Mixed/small-n-flat-icon/png/512/movie-alt.png" group-title="MOVIES",Operation IVY (1952)
 https://archive.org/download/OperationIVY1952/OperationIVY1952_512kb.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Scaramouche_1952_film.jpg/220px-Scaramouche_1952_film.jpg" group-title="MOVIES",Scaramouche (1952)
-https://archive.org/download/ScaramoucheStewartGrangerEleanorParker1952/Scaramouche-%20Stewart%20Granger%2C%20Eleanor%20Parker%20(1952).mp4
 #EXTINF:-1 tvg-logo="http://i43.tower.com/images/mm113268398/big-trees-kirk-douglas-dvd-cover-art.jpg" group-title="MOVIES",The Big Trees (1952)
 https://archive.org/download/big_trees/big_trees_512kb.mp4
-#EXTINF:-1 tvg-logo="http://www.streamlord.com/thumbs/0044517.jpg" group-title="MOVIES",The Crimson Pirate (1952)
-https://archive.org/download/TheCrimsonPirate1952DVDRipXvidNGP/The%20Crimson%20Pirate%201952%20DVDRip%20Xvid-NGP.mp4
-#EXTINF:-1 tvg-logo="https://img.posterlounge.co.uk/images/wbig/poster-the-snows-of-kilimanjaro-susan-hayward-gregory-peck-ava-gardner-1952-364113.jpg" group-title="MOVIES",The Snows of Kilimanjaro (1952)
-https://archive.org/download/Kilimanjaro/The_Snows_of_Kilimanjaro_512kb.mp4
-#EXTINF:-1 tvg-logo="https://img.posterlounge.co.uk/images/wbig/poster-the-snows-of-kilimanjaro-susan-hayward-gregory-peck-ava-gardner-1952-364113.jpg" group-title="MOVIES",The Snows of Kilimanjaro (1952)*
-https://archive.org/download/TheSnowsOfKilimanjaro1952_201603/The%20Snows%20of%20Kilimanjaro%20(1952).mp4
-#EXTINF:-1 tvg-logo="https://img.posterlounge.co.uk/images/wbig/poster-the-snows-of-kilimanjaro-susan-hayward-gregory-peck-ava-gardner-1952-364113.jpg" group-title="MOVIES",The Snows of Kilimanjaro (1952)**
-https://archive.org/download/TheSnowsOfKilimanjaro1952DVDRipXvid1.33EngQuincyMKT/The%20Snows%20of%20Kilimanjaro%20%281952%29%20%5BDVDRip%2CXvid%2C1.33%2CEng%5D%20-%20QuincyMKT.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/Mother_Riley_meets_the_Vampire.jpg/220px-Mother_Riley_meets_the_Vampire.jpg" group-title="MOVIES",Vampire Over London (1952)
-https://archive.org/download/VampireOverLondon1952_201702/Vampire%20Over%20London%201952.mp4
-#EXTINF:-1 tvg-logo="https://jatufilmrev.files.wordpress.com/2009/12/christmas-carol-dvd-sim1.jpg" group-title="MOVIES",A Christmas Carol (1951)
-https://archive.org/download/AChristmasCarolScrooge1951FullMovie_201512/A%20Christmas%20Carol%20Scrooge%201951%20Full%20Movie.mp4
-#EXTINF:-1 tvg-logo="https://jatufilmrev.files.wordpress.com/2009/12/christmas-carol-dvd-sim1.jpg" group-title="MOVIES",A Christmas Carol (1951)*
-https://archive.org/download/AChristmasCarolScrooge1951FullMovie/A%20Christmas%20Carol%20[Scrooge]%20(1951)%20-%20Full%20Movie.mp4
-#EXTINF:-1 tvg-logo="http://iconshow.me/media/images/Mixed/small-n-flat-icon/png/512/movie-alt.png" group-title="MOVIES",All that I Have (1951)
-https://archive.org/download/AllThatIHave1951/All%20That%20I%20Have%201951.mp4
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Didspos.jpg/220px-Didspos.jpg" group-title="MOVIES",Drums in the Deep South (1951)
 https://archive.org/download/DrumsInTheDeepSouth/Drums_in_the_Deep_South_256kb.mp4
-#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/736x/f5/8b/0d/f58b0d3f9daf7c7a1b219e09a3ce5acc.jpg" group-title="MOVIES",Utopia (1951)
-https://archive.org/download/utopia/Utopia_512kb.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/21/Broken_Arrow_Film_Poster.jpg/220px-Broken_Arrow_Film_Poster.jpg" group-title="MOVIES",Broken Arrow (1950)
-https://archive.org/download/BrokenArrow_201404/%27%2520Broken%2520Arrow%2520%27.mp4
-#EXTINF:-1 tvg-logo="http://www.shanemarais.net/wp-content/uploads/2013/07/008cinderella.jpg" group-title="MOVIES",Cinderella (1950)
-http://www.deadlyblogger.com/NewRelease/cinder1.mp4
 #EXTINF:-1 tvg-logo="https://irissansfrontieres.files.wordpress.com/2015/02/cyrano-1951-poster.jpg" group-title="MOVIES",Cyrano De Bergerac (1950)
 https://archive.org/download/Cyrano_DeBergerac/Cyrano_De_Bergerac_512kb.mp4
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/Poster_of_the_movie_The_Big_Lift.jpg/220px-Poster_of_the_movie_The_Big_Lift.jpg" group-title="MOVIES",The Big Lift (1950)
 https://archive.org/download/The_Big_Lift/THE_BIG_LIFT_512kb.mp4
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-BCm6jkMMvOA/ULu5N_Wk6dI/AAAAAAAAHOs/1qW-C2RfyM8/s1600/ThelmajordBig.jpg" group-title="MOVIES",The File On Thelma Jordon (1950)
 https://archive.org/download/TheFileonThelmaJordanBarbaraStanwyck1950ripHJXvid2/TheFileonThelmaJordanBarbaraStanwyck1950ripHJXvid2_512kb.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flame_and_the_arrowposter.jpg/220px-Flame_and_the_arrowposter.jpg" group-title="MOVIES",The Flame and the Arrow (1950)
-https://archive.org/download/TheFlameAndTheArrow1950/The%20Flame%20and%20the%20Arrow%20%281950%29.mp4
-#EXTINF:-1 tvg-logo="http://theredlist.com/media/database/films/cinema/1950/winchester-73/004-winchester-73-theredlist.jpg" group-title="MOVIES",Winchester '73 (1950)
-https://archive.org/download/Winchester731950FullWesternMovieJamesStewartFullMovie/Winchester%20%2773%20(1950)%20Full%20Western%20Movie%20_%20James%20Stewart%20Full%20Movie.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/Woman_on_the_Run.jpg/220px-Woman_on_the_Run.jpg" group-title="MOVIES",Woman on the Run (1950)
-https://archive.org/download/WomanOnTheRun1950_201702/Woman%20On%20The%20Run%201950.mp4
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e8/DOA1950.jpg/220px-DOA1950.jpg" group-title="MOVIES",D.O.A. (1949)
 https://archive.org/download/doa_1949/doa_1949_512kb.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Samson_and_Delilah_original_1949_poster.JPG/220px-Samson_and_Delilah_original_1949_poster.JPG" group-title="MOVIES",Samson and Delilah (1949)
-https://archive.org/download/AntonyHamiltonSamsonDelilahFullMovie/Antony%20Hamilton%20Samson%20&%20Delilah%20Full%20Movie.mp4
-#EXTINF:-1 tvg-logo="http://monsterhuntermoviereviews.com/wp-content/uploads/2013/07/Adventures-of-Ichabod-and-Mr.-Toad-DVD-Cover.jpg" group-title="MOVIES",The Adventures of Ichabod and Mr. Toad (1949)
-https://archive.org/download/TheLegendOfSleepyHollow_201602/The%20Legend%20Of%20Sleepy%20Hollow.mp4
-#EXTINF:-1 tvg-logo="http://www.aveleyman.com/Gallery/DVD/52021e1d-7ce3-4124-bdbd-13cd7c59c4eb.jpg" group-title="MOVIES",The Adventures of Jane (1949)
-https://archive.org/download/TheAdventuresOfJane1949/The%20Adventures%20of%20Jane%201949.mp4
 #EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/736x/83/a9/98/83a99809eaf485ffca5281ed2b0a98f3.jpg" group-title="MOVIES",The Big Cat (1949)
 https://archive.org/download/The_Big_Cat/The_Big_Cat_512kb.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/80/The_Big_Sombrero_FilmPoster.jpeg" group-title="MOVIES",The Big Sombrero (1949)
-https://archive.org/download/TheBigSombrero1949/The%20Big%20Sombrero%201949.mp4
-#EXTINF:-1 tvg-logo="http://25.media.tumblr.com/5060aa69ecef164785a49888bd698ceb/tumblr_ms9dqvNV6T1sgdz5lo1_r1_1280.jpg" group-title="MOVIES",The Green Promise (1949)
-https://archive.org/download/TheGreenPromise1949/The%20Green%20Promise%201949.mp4
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/82/Inspector_General_DVD_cover.jpg" group-title="MOVIES",The Inspector General (1949)
 https://archive.org/download/the_inspector_general/the_inspector_general_512kb.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/61/%22The_Man_in_Black%22_%281949%29.jpg/220px-%22The_Man_in_Black%22_%281949%29.jpg" group-title="MOVIES",The Man In Black (1949)
-https://archive.org/download/ManInBlack1949/The%20Man%20in%20Black%201949.mp4
 #EXTINF:-1 tvg-logo="http://torontofilmsociety.org/files/2017/03/Too-Late-for-Tears-1.jpg" group-title="MOVIES",Too Late for Tears (1949)
 https://archive.org/download/TooLateForTears/Too_Late_for_Tears_1949.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8d/Adventures_of_Gallant_Bess_FilmPoster.jpeg" group-title="MOVIES",Adventures of Gallant Bess (1948)
-https://archive.org/download/AdventuresOfGallantBess1948/Adventures%20of%20Gallant%20Bess%201948.mp4
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/another_part_of_the_forest-865073030-mmed.jpg" group-title="MOVIES",Another Part of the Forest (1948)
-https://archive.org/download/AnotherPartOfTheForest1948/Another%20Part%20of%20the%20Forest%201948.mp4
 #EXTINF:-1 tvg-logo="http://www.orphanedentertainment.com/wp-content/uploads/2013/10/600full-he-walked-by-night-poster.jpg" group-title="MOVIES",He Walked By Night (1948)
 https://archive.org/download/He_Walked_By_Night.avi/He_Walked_By_Night_512kb.mp4
-#EXTINF:-1 tvg-logo="https://cryptoclassics.files.wordpress.com/2012/03/killer-diller.jpg" group-title="MOVIES",Killer Diller (1948)
-https://archive.org/download/KillerDiller1948/Killer%20Diller%201948.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d7/Redriverposter48.jpg/220px-Redriverposter48.jpg" group-title="MOVIES",Red River (1948)
-https://archive.org/download/RedRiver1948FullActionMovieJohnWayneFullMovie/Red%20River%20(1948)%20Full%20Action%20Movie%20_%20John%20Wayne%20Full%20Movie.mp4
-#EXTINF:-1 tvg-logo="http://68.media.tumblr.com/tumblr_m3ydo8Uu201rr0cpgo1_500.jpg" group-title="MOVIES",Superman (1948)
-https://archive.org/download/Superman1948/NEW%20SUPERMAN%20MOVIE%20HD%20_The%20Serial_.mp4
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/texas_brooklyn_heaven-490885084-large.jpg" group-title="MOVIES",Texas Brooklyn and Heaven (1948)
-https://archive.org/download/TexasBrooklynAndHeaven1948/Texas%2CBrooklyn%20and%20Heaven%201948.mp4
 #EXTINF:-1 tvg-logo="https://ocdviewer.files.wordpress.com/2012/07/under-california-stars.jpg" group-title="MOVIES",Under California Stars (1948)
 https://archive.org/download/under_california_stars/under_california_stars_512kb.mp4
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Here_Comes_Trouble_poster.jpg/220px-Here_Comes_Trouble_poster.jpg" group-title="MOVIES",Here Comes Trouble (1948)
 https://archive.org/download/HereComesTrouble1948/Here-Comes-Trouble-1948.mp4
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/adventure_island-206091708-large.jpg" group-title="MOVIES",Adventure Island (1947)
 https://archive.org/download/AdventureIsland1947/Adventure%20Island%201947.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Bridelessgroom_1sht.jpg/220px-Bridelessgroom_1sht.jpg" group-title="MOVIES",Brideless Groom (1947)
-https://archive.org/download/brideless_groom/brideless_groom_512kb.mp4
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-kY-ti9hHpqY/Tl-9q7JGu7I/AAAAAAAAUjM/qFI7_EpXfbQ/s1600/DishonoredLady.jpg" group-title="MOVIES",Dishonored Lady (1947)
 https://archive.org/download/dishonored_lady/dishonored_lady_512kb.mp4
-#EXTINF:-1 tvg-logo="http://s3.foxmovies.com/foxmovies/production/films/51/images/posters/237-asset-page.jpg" group-title="MOVIES",Miracle on 34th Street (1947)
-http://www.deadlyblogger.com/NewRelease/miracle34.mp4
-#EXTINF:-1 tvg-logo="http://cps-static.rovicorp.com/1/adg/covers/drv400/v442/v44237xnogm.jpg" group-title="MOVIES",Nelly Was a Lady (1947)
-https://archive.org/download/NellyWasALady1947/Nelly%20Was%20a%20Lady%201947.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/23/Poster_of_the_movie_Reet%2C_Petite%2C_and_Gone.jpg" group-title="MOVIES",Reet Petite and Gone (1947)
-https://archive.org/download/ReetPetiteAndGone1947/Reet%2C%20Petite%20and%20Gone%201947.mp4
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81DrLp2N5kL._SY445_.jpg" group-title="MOVIES",Scared to Death (1947)
-https://archive.org/download/scared_to_death_ipod/Scared_to_Death_512kb.mp4
-#EXTINF:-1 tvg-logo="http://images.static-bluray.com/products/20/27106_1_large.jpg" group-title="MOVIES",Sinbad the Sailor (1947)
-https://archive.org/download/SinbadTheSailor1947/SinbadTheSailor.mp4
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/Smash-Up_%281947%29.jpg/220px-Smash-Up_%281947%29.jpg" group-title="MOVIES",Smash-Up: the Story of a Woman (1947)
 https://archive.org/download/Smash-Up/Smash-Up_512kb.mp4
-#EXTINF:-1 tvg-logo="https://fiftieswesterns.files.wordpress.com/2012/07/springtime-sierras-dvd-cover.jpg" group-title="MOVIES",Springtime in the Sierras (1947)
-https://archive.org/download/SpringtimeInTheSierras1947_201702/Springtime%20In%20The%20Sierras%201947.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/96/Behind_Green_Lights_FilmPoster.jpeg" group-title="MOVIES",Behind Green Lights (1946)
-https://archive.org/download/BehindGreenLights_high_Q_mp4/behind_green_lights_512kb.mp4
-#EXTINF:-1 tvg-logo="https://a.ltrbxd.com/resized/film-poster/2/4/5/3/4/2/245342-detour-to-danger-0-230-0-345-crop.jpg" group-title="MOVIES",Detour to Danger (1946)
-https://archive.org/download/DetourToDanger1946/Detour%20to%20Danger%201946.mp4
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/qnfPahZSMkk/maxresdefault.jpg" group-title="MOVIES",Dressed To Kill (1946)
 https://archive.org/download/dressed_to_kill/dressed_to_kill_512kb.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/05/Duel_in_the_Sun.jpg" group-title="MOVIES",Duel in the Sun (1946)
-https://archive.org/download/DuelInTheSun1946GregoryPeckFullLengthWesternMovie/Duel%20in%20the%20Sun%201946%20Gregory%20Peck%20Full%20Length%20Western%20Movie.mp4
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Great_expectations.jpg/220px-Great_expectations.jpg" group-title="MOVIES",Great Expectations (1946)
 https://archive.org/download/GreatExpectations1946/GreatExpectations1946_512kb.mp4
-#EXTINF:-1 tvg-logo="http://dailygrindhouse.com/wp-content/uploads/2014/01/My_Darling_Clementine_1946.jpg" group-title="MOVIES",My Darling Clementine (1946)
-https://archive.org/download/MyDarlingClementine1946FullMovie/My%20Darling%20Clementine%201946%20Full%20Movie.mp4
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51Pxcln9vkL.jpg" group-title="MOVIES",Renegade Girl (1946)
-https://archive.org/download/RenegadeGirl1946/Renegade%20Girl%201946.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/jDftI0c.jpg" group-title="MOVIES",South of Monterey (1946)
-https://archive.org/download/SouthOfMonterey1946/South%20of%20Monterey%201946.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/44/Terror_by_nightmp.jpg/220px-Terror_by_nightmp.jpg" group-title="MOVIES",Terror by Night (1946)
-https://archive.org/download/TerrorByNight1946_201605/Terror%20by%20Night%20%281946%29.mp4
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/417AT1R532L.jpg" group-title="MOVIES",Till The Clouds Roll By (1946)
-https://archive.org/download/till_the_clouds_roll_by/till_the_clouds_roll_by_512kb.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/lbIxBqS.jpg" group-title="MOVIES",Adventures of Kitty O'Day (1945)
-https://archive.org/download/AdventuresOfKittyODay1945/Adventures%20of%20Kitty%20O%27Day%201945.mp4
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/46/Captain-Kidd-1945.jpg" group-title="MOVIES",Captain Kidd (1945)
 https://archive.org/download/CaptainKidd_/CaptainKidd_512kb.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/af/His_Brother%27s_Ghost_FilmPoster.jpeg/220px-His_Brother%27s_Ghost_FilmPoster.jpeg" group-title="MOVIES",His Brother's Ghost (1945)
-https://archive.org/download/HisBrothersGhost1945/His%20Brother%27s%20Ghost%201945.mp4
-#EXTINF:-1 tvg-logo="http://ecx.images-amazon.com/images/I/715cZmhAxhL._SL1500_.jpg" group-title="MOVIES",Northwest Trail (1945)
-https://archive.org/download/northwest_trail/northwest_trail_512kb.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/Salome_Where_She_Danced_%28film_poster%29.jpg/220px-Salome_Where_She_Danced_%28film_poster%29.jpg" group-title="MOVIES",Salome Where She Danced (1945)
-https://archive.org/download/SalomeWhereSheDanced1945/Salome%20Where%20She%20Danced%201945.mp4
-#EXTINF:-1 tvg-logo="https://cheappopculture.files.wordpress.com/2016/04/the-big-show-off-movie-poster.jpg" group-title="MOVIES",The Big Show-Off (1945)
-https://archive.org/download/TheBigShowOff1945/The%20Big%20Show-Off%201945.mp4
-#EXTINF:-1 tvg-logo="http://classicmoviesdvd.com/image/cache/data/Candles%20at%20Nine%201944-500x500.jpg" group-title="MOVIES",Candles at Nine (1944)
-https://archive.org/download/CandlesAtNine1944/Candles%20at%20Nine%201944.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e2/Captain-america_serial_poster.jpg" group-title="MOVIES",Captain America (1944)
-https://archive.org/download/Comicweb-CaptainAmericaChapter1/Comicweb-CaptainAmericaChapter1ThePupleDeath_512kb.mp4
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51Lv4Yoe3vL.jpg" group-title="MOVIES",Gangsters of the Frontier (1944)
-https://archive.org/download/GangstersOfTheFrontier1944/Gangsters%20of%20the%20Frontier%201944.mp4
-#EXTINF:-1 tvg-logo="http://www.owensvalleyhistory.com/at_the_movies24/song_of_nevada01.jpg" group-title="MOVIES",Song of Nevada (1944)
-https://archive.org/download/SongOfNevada1944/Song%20of%20Nevada%201944.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/01/Fighting_Seabees_1944.jpg" group-title="MOVIES",The Fighting Seabees (1944)
-https://archive.org/download/JohnWayneMoviesFullLengthWarMoviesFightingSeabees1944/John%20Wayne%20Movies%20Full%20Length%20War%20Movies%20Fighting%20Seabees%201944.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a5/Deadmenwalkposter.jpg/220px-Deadmenwalkposter.jpg" group-title="MOVIES",Dead Men Walk (1943)
-https://archive.org/download/DeadMenWalk1943/Dead%20Men%20Walk%201943.mp4
-#EXTINF:-1 tvg-logo="https://oldies-cdn.freetls.fastly.net/i/boxart/w340/60/69/089218606990.jpg" group-title="MOVIES",Ghosts on the Loose (1943)
-https://archive.org/download/GhostsontheLoose/GhostsontheLoose_512kb.mp4
-#EXTINF:-1 tvg-logo="https://alchetron.com/cdn/Haunted-Ranch-images-6df67055-34ec-493d-b65a-d3d2e0cd9a8.jpg" group-title="MOVIES",Haunted Ranch (1943)
-https://archive.org/download/HauntedRach1943/Haunted%20Rach%201943.mp4
 #EXTINF:-1 tvg-logo="http://onceuponatimeinawestern.com/wp-content/uploads/2016/08/War-of-the-Wildcats-aka-In-Old-Oklahoma-1943-poster-325.jpg" group-title="MOVIES",In Old Oklahoma (1943)
 https://archive.org/download/WarOfTheWildcats-JohnWayne1943/JohnWayne-WarOfTheWildcats1943_512kb.mp4
-#EXTINF:-1 tvg-logo="http://www.fesfilms.com/img/marching.jpg" group-title="MOVIES",Marching On! (1943)
-https://archive.org/download/WheresMyManTonightAkaMarchingOn1943/Where%27s%20My%20ManTonight%20aka%20Marching%20On%201943.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/pptmf6L.jpg" group-title="MOVIES",Man of Courage (1943)
-https://archive.org/download/ManOfCourage1943/Man%20of%20Courage%201943.mp4
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Sherlock_Holmes_and_the_Secret_Weapon-786880804-large.jpg" group-title="MOVIES",Sherlock Holmes and the Secret Weapon (1943)
 https://archive.org/download/secret_weapon/sherlock_holmes_and_the_secret_weapon_512kb.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/24/So_This_Is_Washington_FilmPoster.jpeg/220px-So_This_Is_Washington_FilmPoster.jpeg" group-title="MOVIES",So This Is Washington (1943)
-https://archive.org/download/SoThisIsWashington1943/So%20This%20Is%20Washington%201943.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Arabiannights1.jpg/220px-Arabiannights1.jpg" group-title="MOVIES",Arabian Nights (1942)
-https://archive.org/download/ArabianNights1942Hd/ArabianNights.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bd/Freckles_Comes_Home_FilmPoster.jpeg" group-title="MOVIES",Freckles Comes Home (1942)
-https://archive.org/download/FrecklesComesHome1942/Freckles%20Comes%20Home%201942.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Hayfootpos.jpg/220px-Hayfootpos.jpg" group-title="MOVIES",Hay Foot (1942)
-https://archive.org/download/HayFoot1942_201701/Hay%20Foot%201942.mp4
 #EXTINF:-1 tvg-logo="https://alchetron.com/cdn/Jungle-Book-1942-film-images-252f0014-8163-4ea4-baae-b2175b4fc9c.jpg" group-title="MOVIES",Jungle Book (1942)
 https://archive.org/download/JungleBook/Jungle_Book_512kb.mp4
-#EXTINF:-1 tvg-logo="http://boweryboys.bobfinnan.com/Images/bb10.jpg" group-title="MOVIES",Neath Brooklyn Bridge (1942)
-https://archive.org/download/NeathBrooklynBridge1942/Neath%20Brooklyn%20Bridge%201942.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/78/Saboteurposter.jpg/220px-Saboteurposter.jpg" group-title="MOVIES",Saboteur (1942)
-https://archive.org/download/Saboteur1942AlfredHitchcockMoviesFullLengthActionWarMovie/Saboteur%201942%20Alfred%20Hitchcock%20Movies%20Full%20Length%20Action%20War%20Movie.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/The_Boss_of_Big_Town_FilmPoster.jpeg" group-title="MOVIES",The Boss of Big Town (1942)
-https://archive.org/download/TheBossOfBigTown1942/The%20Boss%20of%20Big%20Town%201942.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7a/Poster_of_the_movie_The_Payoff.jpg" group-title="MOVIES",The Payoff (1942)
-https://archive.org/download/ThePayoff1942/The%20Pay%20off%201942.mp4
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w342/gLJfrg1a22wzKgLm4cWd53yCDOH.jpg" group-title="MOVIES",Caught in the Act (1941)
-https://archive.org/download/CaughtInTheAct1941_201701/Caught%20in%20the%20Act%201941.mp4
-#EXTINF:-1 tvg-logo="https://www.dvdsreleasedates.com/posters/800/C/Citizen-Kane-1941-movie-poster.jpg" group-title="MOVIES",Citizen Kane (1941)
-https://archive.org/download/Apocalypto2006-HistoricalAction-adventureMovie/CitizenKane1941.mp4
-#EXTINF:-1 tvg-logo="http://galestorm.tv.hostbaby.com/img/City_of_Missing_Girls/City-of-Missing-Girls_2.jpg" group-title="MOVIES",City of Missing Girls (1941)
-https://archive.org/download/CityOfMissingGirls1941_201703/City%20of%20Missing%20Girls%201941.mp4
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-cJyqeIVRBl0/VbTRFvuuW-I/AAAAAAAAQzc/BW9NPQQoaxo/s1600/Cottage%2BTo%2BLet1.jpg" group-title="MOVIES",Cottage to Let (1941)
-https://archive.org/download/CottageToLet1941_201703/Cottage%20to%20Let%201941.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300_and_h450_bestv2/aRbFrTqrOKlORs1KfRH6gl2p9mY.jpg" group-title="MOVIES",Melody for Three (1941)
-https://archive.org/download/MelodyForThree1941/Melody%20for%20Three%201941.mp4
-#EXTINF:-1 tvg-logo="http://deanguelo.blogs.com/MurderWithMusic1941.jpg" group-title="MOVIES",Murder with Music (1941)
-https://archive.org/download/MurderWithMusic1941/Murder%20with%20Music%201941.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7e/Power_Dive_FilmPoster.jpeg/150px-Power_Dive_FilmPoster.jpeg" group-title="MOVIES",Power Dive (1941)
-https://archive.org/download/PowerDive1941/Power%20Dive%201941.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/I57rqWF.jpg" group-title="MOVIES",Road to Happiness (1941)
-https://archive.org/download/RoadToHappiness1941/Road%20to%20Happiness%201941.mp4
-#EXTINF:-1 tvg-logo="https://a.ltrbxd.com/resized/film-poster/3/7/3/0/8/37308-saddle-mountain-roundup-0-230-0-345-crop.jpg" group-title="MOVIES",Saddle Mountain Roundup (1941)
-https://archive.org/download/SaddleMountainRoundup1941/Saddle%20Mountain%20Roundup%201941.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/Poster_of_the_movie_Underground_Rustlers.jpg" group-title="MOVIES",Underground Rustlers (1941)
-https://archive.org/download/UndergroundRustlers1941/Underground%20Rustlers%201941.mp4
-#EXTINF:-1 tvg-logo="https://alchetron.com/cdn/Chasing-Trouble-images-373ccb5a-f376-4779-966a-b35d14c6305.jpg" group-title="MOVIES",Chasing Trouble (1940)
-https://archive.org/download/ChasingTrouble1940/Chasing%20Trouble%201940.mp4
-#EXTINF:-1 tvg-logo="https://a.ltrbxd.com/resized/film-poster/2/7/4/1/6/7/274167-mystery-in-swing-0-230-0-345-crop.jpg" group-title="MOVIES",Mystery in Swing (1940)
-https://archive.org/download/MysteryInSwing1940/Mystery%20in%20Swing%201940.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/ba/Pinocchio-1940-poster.jpg" group-title="MOVIES",Pinocchio (1940)
-http://www.deadlyblogger.com/NewRelease/pinco1.mp4
-#EXTINF:-1 tvg-logo="http://www.emovieposter.com/images/moviestars/AA100119/200/remedy_for_riches_0254_S.jpg" group-title="MOVIES",Remedy for Riches (1940)
-https://archive.org/download/RemedyForRiches1940/Remedy%20For%20Riches%201940.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/SonOfIngagi.jpg/220px-SonOfIngagi.jpg" group-title="MOVIES",Son of Ingagi (1940)
-https://archive.org/download/SonOfIngagi1940_201701/Son%20Of%20Ingagi%201940.mp4
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-YyGZfm5RU8M/VjpbFRwgWBI/AAAAAAAAFXk/KoxZJ1W1n6k/s400/sonofmontecristolobbycard.jpg" group-title="MOVIES",The Son of Monte Cristo (1940)
-https://archive.org/download/TheSonOfMonteCristo1940/The%20Son%20of%20Monte%20Cristo%201940.mp4
-#EXTINF:-1 tvg-logo="https://morganrlewis.files.wordpress.com/2012/05/tob1940-poster1.jpg" group-title="MOVIES",The Thief of Bagdad (1940)
-https://archive.org/download/TheThiefOfBagdad1940Hd/TheThiefOfBagdadOLadroDeBagd19401080p.mp4
-#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/25/74/81/25748186cdb554c76c7467bf327f7190.jpg" group-title="MOVIES",Where's That Fire (1940)
-https://archive.org/download/WheresThatFire1940_201702/Where%27s%20That%20Fire%201940.mp4
 #EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/gulliverstravels/images/d/dc/Poster1939.jpg" group-title="MOVIES",Gulliver's Travels (1939)
 https://archive.org/download/GulliversTravels720p_652/GulliversTravels_512kb.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/77/Stagecoach_movieposter.jpg/220px-Stagecoach_movieposter.jpg" group-title="MOVIES",Stagecoach (1939)
-https://archive.org/download/JohnWayne/John%20Wayne.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/da/The_Bronze_Buckaroo.jpg/220px-The_Bronze_Buckaroo.jpg" group-title="MOVIES",The Bronze Buckaroo (1939)
-https://archive.org/download/TheBronzeBuckaroo1939/The%20Bronze%20Buckaroo%201939.mp4
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTM5NDQzNTkzMV5BMl5BanBnXkFtZTYwOTk1Njk5._V1_.jpg" group-title="MOVIES",The Mystery of Mr. Wong (1939)
 https://archive.org/download/The_Mystery_of_Mr._Wong/The_Mystery_of_Mr._Wong_512kb.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Wizard_of_oz_movie_poster.jpg/212px-Wizard_of_oz_movie_poster.jpg" group-title="MOVIES",The Wizard of Oz (1939)
-https://archive.org/download/TheWizardOfOz1939_201809/The%20Wizard%20of%20Oz%20%281939%29.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9c/Water_Rustlers_FilmPoster.jpeg/220px-Water_Rustlers_FilmPoster.jpeg" group-title="MOVIES",Water Rustlers (1939)
-https://archive.org/download/WaterRustlers1939/Water%20Rustlers%201939.mp4
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51vOK8gtj2L.jpg" group-title="MOVIES",Bringing Up Baby (1938)
-https://archive.org/download/BringingUpBaby/Bringing%20Up%20Baby%20%281938%29.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300_and_h450_bestv2/a1GSzb2cv60DTRs84QUjq5HqMFH.jpg" group-title="MOVIES",Gang Smashers (1938)
-https://archive.org/download/GangSmashers1938/Gang%20Smashers%201938.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2c/Gangs_of_New_York_FilmPoster.jpeg" group-title="MOVIES",Gangs of New York (1938)
-https://archive.org/download/GangsOfNewYork1938/Gangs%20of%20New%20York%201938.mp4
-#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-_rBrPRJcXL8/U7s4zcth5KI/AAAAAAAASjo/Xw2nR5JtFJw/s1600/Here%27s+Flash+Casey+-+1sht+1938+600.jpg" group-title="MOVIES",Here's Flash Casey (1938)
-https://archive.org/download/HeresFlashCasey1938/Here%27s%20Flash%20Casey%201938.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/29/Man_from_Music_Mountain_FilmPoster.jpeg/220px-Man_from_Music_Mountain_FilmPoster.jpeg" group-title="MOVIES",Man from Music Mountain (1938)
-https://archive.org/download/ManFromMusicMountain1938/Man%20from%20Music%20Mountain%201938.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Prison_Train_FilmPoster.jpeg/1200px-Prison_Train_FilmPoster.jpeg" group-title="MOVIES",Prison Train (1938)
-https://archive.org/download/PrisonTrain1938/Prison%20Train%201938.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/JHjvT6s.jpg" group-title="MOVIES",Sexton Blake and the Hooded Terror (1938)
-https://archive.org/download/SextonBlakeAndTheHoodedTerror1938/Sexton%20Blake%20and%20the%20Hooded%20Terror%201938.mp4
-#EXTINF:-1 tvg-logo="https://jacksonupperco.files.wordpress.com/2013/11/01.jpg" group-title="MOVIES",Sidewalks of London (1938) [PT-Subs]
-https://archive.org/download/St.MartinsLane1938Leg/St.%20Martin%C2%B4s%20Lane%201938%20Leg.mp4
 #EXTINF:-1 tvg-logo="http://img.moviepostershop.com/tarzans-revenge-movie-poster-1938-1010326152.jpg" group-title="MOVIES",Tarzan's Revenge (1938)
 https://archive.org/download/tarzans_revenge/tarzans_revenge_512kb.mp4
 #EXTINF:-1 tvg-logo="http://s.ecrater.com/stores/71847/4b412fa0cdda6_71847n.jpg" group-title="MOVIES",The Divorce of Lady X (1938)
@@ -1533,122 +347,16 @@ https://archive.org/download/Lady_X/The_Divorce_of_Lady_X_512kb.mp4
 https://archive.org/download/TheVilliersDiamond1938/The%20Villiers%20Diamond%201938.mp4
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/A_Star_Is_Born_1937_poster.jpg/220px-A_Star_Is_Born_1937_poster.jpg" group-title="MOVIES",A Star Is Born (1937)
 https://archive.org/download/AStarIsBorn/AStarIsBorn_512kb.mp4
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81NtN92U53L._RI_SX200_.jpg" group-title="MOVIES",Bank Alarm (1937)
-https://archive.org/download/BankAlarm1937/Bank%20Alarm%201937.mp4
-#EXTINF:-1 tvg-logo="https://alchetron.com/cdn/Lady-Behave-images-e9f9ccce-bf38-420a-b2be-66ac68c4648.jpg" group-title="MOVIES",Lady Behave! (1937)
-https://archive.org/download/LadyBehave1937/Lady%20Behave%21%201937.mp4
-#EXTINF:-1 tvg-logo="https://img.flixanity.online/300/450/thumbs/y3D2ulQpTl5AtAXrZH0XJyidcaN.jpg" group-title="MOVIES",O-Kay for Sound (1937)
-https://archive.org/download/OKayForSound1937/O-Kay%20For%20Sound%201937.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9d/The_Shadow_Strikes_FilmPoster.jpeg/220px-The_Shadow_Strikes_FilmPoster.jpeg" group-title="MOVIES",The Shadow Strikes (1937)
-https://archive.org/download/TheShadowStrikes1937_201703/The%20Shadow%20Strikes%201937.mp4
-#EXTINF:-1 tvg-logo="http://classicmoviesdvd.com/image/cache/data/Ticket%20of%20Leave%20Man-500x500.jpg" group-title="MOVIES",The Ticket of Leave Man (1937)
-https://archive.org/download/TheTicketOfLeaveMan1937/The%20Ticket%20of%20Leave%20Man%201937.mp4
-#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/564x/92/59/bc/9259bcc8177dc7237f9d18aad59d14bc.jpg" group-title="MOVIES",Captain Calamity (1936)
-https://archive.org/download/captain_calamity/captain_calamity_512kb.mp4
-#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/5d/5e/3d/5d5e3d81e4e42cd66cfd4b21a8ac7e41.jpg" group-title="MOVIES",Postal Inspector (1936)
-https://archive.org/download/PostalInspector1936_201703/Postal%20Inspector%201936.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300_and_h450_bestv2/uwXZ60e3rHYsPihZgJppS8dvSpp.jpg" group-title="MOVIES",Ride Ranger Ride (1936)
-https://archive.org/download/RideRangerRide1936/Ride%20Ranger%20Ride%201936.mp4
-#EXTINF:-1 tvg-logo="http://img.moviepostershop.com/the-arizona-raiders-movie-poster-1936-1020280727.jpg" group-title="MOVIES",The Arizona Raiders (1936)
-https://archive.org/download/TheArizonaRaiders1936/The%20Arizona%20Raiders%201936.mp4
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/g_70X-cP6ok/maxresdefault_live.jpg" group-title="MOVIES",The Avenging Hand (1936)
-https://archive.org/download/TheAvengingHand1936/The%20Avenging%20Hand%201936.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/The_Big_Show_Poster.jpg/220px-The_Big_Show_Poster.jpg" group-title="MOVIES",The Big Show (1936)
-https://archive.org/download/TheBigShow1936/The%20Big%20Show%201936.mp4
-#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/236x/c1/c0/af/c1c0afac5ef4303180451c516d9e8fa7.jpg" group-title="MOVIES",The Texas Rangers (1936)
-https://archive.org/download/TheTexasRangers1936/The%20Texas%20Rangers%201936.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/Yu7Czrk.jpg" group-title="MOVIES",Trapped by Television (1936)
-https://archive.org/download/TrappedByTelevision1936_201701/Trapped%20By%20Television%201936.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300_and_h450_bestv2/s21AYQnWwZSJAx4Jk5lXpJq9Fn0.jpg" group-title="MOVIES",With Love and Kisses (1936)
-https://archive.org/download/WithLoveAndKisses1936/With%20Love%20and%20Kisses%201936.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/AmojWeE.jpg" group-title="MOVIES",Bad Boy (1935)
-https://archive.org/download/BadBoy1935/Bad%20Boy%201935.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/N8CnwZJ.jpg" group-title="MOVIES",Car of Dreams (1935)
-https://archive.org/download/CarOfDreams1935_201701/Car%20Of%20Dreams%201935.mp4
-#EXTINF:-1 tvg-logo="http://www.richarddix.org/images/tunnel3sheet.jpg" group-title="MOVIES",The Transatlantic Tunnel (1935)
-https://archive.org/download/TheTransatlanticTunnel1935_201703/The%20Transatlantic%20Tunnel%201935.mp4
-#EXTINF:-1 tvg-logo="http://iconshow.me/media/images/Mixed/small-n-flat-icon/png/512/movie-alt.png" group-title="MOVIES",Late Extra (1935)
-https://archive.org/download/LateExtra1935_201701/Late%20Extra%201935.mp4
 #EXTINF:-1 tvg-logo="http://torrentking.eu/covers/movies/69/72/0026972.jpg" group-title="MOVIES",Scrooge (1935)
 https://archive.org/download/Scrooge_1935/Scrooge_1935_512kb.mp4
-#EXTINF:-1 tvg-logo="https://vintage45.files.wordpress.com/2014/06/the-fire-trap-1935.jpg" group-title="MOVIES",The Fire Trap (1935)
-https://archive.org/download/TheFireTrap1935/The%20Fire%20Trap%201935.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/QKSOJ2L.jpg" group-title="MOVIES",Thoroughbred (1935)
-https://archive.org/download/Thoroughbred1935/Thoroughbred%201935.mp4
-#EXTINF:-1 tvg-logo="http://www.mysteryfile.com/Bi511/Bombay-Poster.jpg" group-title="MOVIES",Bombay Mail (1934)
-https://archive.org/download/BombayMail1934_201703/Bombay%20Mail%201934.mp4
-#EXTINF:-1 tvg-logo="http://images2.static-bluray.com/products/20/52448_1_large.jpg" group-title="MOVIES",Lost in the Stratosphere (1934)
-https://archive.org/download/LostInTheStratosphere1934/Lost%20in%20the%20Stratosphere%201934.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/JiuNENe.jpg" group-title="MOVIES",Public Stenographer (1934)
-https://archive.org/download/PublicStenographer1934/Public%20Stenographer%201934.mp4
-#EXTINF:-1 tvg-logo="https://www.vpro.nl/.imaging/stk/vpronl/opengraph/dam/cinema/12/23/24/image_12232402.jpeg/jcr:content/image_12232402.jpeg" group-title="MOVIES",Sixteen Fathoms Deep (1934)
-https://archive.org/download/SixteenFathomsDeep1934_201701/Sixteen%20Fathoms%20Deep%201934.mp4
-#EXTINF:-1 tvg-logo="http://images.watchfree.to/thumbs/75469_The_Black_Abbot_1963_78.jpg" group-title="MOVIES",The Black Abbot (1934)
-https://archive.org/download/TheBlackAbbot1934/The%20Black%20Abbot%201934.mp4
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/original/1wmmPwquuIrUlf1ZtXngsUhh2K.jpg" group-title="MOVIES",The Moth (1934)
-https://archive.org/download/TheMoth1934/The%20Moth%201934.mp4
-#EXTINF:-1 tvg-logo="http://www.moviemem.com/images/pictures/store/I/INTHEWAKEOFTHEBOUNTYHERALD.jpg" group-title="MOVIES",In the Wake of the Bounty (1933)
-https://archive.org/download/InTheWakeOfTheBounty1933/In%20The%20Wake%20Of%20The%20Bounty%201933.mp4
-#EXTINF:-1 tvg-logo="https://secure.netflix.com/us/boxshots/ghd/70121702.jpg" group-title="MOVIES",On Your Guard (1933)
-https://archive.org/download/OnYourGuard1933/On%20Your%20Guard%201933.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/TKfvYEF.jpg" group-title="MOVIES",S.O.S. Iceberg (1933)
-https://archive.org/download/S.O.S.Iceberg1933_201702/S.O.S.%20Iceberg%201933.mp4
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w342/qQrBNxWzVihwYfXrrH5uYMiKZRs.jpg" group-title="MOVIES",The Iron Master (1933)
-https://archive.org/download/TheIronMaster1933/The%20Iron%20Master%201933.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/1933_The_Sphinx_poster.jpg/220px-1933_The_Sphinx_poster.jpg" group-title="MOVIES",The Sphinx (1933)
-https://archive.org/download/TheSphinx1933_201703/The%20Sphinx%201933.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/aa/Poster_of_the_movie_Secret_of_the_Blue_Room.jpg" group-title="MOVIES",The Secret of the Blue Room (1933)
-https://archive.org/download/TheSecretOfTheBlueRoom1933/The%20Secret%20of%20The%20Blue%20Room%201933.mp4
-#EXTINF:-1 tvg-logo="http://horrornews.net/wp-content/uploads/2010/09/Vampire-Bat-poster-3.jpg" group-title="MOVIES",The Vampire Bat (1933)
-https://archive.org/download/TheVampireBat1933_201701/The%20Vampire%20Bat%201933.mp4
 #EXTINF:-1 tvg-logo="http://horrornews.net/wp-content/uploads/2010/09/Vampire-Bat-poster-3.jpg" group-title="MOVIES",The Vampire Bat (1933)*
 https://archive.org/download/TheVampireBat1933/the-vampire-bat-1933_512kb.mp4
-#EXTINF:-1 tvg-logo="https://pisces.bbystatic.com/image2/BestBuy_US/images/products/2416/24163438_sa.jpg" group-title="MOVIES",Women Won't Tell (1933)
-https://archive.org/download/WomenWontTell1933/Women%20Won%27t%20Tell%201933.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/Doctorx.jpg/220px-Doctorx.jpg" group-title="MOVIES",Doctor X (1932)
-https://archive.org/download/PhantasmagoriaTheater-DoctorX1932737/PhantasmagoriaTheater-DoctorX1932737_512kb.mp4
 #EXTINF:-1 tvg-logo="http://movieposters.2038.net/p/Que-Viva-Mexico_2.jpg" group-title="MOVIES",Que Viva Mexico! (1932)
 https://archive.org/download/QuevivaMexico/Que.viva.Mexico_512kb.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e8/Discarded_Lovers_FilmPoster.jpeg/220px-Discarded_Lovers_FilmPoster.jpeg" group-title="MOVIES",Discarded Lovers (1932)
-https://archive.org/download/DiscardedLovers1932/Discarded%20Lovers%201932.mp4
-#EXTINF:-1 tvg-logo="https://malayablackandwhite.files.wordpress.com/2012/08/outofsg.jpg" group-title="MOVIES",Out of Singapore (1932)
-https://archive.org/download/OutOfSingapore1932_201702/Out%20of%20Singapore%201932.mp4
-#EXTINF:-1 tvg-logo="https://vintage45.files.wordpress.com/2015/07/the-case-of-the-black-pearl-sally-of-the-subway-1932.jpg" group-title="MOVIES",Sally of the Subway (1932)
-https://archive.org/download/TheCaseOfTheBlackPearlSallyOfTheSubway1932/The%20case%20of%20the%20black%20pearl%20sally%20of%20the%20subway%201932.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/64/The_Drifter_FilmPoster.jpeg" group-title="MOVIES",The Drifter (1932)
-https://archive.org/download/TheDrifter1932/The%20Drifter%201932.mp4
-#EXTINF:-1 tvg-logo="http://img.moviepostershop.com/girl-from-chicago-movie-poster-1932-1010258488.jpg" group-title="MOVIES",The Girl from Chicago (1932)
-https://archive.org/download/TheGirlFromChicago1932/The%20Girl%20From%20Chicago%201932.mp4
-#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/236x/9b/ef/8d/9bef8dcef0616e7e5026a88881ab367d.jpg" group-title="MOVIES",The Local Bad Man (1932)
-https://archive.org/download/TheLocalBadMan1932/The%20Local%20Bad%20Man%201932.mp4
-#EXTINF:-1 tvg-logo="https://lunkiandsika.files.wordpress.com/2011/03/the-most-dangerous-game-1932-poster.png" group-title="MOVIES",The Most Dangerous Game (1932)
-https://archive.org/download/TheMostDangerousGame1932_201703/The%20Most%20Dangerous%20Game%201932.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/BeauIdealPoster.jpg/220px-BeauIdealPoster.jpg" group-title="MOVIES",Beau Ideal (1931)
-https://archive.org/download/BeauIdeal1931_201701/Beau%20Ideal%201931.mp4
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/512LsQed1qL.jpg" group-title="MOVIES",Grief Street (1931)
-https://archive.org/download/GriefStreet1931/Grief%20Street%201931.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/Millie_1931_poster.jpg" group-title="MOVIES",Millie (1931)
-https://archive.org/download/Millie1931_201701/Millie%201931.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/lmuHxHU.jpg" group-title="MOVIES",Parlor Bedroom and Bath (1931)
-https://archive.org/download/ParlorBedroomAndBath1931/Parlor%2C%20Bedroom%20and%20Bath%201931.mp4
 #EXTINF:-1 tvg-logo="http://www.diariodecine.es/sssvengali.jpg" group-title="MOVIES",Svengali (1931)
 https://archive.org/download/SvengaliJohnBarrymoreBKCap1931/SvengaliJohnBarrymoreBKCap1931_512kb.mp4
-#EXTINF:-1 tvg-logo="http://rarefilm.net/wp-content/uploads/2015/08/The-Royal-Bed-1931.jpg" group-title="MOVIES",The Royal Bed (1931)
-https://archive.org/download/TheRoyalBed1931/The%20Royal%20Bed%201931.mp4
 #EXTINF:-1 tvg-logo="http://www.doctormacro.com/Images/Posters/A/Poster%20-%20Abraham%20Lincoln%20(1930)_01.jpg" group-title="MOVIES",Abraham Lincoln (1930)
 https://archive.org/download/abraham_lincoln/abraham_lincoln_512kb.mp4
-#EXTINF:-1 tvg-logo="https://alchetron.com/cdn/Clancy-in-Wall-Street-images-e82acaec-dd81-4e4f-99b3-cbef9d1a796.jpg" group-title="MOVIES",Clancy in Wall Street (1930)
-https://archive.org/download/ClancyInWallStreet1930/Clancy%20in%20Wall%20Street%201930.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/yBFeud6.jpg" group-title="MOVIES",Danger Lights (1930)
-https://archive.org/download/DangerLights1930/Danger%20Lights%201930.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Hell_Harbor_poster_2.jpg/1200px-Hell_Harbor_poster_2.jpg" group-title="MOVIES",Hell Harbor (1930)
-https://archive.org/download/HellHarbor1930/Hell%20Harbor%201930.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/66/Ladies_in_Love_%281936%29.jpg" group-title="MOVIES",Ladies in Love (1930)
-https://archive.org/download/LadiesInLove1930_201703/Ladies%20in%20Love%201930.mp4
-#EXTINF:-1 tvg-logo="http://www.dorothysebastian.com/images/officerobrienhb.jpg" group-title="MOVIES",Officer O'Brien (1930)
-https://archive.org/download/OfficerOBrien1930/Officer%20O%27Brien%201930.mp4
-#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-E7FFE9S0K8E/UqVZ_hYGGII/AAAAAAAAALc/usSZCvwj4Wo/s1600/partyg.jpg" group-title="MOVIES",Party Girl (1930)
-https://archive.org/download/PartyGirl1930_201701/Party%20Girl%201930.mp4
 #EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/736x/1e/cd/d8/1ecdd8e53c7889ced1be590177b2cf8e--disney-sleeve-disney-posters.jpg" group-title="MOVIES",Plane Crazy (1929)
 https://archive.org/download/PlaneCrazy_201511/Plane%20Crazy.mp4
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/69/Poster_of_the_movie_The_Barn_Dance.jpg" group-title="MOVIES",The Barn Dance (1929)
@@ -1659,60 +367,14 @@ https://archive.org/download/TheGallopinGaucho/The%20Gallopin%27%20Gaucho.mp4
 https://archive.org/download/SteamboatWillie/Steamboat%20Willie.mp4
 #EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/236x/a8/2f/7d/a82f7d1f30dd70232ce459adeba5ad39.jpg" group-title="MOVIES",The Iron Mask (1929)
 https://archive.org/download/iron_mask/iron_mask_256kb.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Poster_-_Wild_Party%2C_The_%281929%29_01.jpg/200px-Poster_-_Wild_Party%2C_The_%281929%29_01.jpg" group-title="MOVIES",The Wild Party (1929)
-https://archive.org/download/TheWildParty1929_201701/The%20Wild%20Party%201929.mp4
-#EXTINF:-1 tvg-logo="http://iconshow.me/media/images/Mixed/small-n-flat-icon/png/512/movie-alt.png" group-title="MOVIES",Thundering Thompson (1929)
-https://archive.org/download/ThunderingThompson1929/Thundering%20Thompson%201929.mp4
-#EXTINF:-1 tvg-logo="https://a.ltrbxd.com/resized/film-poster/2/8/0/4/8/28048-the-little-match-girl-0-230-0-345-crop.jpg" group-title="MOVIES",The Little Match Girl (1928)
-https://archive.org/download/TheLittleMatchGirl1928/The%20Little%20Match%20Girl%201928.mp4
-#EXTINF:-1 tvg-logo="http://m.iphotoscrap.com/Image/251/1341325653.jpg" group-title="MOVIES",Getting Gertie's Garter (1927)
-https://archive.org/download/GettingGertiesGarter1927/Getting%20Gertie%27s%20Garter%201927.mp4
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/06/Metropolisposter.jpg" group-title="MOVIES",Metropolis (1927)
 https://archive.org/download/Metropolis1927EnglishVersion/Metropolis_1927_English_Version.mp4
-#EXTINF:-1 tvg-logo="https://silentology.files.wordpress.com/2014/11/ella-cinders-ad.jpg" group-title="MOVIES",Ella Cinders (1926)
-https://archive.org/download/EllaCinders1926/Ella%20Cinders%201926.mp4
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/The_Phantom_of_the_Opera_%281925_film%29.jpg" group-title="MOVIES",The Phantom of the Opera (1925)
 https://archive.org/download/ThePhantomoftheOpera/Phantom_of_the_Opera_512kb.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/teNYUMj.jpg" group-title="MOVIES",Isn't Life Wonderful (1924)
-https://archive.org/download/IsntLifeWonderful1924/Isn%27t%20Life%20Wonderful%201924.mp4
-#EXTINF:-1 tvg-logo="http://images3.static-bluray.com/movies/covers/71766_front.jpg" group-title="MOVIES",Foolish Wives (1922)
-https://archive.org/download/FoolishWives1922/Foolish%20Wives%201922.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Lorna_Doone_Poster.jpg/220px-Lorna_Doone_Poster.jpg" group-title="MOVIES",Lorna Doone (1922)
-https://archive.org/download/LornaDoone1922/Lorna%20Doone%201922.mp4
-#EXTINF:-1 tvg-logo="http://www.silentera.com/PSFL/img/filmImages/A/AceOfHearts1921-01.jpg" group-title="MOVIES",The Ace of Hearts (1921)
-https://archive.org/download/TheAceOfHearts1921/The%20Ace%20of%20Hearts%201921.mp4
-#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-KrOti6iNeIc/Vk8eXOldfmI/AAAAAAAAIOk/LpQUvam1D6U/s1600/four_horsemen_poster.jpg" group-title="MOVIES",The Four Horsemen of the Apocalypse (1921)
-https://archive.org/download/TheFourHorsemenOfTheApocalypse1921_201701/The%20Four%20Horsemen%20Of%20The%20Apocalypse%201921.mp4
-#EXTINF:-1 tvg-logo="http://www.thepalacetheatre.org/wp-content/uploads/2016/06/Keaton-Haunted-House-Poster.jpg" group-title="MOVIES",The Haunted House (1921)
-https://archive.org/download/TheHauntedHouse1921_201701/The%20Haunted%20House%201921.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/The-nut-1921.jpg/220px-The-nut-1921.jpg" group-title="MOVIES",The Nut (1921)
-https://archive.org/download/TheNut1921/The%20Nut%201921.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/da/The_Sheik_Poster_1921.jpg" group-title="MOVIES",The Sheik (1921)
-https://archive.org/download/TheSheik1921/The%20Sheik%201921.mp4
-#EXTINF:-1 tvg-logo="https://www.cinematerial.com/media/posters/sm/7h/7hblabna.jpg" group-title="MOVIES",Little Lord Fauntleroy (1921)
-https://archive.org/download/LittleLordFauntleroy1921/Little%20Lord%20Fauntleroy%201921.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/Heading_Home_%281920%29_-_5.jpg" group-title="MOVIES",Headin' Home (1920)
-https://archive.org/download/HeadinHome1920/Headin%27%20Home%201920.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Pollyanna_poster.jpg/220px-Pollyanna_poster.jpg" group-title="MOVIES",Pollyanna (1920)
-https://archive.org/download/Pollyanna1920/Pollyanna%201920.mp4
-#EXTINF:-1 tvg-logo="http://iconshow.me/media/images/Mixed/small-n-flat-icon/png/512/movie-alt.png" group-title="MOVIES",Something New (1920)
-https://archive.org/download/SomethingNew1920/Something%20New%201920.mp4
-#EXTINF:-1 tvg-logo="https://a.ltrbxd.com/resized/film-poster/7/8/4/3/5/78435-suds-0-230-0-345-crop.jpg" group-title="MOVIES",Suds (1920)
-https://archive.org/download/Suds1920/Suds%201920.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/Terror_Island_%281920%29_-_Ad_1.jpg" group-title="MOVIES",Terror Island (1920)
-https://archive.org/download/TerrorIsland1920/Terror%20Island%201920.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/The_Love_Flower_%281920%29_-_3.jpg/220px-The_Love_Flower_%281920%29_-_3.jpg" group-title="MOVIES",The Love Flower (1920)
-https://archive.org/download/TheLoveFlower1920_201701/The%20Love%20Flower%201920.mp4
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-5a0OuD9nY0o/Uin0Wc-dU4I/AAAAAAAADAs/MLGWgU_2d0A/s1600/1920+the+mark+of+zorro.jpg" group-title="MOVIES",The Mark of Zorro (1920)
 https://archive.org/download/markofzorro-1920/markofzorro_512kb.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/The_Saphead_FilmPoster.jpeg" group-title="MOVIES",The Saphead (1920)
-https://archive.org/download/TheSaphead1920/The%20Saphead%201920.mp4
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81z7qllo1UL._SY445_.jpg" group-title="MOVIES",What Happened To Rosa (1920)
-https://archive.org/download/WhatHappenedToRosa1921_201702/What%20Happened%20To%20Rosa%201921.mp4
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Poster_-_20%2C000_Leagues_under_the_Sea_%281916%29.jpg" group-title="MOVIES",20000 Leagues Under the Sea (1916)
 https://archive.org/download/20000LeaguesUndertheSea/20000_Leagues_Under_the_Sea_512kb.mp4
-#EXTINF:-1 tvg-logo="http://iconshow.me/media/images/Mixed/small-n-flat-icon/png/512/movie-alt.png" group-title="MOVIES",Granddad (1913)
-https://archive.org/download/Granddad1913/Granddad%201913.mp4
 #EXTINF:-1 tvg-logo="https://f8b5db1e1f00cea72855-84a7d838f746c494b9783302a5a26cce.ssl.cf5.rackcdn.com/wp-content/uploads/2017/02/The-Wonderful-Wizard-of-Oz-1910-movie-poster.jpg" group-title="MOVIES",The Wonderful Wizard of Oz (1910)
 https://archive.org/download/The_Wonderful_Wizard_of_Oz/WonderfulWizardofOz1910_512kb.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YgRz2Cc.png" group-title="Movie",Movie Kingdom
@@ -8836,10 +7498,6 @@ http://iptv.satplex.co.uk:8080/movie/ola3/xS7DXUc9kh/18138.mp4
 http://iptv.satplex.co.uk:8080/movie/ola3/xS7DXUc9kh/18139.mp4
 #EXTINF:-1,The Day the Earth Stood Still
 http://iptv.satplex.co.uk:8080/movie/ola3/xS7DXUc9kh/18140.mp4
-#EXTINF:-1,The Dead 2: India
-http://iptv.satplex.co.uk:8080/movie/ola3/xS7DXUc9kh/18141.mp4
-#EXTINF:-1,The Dead 2: India
-http://iptv.satplex.co.uk:8080/movie/ola3/xS7DXUc9kh/18142.mp4
 #EXTINF:-1,The Deadly Affair
 http://iptv.satplex.co.uk:8080/movie/ola3/xS7DXUc9kh/18143.mp4
 #EXTINF:-1,The Dead Next Door
@@ -8878,28 +7536,10 @@ http://iptv.satplex.co.uk:8080/movie/ola3/xS7DXUc9kh/18159.mp4
 http://iptv.satplex.co.uk:8080/m
 
 ---------------------PORN------------------------
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/72g0AmD.png" group-title="24/7 ADULT IPTV",Blue Hustler
-https://fluxustv.blogspot.com@bit.ly/39bgDkK?.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zBnldmZ.png" group-title="24/7 ADULT IPTV",Brazzers TV
-https://fluxustv.blogspot.com@bit.ly/2TkJLPO?.m3u8
- 
-#EXTINF:-1 tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_horizontal.png" group-title="24/7 ADULT IPTV",FTV Midnight Secrets (SD)
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/media.m3u8
- 
-#EXTINF:-1 tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_horizontal.png" group-title="24/7 ADULT IPTV",FTV Midnight Secrets (HD)
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
- 
+  
 #EXTINF:-1 tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_horizontal.png" group-title="24/7 ADULT IPTV",FTV Midnight Secrets (UHD)
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
- 
-#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/jasmintv.png" group-title="24/7 ADULT IPTV",Jasmin TV (SD)
-http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8?fluxuslust.m3u8
- 
-#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/jasmintv.png" group-title="24/7 ADULT IPTV",Jasmin TV (HD)
-http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8?fluxuslust.m3u8
- 
+  
 #EXTINF:-1 tvg-logo="https://terapiasexo.com/wp-content/uploads/2016/09/logo-miami-tv.png" group-title="24/7 ADULT IPTV",Miami TV
 http://59ec5453559f0.streamlock.net:1935/miamitv/smil:miamitv/chunklist.m3u8?fluxuslust.m3u8
  
@@ -8909,95 +7549,8 @@ http://59ec5453559f0.streamlock.net/canal18/smil:canal18/chunklist_b2592000.m3u8
 #EXTINF:-1 tvg-logo="https://terapiasexo.com/wp-content/uploads/2016/09/logo-miami-tv.png" group-title="24/7 ADULT IPTV",Miami TV Live
 http://59ec5453559f0.streamlock.net:1935/mexicotv/smil:miamitvmexicoROKU/chunklist_b1896000.m3u8?fluxuslust.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ftg9DbR.png" group-title="24/7 ADULT IPTV",Midnight TV
-http://112.148.183.161:9981/stream/channelid/96001658
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rteA7mC.png" group-title="24/7 ADULT IPTV",Nuart
 https://fluxustv.blogspot.com@bit.ly/3ciaaqa?.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/D62Pi3e.png" group-title="24/7 ADULT IPTV",NYX Media 1 (Opt-1)
-https://5a2a51fc4cfde.streamlock.net/free/_definst_/Stream1/chunklist.m3u8?fluxustv.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/D62Pi3e.png" group-title="24/7 ADULT IPTV",NYX Media 1 (Opt-2)
-https://cdn1.ibizastream.biz:441/free/1/playlist.m3u8?fluxustv.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/D62Pi3e.png" group-title="24/7 ADULT IPTV",NYX Media 2 (Opt-1)
-https://5a2a51fc4cfde.streamlock.net/free/_definst_/Stream2/chunklist.m3u8?fluxustv.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/D62Pi3e.png" group-title="24/7 ADULT IPTV",NYX Media 2 (Opt-2)
-https://cdn1.ibizastream.biz:441/free/2/playlist.m3u8?fluxustv.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/z5uQP7L.png" group-title="24/7 ADULT IPTV",Playboy
-https://fluxustv.blogspot.com@bit.ly/3cbMDqK?.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JwnFdI3.png" group-title="24/7 ADULT IPTV",Russian Night
-https://fluxustv.blogspot.com@bit.ly/2wjqh64?.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zX6fCMT.png" group-title="24/7 ADULT IPTV",Shemale Tube TV 1
-http://www.ast.tv/stream/1/master.m3u8?fluxuslust.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zX6fCMT.png" group-title="24/7 ADULT IPTV",Shemale Tube TV 2
-http://www.ast.tv/stream/2/master.m3u8?fluxuslust.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EJZPlK9.jpg" group-title="24/7 ADULT IPTV",Viki TV
-http://112.148.183.161:9981/stream/channelid/488704961
- 
-#EXTINF:-1 tvg-logo="http://images.zattic.com/logos/99c52002fd7a7a01f017/white/210x120.png" group-title="24/7 ADULT IPTV",Visit-X TV (Opt-1)
-http://stream.visit-x.tv/vxtv/live/playlist.m3u8?fluxuslust.m3u8
- 
-#EXTINF:-1 tvg-logo="http://images.zattic.com/logos/99c52002fd7a7a01f017/white/210x120.png" group-title="24/7 ADULT IPTV",Visit-X TV (Opt-2)
-http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8?fluxuslust.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0XJcknD.png" group-title="24/7 RED TRAFFIC",Big Ass
-http://live.redtraffic.xyz/bigass.m3u8?fluxuslust.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0XJcknD.png" group-title="24/7 RED TRAFFIC",Big Dick
-http://live.redtraffic.xyz/bigdick.m3u8?fluxuslust.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0XJcknD.png" group-title="24/7 RED TRAFFIC",Big Tits
-http://live.redtraffic.xyz/bigtits.m3u8?fluxuslust.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0XJcknD.png" group-title="24/7 RED TRAFFIC",Blowjob
-http://live.redtraffic.xyz/blowjob.m3u8?fluxuslust.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0XJcknD.png" group-title="24/7 RED TRAFFIC",Cuckold
-http://live.redtraffic.xyz/cuckold.m3u8?fluxuslust.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0XJcknD.png" group-title="24/7 RED TRAFFIC",Fetish
-http://live.redtraffic.xyz/fetish.m3u8?fluxuslust.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0XJcknD.png" group-title="24/7 RED TRAFFIC",Hardcore
-http://live.redtraffic.xyz/hardcore.m3u8?fluxuslust.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0XJcknD.png" group-title="24/7 RED TRAFFIC",Interracial
-http://live.redtraffic.xyz/interracial.m3u8?fluxuslust.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0XJcknD.png" group-title="24/7 RED TRAFFIC",Latina
-http://live.redtraffic.xyz/latina.m3u8?fluxuslust.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0XJcknD.png" group-title="24/7 RED TRAFFIC",Lesbian
-http://live.redtraffic.xyz/lesbian.m3u8?fluxuslust.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0XJcknD.png" group-title="24/7 RED TRAFFIC",MILF
-http://live.redtraffic.xyz/milf.m3u8?fluxuslust.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0XJcknD.png" group-title="24/7 RED TRAFFIC",POV
-http://live.redtraffic.xyz/pov.m3u8?fluxuslust.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0XJcknD.png" group-title="24/7 RED TRAFFIC",Pornstar
-http://live.redtraffic.xyz/pornstar.m3u8?fluxuslust.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0XJcknD.png" group-title="24/7 RED TRAFFIC",Russian
-http://live.redtraffic.xyz/russian.m3u8?fluxuslust.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0XJcknD.png" group-title="24/7 RED TRAFFIC",Teen
-http://live.redtraffic.xyz/teen.m3u8?fluxuslust.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0XJcknD.png" group-title="24/7 RED TRAFFIC",Threesome
-http://live.redtraffic.xyz/threesome.m3u8?fluxuslust.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/ur8xpQ7.png" group-title="OTHER",Other - Seventeen Video 01
-http://galleries.payserve.com/1/43131/55380/5mins_sv.flv
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/ur8xpQ7.png" group-title="OTHER",Other - Double Penetration Latinas 01
 http://ic.bf24b800.0f4d7a.1.c3503.d.rncdn3.com/0/65/65468/tubeclips/DPL/custom/DPL_65468_750.flv
@@ -9023,73 +7576,8 @@ http://cdn.servitubes.com/videos/0/2/9/3/c/0293cf9012c23e92d7d68e7d599824008e498
 #EXTINF:-1 tvg-logo="http://i.imgur.com/ur8xpQ7.png" group-title="OTHER",Other - Blacked.com - Two White Chicks
 http://iptvnation.com/porn/video1080p.mp4
  
-#EXTINF:-1 tvg-logo="http://i.imgur.com/ur8xpQ7.png" group-title="OTHER",Other - Yanks.com - Blonde Solo
-http://iptvnation.com/porn/video.mp4
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EfpNhHQ.png" group-title="JUST PORNO",Just Porno - VOD 001
-http://cdn.justporno.sex/video_hd/0/413.mp4
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EfpNhHQ.png" group-title="JUST PORNO",Just Porno - VOD 002
-http://cdn.justporno.sex/video_hd/0/3781.mp4
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EfpNhHQ.png" group-title="JUST PORNO",Just Porno - VOD 003
-http://cdn.justporno.sex/video_hd/1709/17099.mp4
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EfpNhHQ.png" group-title="JUST PORNO",Just Porno - VOD 004
-http://cdn.justporno.sex/video_hd/0/3883.mp4
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EfpNhHQ.png" group-title="JUST PORNO",Just Porno - VOD 005
-http://cdn.justporno.sex/video_hd/1761/17615.mp4
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EfpNhHQ.png" group-title="JUST PORNO",Just Porno - VOD 006
-http://cdn.justporno.sex/video_hd/1629/16292.mp4
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EfpNhHQ.png" group-title="JUST PORNO",Just Porno - VOD 007
-http://cdn.justporno.sex/video_hd/0/6548.mp4
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EfpNhHQ.png" group-title="JUST PORNO",Just Porno - VOD 008
-http://cdn.justporno.sex/video_hd/1332/13323.mp4
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EfpNhHQ.png" group-title="JUST PORNO",Just Porno - VOD 009
-http://cdn.justporno.sex/video_hd/1199/11992.mp4
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EfpNhHQ.png" group-title="JUST PORNO",Just Porno - VOD 010
-http://cdn.justporno.sex/video_hd/0/1696.mp4
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EfpNhHQ.png" group-title="JUST PORNO",Just Porno - VOD 011
-http://cdn.justporno.sex/video_hd/0/6137.mp4
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EfpNhHQ.png" group-title="JUST PORNO",Just Porno - VOD 012
-http://cdn.justporno.sex/video_hd/1518/15184.mp4
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EfpNhHQ.png" group-title="JUST PORNO",Just Porno - VOD 013
-http://cdn.justporno.sex/video_hd/0/5781.mp4
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EfpNhHQ.png" group-title="JUST PORNO",Just Porno - VOD 014
-http://cdn.justporno.sex/video_hd/0/3450.mp4
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EfpNhHQ.png" group-title="JUST PORNO",Just Porno - VOD 015
-http://cdn.justporno.sex/video_hd/0/6494.mp4
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EfpNhHQ.png" group-title="JUST PORNO",Just Porno - VOD 016
-http://cdn.justporno.sex/video_hd/0/6532.mp4
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EfpNhHQ.png" group-title="JUST PORNO",Just Porno - VOD 017
-http://cdn.justporno.sex/video_hd/0/5834.mp4
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EfpNhHQ.png" group-title="JUST PORNO",Just Porno - VOD 018
-http://cdn.justporno.sex/video_hd/1314/13144.mp4
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EfpNhHQ.png" group-title="JUST PORNO",Just Porno - VOD 019
-http://cdn.justporno.sex/video_hd/0/2339.mp4
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EfpNhHQ.png" group-title="JUST PORNO",Just Porno - VOD 020
-http://cdn.justporno.sex/video_hd/0/9655.mp4
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EfpNhHQ.png" group-title="JUST PORNO",Just Porno - VOD 021
-http://cdn.justporno.sex/video_hd/0/3471.mp4
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/l8wtDXF.png" group-title="BRAZIL TUBE",Brazil Tube - VOD 001
+
+ #EXTINF:-1 tvg-logo="https://i.imgur.com/l8wtDXF.png" group-title="BRAZIL TUBE",Brazil Tube - VOD 001
 http://gzmbu8bjh3.singularcdn.net.br/get_file/1/fe900c9da9b70b45716793b2ec6d496c00bec5df75/22000/22160/22160_480p.mp4
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/l8wtDXF.png" group-title="BRAZIL TUBE",Brazil Tube - VOD 002
@@ -9386,315 +7874,6 @@ https://v1.paradisehill.cc/video/5a481565e4aa7_Cosplay-Sex-Machine_part1.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/blPBeJe.png" group-title="PARADISE HILL",Paradise Hill - VOD 072 - Hentai Cosplay Sex Machine Part 2
 https://v1.paradisehill.cc/video/5a481565e4aa7_Cosplay-Sex-Machine_part2.mp4
  
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/b3Hr4xL.jpg" group-title="ARABIAN CHICKS",Arabian Chicks - VOD 001
-https://media.arabianchicks.com/videos/7/7/6/0/5/77605b198f44b7789.mp4
- 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/b3Hr4xL.jpg" group-title="ARABIAN CHICKS",Arabian Chicks - VOD 002
-https://media.arabianchicks.com/videos/5/7/9/a/5/579a543dc0854xc15168-1080p.mp4
- 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/b3Hr4xL.jpg" group-title="ARABIAN CHICKS",Arabian Chicks - VOD 003
-https://media.arabianchicks.com/videos/5/7/9/a/5/579a543dc294axc15171-1080p.mp4
- 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/b3Hr4xL.jpg" group-title="ARABIAN CHICKS",Arabian Chicks - VOD 004
-https://media.arabianchicks.com/videos/5/7/9/a/5/579a543dc288fxc15170-1080p.mp4
- 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/b3Hr4xL.jpg" group-title="ARABIAN CHICKS",Arabian Chicks - VOD 005
-https://media.arabianchicks.com/videos/5/7/9/a/5/579a543dc0a3cxc15169-1080p.mp4
- 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/b3Hr4xL.jpg" group-title="ARABIAN CHICKS",Arabian Chicks - VOD 006
-https://media.arabianchicks.com/videos/5/7/9/a/5/579a543da37dcxc15167-1080p.mp4
- 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/b3Hr4xL.jpg" group-title="ARABIAN CHICKS",Arabian Chicks - VOD 007
-https://media.arabianchicks.com/videos/5/7/9/a/5/579a543dc29f3xc15326-1080p.mp4
- 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/b3Hr4xL.jpg" group-title="ARABIAN CHICKS",Arabian Chicks - VOD 008
-https://media.arabianchicks.com/videos/5/7/a/c/3/57ac3a5ca666bxc153399-1080p.mp4
- 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/b3Hr4xL.jpg" group-title="ARABIAN CHICKS",Arabian Chicks - VOD 009
-https://media.arabianchicks.com/videos/5/7/d/e/6/57de6f25ebada.mp4
- 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/b3Hr4xL.jpg" group-title="ARABIAN CHICKS",Arabian Chicks - VOD 010
-https://media.arabianchicks.com/videos/5/7/f/f/f/57fff8af7cab5.mp4
- 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/b3Hr4xL.jpg" group-title="ARABIAN CHICKS",Arabian Chicks - VOD 011
-https://media.arabianchicks.com/videos/5/8/5/0/2/585022804a04f.mp4
- 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/b3Hr4xL.jpg" group-title="ARABIAN CHICKS",Arabian Chicks - VOD 012
-https://media.arabianchicks.com/videos/5/9/d/d/f/59ddffcea29a3.mp4
- 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/b3Hr4xL.jpg" group-title="ARABIAN CHICKS",Arabian Chicks - VOD 013
-https://media.arabianchicks.com/videos/5/b/1/1/5/5b1156da28f56-tourofbooty-vid2.mp4
- 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/b3Hr4xL.jpg" group-title="ARABIAN CHICKS",Arabian Chicks - VOD 014
-https://media.arabianchicks.com/videos/5/9/d/d/f/59de068d115f2.mp4
- 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/b3Hr4xL.jpg" group-title="ARABIAN CHICKS",Arabian Chicks - VOD 015
-https://media.arabianchicks.com/videos/5/b/1/e/7/5b1e7cb5d0e7d-tourofbooty-vid4.mp4
- 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/b3Hr4xL.jpg" group-title="ARABIAN CHICKS",Arabian Chicks - VOD 016
-https://media.arabianchicks.com/videos/5/9/d/d/f/59de0e39ea9e0.mp4
- 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/b3Hr4xL.jpg" group-title="ARABIAN CHICKS",Arabian Chicks - VOD 017
-https://media.arabianchicks.com/videos/5/b/1/1/5/5b1156da280af-tourofbooty-vid1.mp4
- 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/b3Hr4xL.jpg" group-title="ARABIAN CHICKS",Arabian Chicks - VOD 018
-https://media.arabianchicks.com/videos/5/b/2/8/2/5b282867e1193-tourofbootty-vid-5.mp4
- 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/b3Hr4xL.jpg" group-title="ARABIAN CHICKS",Arabian Chicks - VOD 019
-https://media.arabianchicks.com/videos/5/b/1/1/5/5b1156da29cdf-tourofbooty-vid3.mp4
- 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/b3Hr4xL.jpg" group-title="ARABIAN CHICKS",Arabian Chicks - VOD 020
-https://media.arabianchicks.com/videos/5/9/f/f/7/59ff7cac45f9d-tc14535-1080p.mp4
-
-#EXTINF:-1 tvg-logo="http://candy.adult/assets/img/logo.png" group-title="ADULT CANDY",Adult Candy - VOD 01
-http://stream2.fastcdn.me/flv/490.mp4
- 
-#EXTINF:-1 tvg-logo="http://candy.adult/assets/img/logo.png" group-title="ADULT CANDY",Adult Candy - VOD 02
-http://stream2.fastcdn.me/flv/487.mp4
- 
-#EXTINF:-1 tvg-logo="http://candy.adult/assets/img/logo.png" group-title="ADULT CANDY",Adult Candy - VOD 03
-http://stream2.fastcdn.me/flv/484.mp4
- 
-#EXTINF:-1 tvg-logo="http://candy.adult/assets/img/logo.png" group-title="ADULT CANDY",Adult Candy - VOD 04
-http://stream2.fastcdn.me/flv/481.mp4
- 
-#EXTINF:-1 tvg-logo="http://candy.adult/assets/img/logo.png" group-title="ADULT CANDY",Adult Candy - VOD 05
-http://stream2.fastcdn.me/flv/459.mp4
- 
-#EXTINF:-1 tvg-logo="http://candy.adult/assets/img/logo.png" group-title="ADULT CANDY",Adult Candy - VOD 06
-http://stream2.fastcdn.me/flv/456.mp4
- 
-#EXTINF:-1 tvg-logo="http://candy.adult/assets/img/logo.png" group-title="ADULT CANDY",Adult Candy - VOD 07
-http://stream2.fastcdn.me/flv/451.mp4
- 
-#EXTINF:-1 tvg-logo="http://candy.adult/assets/img/logo.png" group-title="ADULT CANDY",Adult Candy - VOD 08
-http://stream2.fastcdn.me/flv/422.mp4
- 
-#EXTINF:-1 tvg-logo="http://candy.adult/assets/img/logo.png" group-title="ADULT CANDY",Adult Candy - VOD 09
-http://stream2.fastcdn.me/flv/414.mp4
- 
-#EXTINF:-1 tvg-logo="http://candy.adult/assets/img/logo.png" group-title="ADULT CANDY",Adult Candy - VOD 10
-http://stream2.fastcdn.me/flv/416.mp4
- 
-#EXTINF:-1 tvg-logo="http://candy.adult/assets/img/logo.png" group-title="ADULT CANDY",Adult Candy - VOD 11
-http://stream2.fastcdn.me/flv/408.mp4
- 
-#EXTINF:-1 tvg-logo="http://candy.adult/assets/img/logo.png" group-title="ADULT CANDY",Adult Candy - VOD 12
-http://stream2.fastcdn.me/flv/409.mp4
- 
-#EXTINF:-1 tvg-logo="http://candy.adult/assets/img/logo.png" group-title="ADULT CANDY",Adult Candy - VOD 13
-http://stream2.fastcdn.me/flv/391.mp4
- 
-#EXTINF:-1 tvg-logo="http://candy.adult/assets/img/logo.png" group-title="ADULT CANDY",Adult Candy - VOD 14
-http://stream2.fastcdn.me/flv/389.mp4
- 
-#EXTINF:-1 tvg-logo="http://candy.adult/assets/img/logo.png" group-title="ADULT CANDY",Adult Candy - VOD 15
-http://stream2.fastcdn.me/flv/377.mp4
- 
-#EXTINF:-1 tvg-logo="http://candy.adult/assets/img/logo.png" group-title="ADULT CANDY",Adult Candy - VOD 16
-http://stream2.fastcdn.me/flv/375.mp4
- 
-#EXTINF:-1 tvg-logo="http://candy.adult/assets/img/logo.png" group-title="ADULT CANDY",Adult Candy - VOD 17
-http://stream2.fastcdn.me/flv/370.mp4
- 
-#EXTINF:-1 tvg-logo="http://candy.adult/assets/img/logo.png" group-title="ADULT CANDY",Adult Candy - VOD 18
-http://stream2.fastcdn.me/flv/371.mp4
- 
-#EXTINF:-1 tvg-logo="http://candy.adult/assets/img/logo.png" group-title="ADULT CANDY",Adult Candy - VOD 19
-http://stream2.fastcdn.me/flv/363.mp4
- 
-#EXTINF:-1 tvg-logo="http://candy.adult/assets/img/logo.png" group-title="ADULT CANDY",Adult Candy - VOD 20
-http://stream2.fastcdn.me/flv/359.mp4
- 
-#EXTINF:-1 tvg-logo="http://candy.adult/assets/img/logo.png" group-title="ADULT CANDY",Adult Candy - VOD 21
-http://stream2.fastcdn.me/flv/356.mp4
- 
-#EXTINF:-1 tvg-logo="http://candy.adult/assets/img/logo.png" group-title="ADULT CANDY",Adult Candy - VOD 22
-http://stream2.fastcdn.me/flv/347.mp4
- 
-#EXTINF:-1 tvg-logo="http://candy.adult/assets/img/logo.png" group-title="ADULT CANDY",Adult Candy - VOD 23
-http://stream2.fastcdn.me/flv/367.mp4
- 
-#EXTINF:-1 tvg-logo="http://candy.adult/assets/img/logo.png" group-title="ADULT CANDY",Adult Candy - VOD 24
-http://stream2.fastcdn.me/flv/346.mp4
- 
-#EXTINF:-1 tvg-logo="http://candy.adult/assets/img/logo.png" group-title="ADULT CANDY",Adult Candy - VOD 25
-http://stream2.fastcdn.me/flv/343.mp4
- 
-#EXTINF:-1 tvg-logo="http://candy.adult/assets/img/logo.png" group-title="ADULT CANDY",Adult Candy - VOD 26
-http://stream2.fastcdn.me/flv/337.mp4
- 
-#EXTINF:-1 tvg-logo="http://candy.adult/assets/img/logo.png" group-title="ADULT CANDY",Adult Candy - VOD 27
-http://stream2.fastcdn.me/flv/336.mp4
- 
-#EXTINF:-1 tvg-logo="http://candy.adult/assets/img/logo.png" group-title="ADULT CANDY",Adult Candy - VOD 28
-http://stream2.fastcdn.me/flv/333.mp4
- 
-#EXTINF:-1 tvg-logo="http://candy.adult/assets/img/logo.png" group-title="ADULT CANDY",Adult Candy - VOD 29
-http://stream2.fastcdn.me/flv/326.mp4
- 
-#EXTINF:-1 tvg-logo="http://candy.adult/assets/img/logo.png" group-title="ADULT CANDY",Adult Candy - VOD 30
-http://stream2.fastcdn.me/flv/322.mp4
- 
-#EXTINF:-1 tvg-logo="http://candy.adult/assets/img/logo.png" group-title="ADULT CANDY",Adult Candy - VOD 31
-http://stream2.fastcdn.me/flv/318.mp4
- 
-#EXTINF:-1 tvg-logo="http://candy.adult/assets/img/logo.png" group-title="ADULT CANDY",Adult Candy - VOD 32
-http://stream2.fastcdn.me/flv/316.mp4
- 
-#EXTINF:-1 tvg-logo="http://candy.adult/assets/img/logo.png" group-title="ADULT CANDY",Adult Candy - VOD 33
-http://stream2.fastcdn.me/flv/308.mp4
- 
-#EXTINF:-1 tvg-logo="http://candy.adult/assets/img/logo.png" group-title="ADULT CANDY",Adult Candy - VOD 34
-http://stream2.fastcdn.me/flv/311.mp4
- 
-#EXTINF:-1 tvg-logo="http://candy.adult/assets/img/logo.png" group-title="ADULT CANDY",Adult Candy - VOD 35
-http://stream2.fastcdn.me/flv/310.mp4
- 
-#EXTINF:-1 tvg-logo="http://candy.adult/assets/img/logo.png" group-title="ADULT CANDY",Adult Candy - VOD 36
-http://stream2.fastcdn.me/flv/301.mp4
- 
-#EXTINF:-1 tvg-logo="http://candy.adult/assets/img/logo.png" group-title="ADULT CANDY",Adult Candy - VOD 37
-http://stream2.fastcdn.me/flv/303.mp4
- 
-#EXTINF:-1 tvg-logo="http://candy.adult/assets/img/logo.png" group-title="ADULT CANDY",Adult Candy - VOD 38
-http://stream2.fastcdn.me/flv/299.mp4
- 
-#EXTINF:-1 tvg-logo="http://candy.adult/assets/img/logo.png" group-title="ADULT CANDY",Adult Candy - VOD 39
-http://stream2.fastcdn.me/flv/293.mp4
- 
-#EXTINF:-1 tvg-logo="http://candy.adult/assets/img/logo.png" group-title="ADULT CANDY",Adult Candy - VOD 40
-http://stream2.fastcdn.me/flv/291.mp4
- 
-#EXTINF:-1 tvg-logo="http://candy.adult/assets/img/logo.png" group-title="ADULT CANDY",Adult Candy - VOD 41
-http://stream2.fastcdn.me/flv/280.mp4
- 
-#EXTINF:-1 tvg-logo="http://candy.adult/assets/img/logo.png" group-title="ADULT CANDY",Adult Candy - VOD 42
-http://stream2.fastcdn.me/flv/283.mp4
- 
-#EXTINF:-1 tvg-logo="http://candy.adult/assets/img/logo.png" group-title="ADULT CANDY",Adult Candy - VOD 43
-http://stream2.fastcdn.me/flv/282.mp4
- 
-#EXTINF:-1 tvg-logo="http://candy.adult/assets/img/logo.png" group-title="ADULT CANDY",Adult Candy - VOD 44
-http://stream2.fastcdn.me/flv/281.mp4
- 
-#EXTINF:-1 tvg-logo="http://candy.adult/assets/img/logo.png" group-title="ADULT CANDY",Adult Candy - VOD 45
-http://stream2.fastcdn.me/flv/279.mp4
- 
-#EXTINF:-1 tvg-logo="http://candy.adult/assets/img/logo.png" group-title="ADULT CANDY",Adult Candy - VOD 46
-http://stream2.fastcdn.me/flv/275.mp4
- 
-#EXTINF:-1 tvg-logo="http://candy.adult/assets/img/logo.png" group-title="ADULT CANDY",Adult Candy - VOD 47
-http://stream2.fastcdn.me/flv/273.mp4
- 
-#EXTINF:-1 tvg-logo="http://candy.adult/assets/img/logo.png" group-title="ADULT CANDY",Adult Candy - VOD 48
-http://stream2.fastcdn.me/flv/269.mp4
- 
-#EXTINF:-1 tvg-logo="http://candy.adult/assets/img/logo.png" group-title="ADULT CANDY",Adult Candy - VOD 49
-http://stream2.fastcdn.me/flv/268.mp4
- 
-#EXTINF:-1 tvg-logo="http://candy.adult/assets/img/logo.png" group-title="ADULT CANDY",Adult Candy - VOD 50
-http://stream2.fastcdn.me/flv/271.mp4
- 
-#EXTINF:-1 tvg-logo="http://candy.adult/assets/img/logo.png" group-title="ADULT CANDY",Adult Candy - VOD 51
-http://stream2.fastcdn.me/flv/267.mp4
- 
-#EXTINF:-1 tvg-logo="http://candy.adult/assets/img/logo.png" group-title="ADULT CANDY",Adult Candy - VOD 52
-http://stream2.fastcdn.me/flv/266.mp4
- 
-#EXTINF:-1 tvg-logo="http://candy.adult/assets/img/logo.png" group-title="ADULT CANDY",Adult Candy - VOD 53
-http://stream2.fastcdn.me/flv/265.mp4
- 
-#EXTINF:-1 tvg-logo="http://candy.adult/assets/img/logo.png" group-title="ADULT CANDY",Adult Candy - VOD 54
-http://stream2.fastcdn.me/flv/264.mp4
- 
-#EXTINF:-1 tvg-logo="http://candy.adult/assets/img/logo.png" group-title="ADULT CANDY",Adult Candy - VOD 55
-http://stream2.fastcdn.me/flv/262.mp4
- 
-#EXTINF:-1 tvg-logo="http://candy.adult/assets/img/logo.png" group-title="ADULT CANDY",Adult Candy - VOD 56
-http://stream2.fastcdn.me/flv/261.mp4
- 
-#EXTINF:-1 tvg-logo="http://candy.adult/assets/img/logo.png" group-title="ADULT CANDY",Adult Candy - VOD 57
-http://stream2.fastcdn.me/flv/259.mp4
- 
-#EXTINF:-1 tvg-logo="http://candy.adult/assets/img/logo.png" group-title="ADULT CANDY",Adult Candy - VOD 58
-http://stream2.fastcdn.me/flv/260.mp4
- 
-#EXTINF:-1 tvg-logo="http://candy.adult/assets/img/logo.png" group-title="ADULT CANDY",Adult Candy - VOD 59
-http://stream2.fastcdn.me/flv/256.mp4
- 
-#EXTINF:-1 tvg-logo="http://candy.adult/assets/img/logo.png" group-title="ADULT CANDY",Adult Candy - VOD 60
-http://stream2.fastcdn.me/flv/254.mp4
- 
-#EXTINF:-1 tvg-logo="http://candy.adult/assets/img/logo.png" group-title="ADULT CANDY",Adult Candy - VOD 61
-http://stream2.fastcdn.me/flv/251.mp4
- 
-#EXTINF:-1 tvg-logo="http://candy.adult/assets/img/logo.png" group-title="ADULT CANDY",Adult Candy - VOD 62
-http://stream2.fastcdn.me/flv/249.mp4
- 
-#EXTINF:-1 tvg-logo="http://candy.adult/assets/img/logo.png" group-title="ADULT CANDY",Adult Candy - VOD 63
-http://stream2.fastcdn.me/flv/248.mp4
- 
-#EXTINF:-1 tvg-logo="http://candy.adult/assets/img/logo.png" group-title="ADULT CANDY",Adult Candy - VOD 64
-http://stream2.fastcdn.me/flv/227.mp4
- 
-#EXTINF:-1 tvg-logo="http://candy.adult/assets/img/logo.png" group-title="ADULT CANDY",Adult Candy - VOD 65
-http://stream2.fastcdn.me/flv/214.mp4
- 
-#EXTINF:-1 tvg-logo="http://candy.adult/assets/img/logo.png" group-title="ADULT CANDY",Adult Candy - VOD 66
-http://stream2.fastcdn.me/flv/216.mp4
- 
-#EXTINF:-1 tvg-logo="http://candy.adult/assets/img/logo.png" group-title="ADULT CANDY",Adult Candy - VOD 67
-http://stream2.fastcdn.me/flv/210.mp4
- 
-#EXTINF:-1 tvg-logo="http://candy.adult/assets/img/logo.png" group-title="ADULT CANDY",Adult Candy - VOD 68
-http://stream2.fastcdn.me/flv/200.mp4
- 
-#EXTINF:-1 tvg-logo="http://candy.adult/assets/img/logo.png" group-title="ADULT CANDY",Adult Candy - VOD 69
-http://stream2.fastcdn.me/flv/199.mp4
- 
-#EXTINF:-1 tvg-logo="http://candy.adult/assets/img/logo.png" group-title="ADULT CANDY",Adult Candy - VOD 70
-http://stream2.fastcdn.me/flv/197.mp4
- 
-#EXTINF:-1 tvg-logo="http://candy.adult/assets/img/logo.png" group-title="ADULT CANDY",Adult Candy - VOD 71
-http://stream2.fastcdn.me/flv/196.mp4
- 
-#EXTINF:-1 tvg-logo="http://candy.adult/assets/img/logo.png" group-title="ADULT CANDY",Adult Candy - VOD 72
-http://stream2.fastcdn.me/flv/195.mp4
- 
-#EXTINF:-1 tvg-logo="http://candy.adult/assets/img/logo.png" group-title="ADULT CANDY",Adult Candy - VOD 73
-http://stream2.fastcdn.me/flv/193.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/34gc6Cz.png" group-title="PORNEQ",Porneq - VOD 01
-http://porneq.com/media/porn5/videos/465/Amanda-Black-20-10-2015-Mylove-360p-2Df89PnA8q2.mp4
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/34gc6Cz.png" group-title="PORNEQ",Porneq - VOD 02
-http://porneq.com/media/porn2/videos/904/Blonde-Hottie-Fucking-with-Asslicking-Front-Hidden-Webcam-Cumshot-on-Ass-360p-MuRBZyuxvaa.mp4
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/34gc6Cz.png" group-title="PORNEQ",Porneq - VOD 03
-http://porneq.com/media/porn7/videos/1929/Dirty-Western-2-Smokin-Guns-1995-Full-Movie-360p-7vnRLFOTPE2.mp4
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/34gc6Cz.png" group-title="PORNEQ",Porneq - VOD 04
-http://porneq.com/media/porn7/videos/743/Zuzana-Zeleznovova-fucked-deep-in-both-holes-Zuzana-Zeleznovova-fucked-deep-in-both-holes-360p-TAvSjELCd16.mp4
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/34gc6Cz.png" group-title="PORNEQ",Porneq - VOD 05
-http://porneq.com/media/porn7/videos/891/MyDadsHotGirlfriend-Kimmy-Fabel-04-02-16-rq-360p-aa2eTBQqyLB.mp4
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/34gc6Cz.png" group-title="PORNEQ",Porneq - VOD 06
-http://porneq.com/media/porn7/videos/1876/Nika-Noire-loves-teasing-Madison-Scotts-moist-pussy-PIR-TE-Nika-Noire-loves-teasing-Madison-Scotts-moist-pussy-360p-FfBh6youF6y.mp4
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/34gc6Cz.png" group-title="PORNEQ",Porneq - VOD 07
-http://porneq.com/media/porn4/videos/445/Turbo-Sluts-Scene-01-08-30-2015-Mylove-360p-FM9TyF3A1zs.mp4
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/34gc6Cz.png" group-title="PORNEQ",Porneq - VOD 08
-http://porneq.com/media/porn7/videos/98/MonstersOfCock-Riley-Reid-Riley-Reid-loves-Black-Dick-06-08-13-360p-UWm6iieGjsM.mp4
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/34gc6Cz.png" group-title="PORNEQ",Porneq - VOD 09
-http://porneq.com/media/porn7/videos/1929/Dirty-Western-2-Smokin-Guns-1995-Full-Movie-360p-7vnRLFOTPE2.mp4
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/34gc6Cz.png" group-title="PORNEQ",Porneq - VOD 10
-http://porneq.com/media/porn/videos/16/completed-PASSION-POTION-360p-fqqpa2wLfll.mp4
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kwEqqaP.png" group-title="FINE VIDS",Fine Vids - VOD 01
 http://finevids.xxx/get_file/1/19f697e62f022a60d5b943276787785d/82000/82071/82071.mp4
  
@@ -9841,6 +8020,3 @@ http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_chloe
  
 #EXTINF:-1 tvg-logo="http://i.imgur.com/h9aRgeG.png" group-title="TINY 4K",Tiny 4K - VOD 13
 http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_kaceyjordan061914/content/vid01.mp4
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/wauTPQN.png" group-title="WOW PORN",Wow Porn - VOD 01
-http://c
