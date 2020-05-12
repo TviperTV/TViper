@@ -134,7 +134,18 @@ http://livecdnh3.tvanywhere.ae/hls/docubox/03.m3u8
 http://ott.artmott.com/AnimalPlanet/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Knowledge Kids-CA" tvg-name="Knowledge Kids-CA" tvg-language="English" tvg-logo="https://i.imgur.com/kdgMVOI.png" tvg-country="CA" tvg-url="http://epg.streamstv.me/epg/guide-canada.xml.gz" group-title="ENT",Knowledge Kids
 http://knstream1.azureedge.net/knlive/knlive_high.m3u8
-
+#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/936.png",Disney Junior UK
+http://vvn.neoredi.com/iptv/ch936?code=170140343781561&key=25423
+#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/958.png",Sky Disney UK
+http://vvn.neoredi.com/iptv/ch958?code=170140343781561&key=49846
+#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1820.png",Disney XD UK
+http://vvn.neoredi.com/iptv/ch1820?code=170140343781561&key=47391
+#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/912.png",Nick Jr. Too UK
+http://vvn.neoredi.com/iptv/ch912?code=170140343781561&key=62039
+#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/913.png",Baby Tv UK
+http://vvn.neoredi.com/iptv/ch913?code=170140343781561&key=62427
+#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/932.png",Nick Jr. UK
+http://vvn.neoredi.com/iptv/ch932?code=170140343781561&key=45969
 
 SPORTS
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9lYz3No.png" group-title="Sports",MMA Junkie
@@ -159,16 +170,6 @@ https://bk7l2w4nlx53-hls-live.5centscdn.com/WWE/961ac1c875f5884f31bdd177365ef1e3
 http://cdnak21.cast4u.info/channels/4/10804.m3u8
 #EXTINF:79,Fox Sports News
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master640x360.m3u8
-#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3522.png",TSN 1 HD
-http://vvn.neoredi.com/iptv/ch3522?code=170140343781561&key=12157
-#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3525.png",TSN 4 HD
-http://vvn.neoredi.com/iptv/ch3525?code=170140343781561&key=51646
-#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3523.png",TSN 2 HD
-http://vvn.neoredi.com/iptv/ch3523?code=170140343781561&key=54617
-#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3524.png",TSN 3 HD
-http://vvn.neoredi.com/iptv/ch3524?code=170140343781561&key=24582
-#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3526.png",TSN 5 HD
-http://vvn.neoredi.com/iptv/ch3526?code=170140343781561&key=38701
 
 
 PODCAST
