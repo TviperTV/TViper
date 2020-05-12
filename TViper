@@ -1,6 +1,7 @@
 #EXTINF:-1,Disney Channel HD UK
 http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/1984.m3u8
-
+#EXTINF:-1,A&E HD US
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/10350.m3u8
 
 #EXTINF:199,Live Event - Coronavirus Coverage
 https://live.foxnews.com/4cd873537d834444ac8f882831463889/us-east-1/694940094001/playlist.m3u8
