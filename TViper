@@ -115,8 +115,6 @@ https://hls-cdn.tvstartup.net/barakyah-channel/live/pbtv/chunklist_w1880221002.m
 https://dai.google.com/linear/hls/event/CHaUZsCfSyS2CVF7I-NktA/master.m3u8
 #EXTINF:150,Buzzr
 https://buzzr.global.ssl.fastly.net/out/u/buzzr_hls_7.m3u8
-#EXTINF:0,Disney Junior
-https://content-ause4.uplynk.com/channel/2696c852412a4041ba3b771e0a5e3c74/h.m3u8?exp=1557726334&ct=c&cid=2696c852412a4041ba3b771e0a5e3c74&iph=dfedfaaeca06c9f40140cd2a0ac49a55790c044d07d90e043edad3ab32e2f603&rays=hjigfedcba&euid=5F8C9D89-CA39-4C23-9A6B-2A6A0A145CCB_013_1_001_live_04-06-99_1.1.1.15&cdn=ec&stgcfg=datg&pp2ip=0&delay=10800&ddp=1&expand=drmOff&v=3&sig=a07044f5b44c510bab5cd40a76b8b5839f0711064f090d2747280ebd7798e0dc&pbs=377d94b7fb794124b73c58474a01270a
 
 
 
@@ -136,18 +134,6 @@ http://livecdnh3.tvanywhere.ae/hls/docubox/03.m3u8
 http://ott.artmott.com/AnimalPlanet/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Knowledge Kids-CA" tvg-name="Knowledge Kids-CA" tvg-language="English" tvg-logo="https://i.imgur.com/kdgMVOI.png" tvg-country="CA" tvg-url="http://epg.streamstv.me/epg/guide-canada.xml.gz" group-title="ENT",Knowledge Kids
 http://knstream1.azureedge.net/knlive/knlive_high.m3u8
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/936.png",Disney Junior UK
-http://vvn.neoredi.com/iptv/ch936?code=170140343781561&key=25423
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/958.png",Sky Disney UK
-http://vvn.neoredi.com/iptv/ch958?code=170140343781561&key=49846
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1820.png",Disney XD UK
-http://vvn.neoredi.com/iptv/ch1820?code=170140343781561&key=47391
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/912.png",Nick Jr. Too UK
-http://vvn.neoredi.com/iptv/ch912?code=170140343781561&key=62039
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/913.png",Baby Tv UK
-http://vvn.neoredi.com/iptv/ch913?code=170140343781561&key=62427
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/932.png",Nick Jr. UK
-http://vvn.neoredi.com/iptv/ch932?code=170140343781561&key=45969
 
 SPORTS
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9lYz3No.png" group-title="Sports",MMA Junkie
