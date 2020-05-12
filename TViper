@@ -1,9 +1,5 @@
 
-#EXTINF:-1,Yip Man 3 
-http://newtube.ps/components/com_contushdvideoshare/videos/3006_video.mp4
 
-#EXTINF:-1,Ip Man 2 
-http://newtube.ps/components/com_contushdvideoshare/videos/732584700.mp4
 
 #EXTINF:-1,Iron Man 2008
 http://newtube.ps/components/com_contushdvideoshare/videos/124_video.mp4
@@ -169,7 +165,16 @@ https://bk7l2w4nlx53-hls-live.5centscdn.com/WWE/961ac1c875f5884f31bdd177365ef1e3
 http://cdnak21.cast4u.info/channels/4/10804.m3u8
 #EXTINF:79,Fox Sports News
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master640x360.m3u8
-
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3522.png",TSN 1 HD
+http://vvn.neoredi.com/iptv/ch3522?code=170140343781561&key=12157
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3525.png",TSN 4 HD
+http://vvn.neoredi.com/iptv/ch3525?code=170140343781561&key=51646
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3523.png",TSN 2 HD
+http://vvn.neoredi.com/iptv/ch3523?code=170140343781561&key=54617
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3524.png",TSN 3 HD
+http://vvn.neoredi.com/iptv/ch3524?code=170140343781561&key=24582
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3526.png",TSN 5 HD
+http://vvn.neoredi.com/iptv/ch3526?code=170140343781561&key=38701
 
 
 PODCAST
@@ -182,6 +187,7 @@ TV SERIES
 
 
 Movies
+
 #EXTINF:0 tvg-logo="https://marruda3.files.wordpress.com/2017/08/annabelle_creation_poster.jpg" group-title="MOVIE",Annabelle: Creation (2017)
 http://cdnvod.setv.ca/hls/Annabelle.2.Creation.2017.720p.BluRay.H264.AAC-RARBG.mp4/master.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/67/Wish_upon_ver2.jpg/220px-Wish_upon_ver2.jpg" group-title="MOVIE",Wish Upon (2017)
