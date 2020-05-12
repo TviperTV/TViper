@@ -112,7 +112,7 @@ http://ott.artmott.com/DisneyChannel/tracks-v1a1/mono.m3u8
 http://ott.artmott.com/E!/tracks-v1a1/mono.m3u8
 #EXTINF:72,Dove Channel
 https://a.jsrdn.com/broadcast/76yg4erz/c.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/67/Wish_upon_ver2.jpg/220px-Wish_upon_ver2.jpg" group-title="MOVIE",InfoWars HD
+#EXTINF:0 tvg-logo="https://upload.https://cdn.muckrock.com/news_images/2017/08/01/INFOcov.jpg.1200x400_q85_crop.jpg" group-title=ENT",InfoWars HD
 http://wpc.9ec1.edgecastcdn.net/249EC1/infowarshd-edgecast/hd720.m3u8
 #EXTINF:216,Plant-Based Network HD
 https://hls-cdn.tvstartup.net/barakyah-channel/live/pbtv/chunklist_w1880221002.m3u8
