@@ -1,3 +1,7 @@
+#EXTINF:-1 group-title="Эфирные",Бобёр
+http://192.168.186.125:7088/udp/225.1.6.112:1000
+
+
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1",TRT 1
 https://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
 #EXTINF:199,Live Event - Coronavirus Coverage
