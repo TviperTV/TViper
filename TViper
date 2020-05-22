@@ -1,5 +1,22 @@
-http://2gb1.tvcdn.online:8080/get.php?username=uJj6yYq0iq&password=dEJfuBVQS8&type=m3u
-
+#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1053.png",SKY Sport news UK
+http://vvn.neoredi.com/iptv/ch1053?code=170140343781561&key=60744
+#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/922.png",SKY Sport Football UK
+http://vvn.neoredi.com/iptv/ch922?code=170140343781561&key=51453
+#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/937.png",Sky Sport Premium UK
+http://vvn.neoredi.com/iptv/ch937?code=170140343781561&key=45814
+#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/914.png",SKY Sport Golf UK
+http://vvn.neoredi.com/iptv/ch914?code=170140343781561&key=24232
+#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/915.png",SKY Sport Action UK
+http://vvn.neoredi.com/iptv/ch915?code=170140343781561&key=17364
+#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/916.png",SKY Sport Criket UK
+http://vvn.neoredi.com/iptv/ch916?code=170140343781561&key=53298
+#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/931.png",Sport Mix UK
+http://vvn.neoredi.com/iptv/ch931?code=170140343781561&key=39132
+#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1828.png",BT Sport 1
+http://vvn.neoredi.com/iptv/ch1828?code=170140343781561&key=53230
+#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1829.png",BT Sport 2
+http://vvn.neoredi.com/iptv/ch1829?code=170140343781561&key=29406
+#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1830.png",BT Sport 3
 
 #EXTINF:199,Live Event - Coronavirus Coverage
 https://live.foxnews.com/4cd873537d834444ac8f882831463889/us-east-1/694940094001/playlist.m3u8
